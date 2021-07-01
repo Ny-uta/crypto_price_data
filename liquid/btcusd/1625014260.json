@@ -1,0 +1,4666 @@
+[
+  {
+    "close_time": 1625014260,
+    "close_time_dt": "2021/06/30 00:51",
+    "open_price": 35969.18,
+    "high_price": 35998.63,
+    "low_price": 35969.18,
+    "close_price": 35998.63
+  },
+  {
+    "close_time": 1625014320,
+    "close_time_dt": "2021/06/30 00:52",
+    "open_price": 36020.63,
+    "high_price": 36020.63,
+    "low_price": 36020.63,
+    "close_price": 36020.63
+  },
+  {
+    "close_time": 1625014440,
+    "close_time_dt": "2021/06/30 00:54",
+    "open_price": 36021.55,
+    "high_price": 36021.55,
+    "low_price": 36021.55,
+    "close_price": 36021.55
+  },
+  {
+    "close_time": 1625014560,
+    "close_time_dt": "2021/06/30 00:56",
+    "open_price": 35998.56,
+    "high_price": 35998.56,
+    "low_price": 35998.56,
+    "close_price": 35998.56
+  },
+  {
+    "close_time": 1625014620,
+    "close_time_dt": "2021/06/30 00:57",
+    "open_price": 35987.83,
+    "high_price": 35987.83,
+    "low_price": 35987.83,
+    "close_price": 35987.83
+  },
+  {
+    "close_time": 1625015100,
+    "close_time_dt": "2021/06/30 01:05",
+    "open_price": 35854.02,
+    "high_price": 35865.51,
+    "low_price": 35854.02,
+    "close_price": 35865.51
+  },
+  {
+    "close_time": 1625015520,
+    "close_time_dt": "2021/06/30 01:12",
+    "open_price": 35804.56,
+    "high_price": 35804.56,
+    "low_price": 35804.56,
+    "close_price": 35804.56
+  },
+  {
+    "close_time": 1625015580,
+    "close_time_dt": "2021/06/30 01:13",
+    "open_price": 35864.96,
+    "high_price": 35879.38,
+    "low_price": 35864.96,
+    "close_price": 35879.38
+  },
+  {
+    "close_time": 1625015880,
+    "close_time_dt": "2021/06/30 01:18",
+    "open_price": 35809.34,
+    "high_price": 35809.34,
+    "low_price": 35809.34,
+    "close_price": 35809.34
+  },
+  {
+    "close_time": 1625015940,
+    "close_time_dt": "2021/06/30 01:19",
+    "open_price": 35804.34,
+    "high_price": 35804.34,
+    "low_price": 35804.34,
+    "close_price": 35804.34
+  },
+  {
+    "close_time": 1625016000,
+    "close_time_dt": "2021/06/30 01:20",
+    "open_price": 35787.82,
+    "high_price": 35787.82,
+    "low_price": 35787.82,
+    "close_price": 35787.82
+  },
+  {
+    "close_time": 1625016060,
+    "close_time_dt": "2021/06/30 01:21",
+    "open_price": 35790.83,
+    "high_price": 35790.83,
+    "low_price": 35790.83,
+    "close_price": 35790.83
+  },
+  {
+    "close_time": 1625016240,
+    "close_time_dt": "2021/06/30 01:24",
+    "open_price": 35775.78,
+    "high_price": 35775.78,
+    "low_price": 35775.78,
+    "close_price": 35775.78
+  },
+  {
+    "close_time": 1625016300,
+    "close_time_dt": "2021/06/30 01:25",
+    "open_price": 35801.06,
+    "high_price": 35801.06,
+    "low_price": 35801.06,
+    "close_price": 35801.06
+  },
+  {
+    "close_time": 1625016660,
+    "close_time_dt": "2021/06/30 01:31",
+    "open_price": 35792.73,
+    "high_price": 35792.73,
+    "low_price": 35792.73,
+    "close_price": 35792.73
+  },
+  {
+    "close_time": 1625016840,
+    "close_time_dt": "2021/06/30 01:34",
+    "open_price": 35791.73,
+    "high_price": 35829.39,
+    "low_price": 35791.73,
+    "close_price": 35829.39
+  },
+  {
+    "close_time": 1625017140,
+    "close_time_dt": "2021/06/30 01:39",
+    "open_price": 35870.01,
+    "high_price": 35879.66,
+    "low_price": 35870.01,
+    "close_price": 35879.66
+  },
+  {
+    "close_time": 1625017260,
+    "close_time_dt": "2021/06/30 01:41",
+    "open_price": 35870.34,
+    "high_price": 35893,
+    "low_price": 35870.34,
+    "close_price": 35893
+  },
+  {
+    "close_time": 1625017500,
+    "close_time_dt": "2021/06/30 01:45",
+    "open_price": 35876.27,
+    "high_price": 35876.27,
+    "low_price": 35876.27,
+    "close_price": 35876.27
+  },
+  {
+    "close_time": 1625017560,
+    "close_time_dt": "2021/06/30 01:46",
+    "open_price": 35828.19,
+    "high_price": 35828.19,
+    "low_price": 35825.83,
+    "close_price": 35825.83
+  },
+  {
+    "close_time": 1625017920,
+    "close_time_dt": "2021/06/30 01:52",
+    "open_price": 35801.66,
+    "high_price": 35801.66,
+    "low_price": 35801.66,
+    "close_price": 35801.66
+  },
+  {
+    "close_time": 1625018100,
+    "close_time_dt": "2021/06/30 01:55",
+    "open_price": 35808.88,
+    "high_price": 35808.88,
+    "low_price": 35808.88,
+    "close_price": 35808.88
+  },
+  {
+    "close_time": 1625018520,
+    "close_time_dt": "2021/06/30 02:02",
+    "open_price": 35760.92,
+    "high_price": 35760.92,
+    "low_price": 35760.92,
+    "close_price": 35760.92
+  },
+  {
+    "close_time": 1625018640,
+    "close_time_dt": "2021/06/30 02:04",
+    "open_price": 35777.22,
+    "high_price": 35799.34,
+    "low_price": 35777.22,
+    "close_price": 35799.34
+  },
+  {
+    "close_time": 1625018820,
+    "close_time_dt": "2021/06/30 02:07",
+    "open_price": 35799.09,
+    "high_price": 35799.09,
+    "low_price": 35799.09,
+    "close_price": 35799.09
+  },
+  {
+    "close_time": 1625019660,
+    "close_time_dt": "2021/06/30 02:21",
+    "open_price": 35759.35,
+    "high_price": 35807.22,
+    "low_price": 35759.35,
+    "close_price": 35807.22
+  },
+  {
+    "close_time": 1625020200,
+    "close_time_dt": "2021/06/30 02:30",
+    "open_price": 35791.96,
+    "high_price": 35791.96,
+    "low_price": 35791.96,
+    "close_price": 35791.96
+  },
+  {
+    "close_time": 1625020560,
+    "close_time_dt": "2021/06/30 02:36",
+    "open_price": 35833.72,
+    "high_price": 35833.72,
+    "low_price": 35833.72,
+    "close_price": 35833.72
+  },
+  {
+    "close_time": 1625020800,
+    "close_time_dt": "2021/06/30 02:40",
+    "open_price": 35805.78,
+    "high_price": 35805.78,
+    "low_price": 35805.78,
+    "close_price": 35805.78
+  },
+  {
+    "close_time": 1625020920,
+    "close_time_dt": "2021/06/30 02:42",
+    "open_price": 35833.72,
+    "high_price": 35839.87,
+    "low_price": 35833.72,
+    "close_price": 35839.87
+  },
+  {
+    "close_time": 1625020980,
+    "close_time_dt": "2021/06/30 02:43",
+    "open_price": 35864.71,
+    "high_price": 35882.06,
+    "low_price": 35864.71,
+    "close_price": 35882.06
+  },
+  {
+    "close_time": 1625021040,
+    "close_time_dt": "2021/06/30 02:44",
+    "open_price": 35873.3,
+    "high_price": 35873.3,
+    "low_price": 35873.3,
+    "close_price": 35873.3
+  },
+  {
+    "close_time": 1625021160,
+    "close_time_dt": "2021/06/30 02:46",
+    "open_price": 35910.08,
+    "high_price": 35910.09,
+    "low_price": 35888.64,
+    "close_price": 35888.64
+  },
+  {
+    "close_time": 1625021340,
+    "close_time_dt": "2021/06/30 02:49",
+    "open_price": 35862.3,
+    "high_price": 35862.3,
+    "low_price": 35862.3,
+    "close_price": 35862.3
+  },
+  {
+    "close_time": 1625021400,
+    "close_time_dt": "2021/06/30 02:50",
+    "open_price": 35858.29,
+    "high_price": 35858.29,
+    "low_price": 35858.29,
+    "close_price": 35858.29
+  },
+  {
+    "close_time": 1625021460,
+    "close_time_dt": "2021/06/30 02:51",
+    "open_price": 35862.3,
+    "high_price": 35862.3,
+    "low_price": 35862.3,
+    "close_price": 35862.3
+  },
+  {
+    "close_time": 1625021520,
+    "close_time_dt": "2021/06/30 02:52",
+    "open_price": 35816.84,
+    "high_price": 35825.61,
+    "low_price": 35816.84,
+    "close_price": 35825.61
+  },
+  {
+    "close_time": 1625022060,
+    "close_time_dt": "2021/06/30 03:01",
+    "open_price": 35744.5,
+    "high_price": 35744.5,
+    "low_price": 35744.5,
+    "close_price": 35744.5
+  },
+  {
+    "close_time": 1625022300,
+    "close_time_dt": "2021/06/30 03:05",
+    "open_price": 35722.17,
+    "high_price": 35722.17,
+    "low_price": 35722.17,
+    "close_price": 35722.17
+  },
+  {
+    "close_time": 1625022360,
+    "close_time_dt": "2021/06/30 03:06",
+    "open_price": 35701.34,
+    "high_price": 35701.34,
+    "low_price": 35701.34,
+    "close_price": 35701.34
+  },
+  {
+    "close_time": 1625022480,
+    "close_time_dt": "2021/06/30 03:08",
+    "open_price": 35645.01,
+    "high_price": 35645.01,
+    "low_price": 35645.01,
+    "close_price": 35645.01
+  },
+  {
+    "close_time": 1625022600,
+    "close_time_dt": "2021/06/30 03:10",
+    "open_price": 35635.9,
+    "high_price": 35642.34,
+    "low_price": 35635.9,
+    "close_price": 35642.34
+  },
+  {
+    "close_time": 1625022720,
+    "close_time_dt": "2021/06/30 03:12",
+    "open_price": 35617.21,
+    "high_price": 35617.21,
+    "low_price": 35583.94,
+    "close_price": 35583.94
+  },
+  {
+    "close_time": 1625022780,
+    "close_time_dt": "2021/06/30 03:13",
+    "open_price": 35546.79,
+    "high_price": 35546.79,
+    "low_price": 35546.79,
+    "close_price": 35546.79
+  },
+  {
+    "close_time": 1625022840,
+    "close_time_dt": "2021/06/30 03:14",
+    "open_price": 35521,
+    "high_price": 35521,
+    "low_price": 35521,
+    "close_price": 35521
+  },
+  {
+    "close_time": 1625022900,
+    "close_time_dt": "2021/06/30 03:15",
+    "open_price": 35477.17,
+    "high_price": 35477.17,
+    "low_price": 35399.48,
+    "close_price": 35399.48
+  },
+  {
+    "close_time": 1625022960,
+    "close_time_dt": "2021/06/30 03:16",
+    "open_price": 35440.23,
+    "high_price": 35440.23,
+    "low_price": 35440.23,
+    "close_price": 35440.23
+  },
+  {
+    "close_time": 1625023140,
+    "close_time_dt": "2021/06/30 03:19",
+    "open_price": 35407.27,
+    "high_price": 35407.27,
+    "low_price": 35355.13,
+    "close_price": 35355.13
+  },
+  {
+    "close_time": 1625023200,
+    "close_time_dt": "2021/06/30 03:20",
+    "open_price": 35346.98,
+    "high_price": 35346.98,
+    "low_price": 35346.98,
+    "close_price": 35346.98
+  },
+  {
+    "close_time": 1625023260,
+    "close_time_dt": "2021/06/30 03:21",
+    "open_price": 35378.11,
+    "high_price": 35378.31,
+    "low_price": 35378.11,
+    "close_price": 35378.31
+  },
+  {
+    "close_time": 1625023380,
+    "close_time_dt": "2021/06/30 03:23",
+    "open_price": 35241.88,
+    "high_price": 35241.88,
+    "low_price": 35241.88,
+    "close_price": 35241.88
+  },
+  {
+    "close_time": 1625023500,
+    "close_time_dt": "2021/06/30 03:25",
+    "open_price": 35233.76,
+    "high_price": 35233.76,
+    "low_price": 35233.76,
+    "close_price": 35233.76
+  },
+  {
+    "close_time": 1625023860,
+    "close_time_dt": "2021/06/30 03:31",
+    "open_price": 35262.76,
+    "high_price": 35262.76,
+    "low_price": 35262.76,
+    "close_price": 35262.76
+  },
+  {
+    "close_time": 1625023980,
+    "close_time_dt": "2021/06/30 03:33",
+    "open_price": 35300,
+    "high_price": 35300,
+    "low_price": 35300,
+    "close_price": 35300
+  },
+  {
+    "close_time": 1625024040,
+    "close_time_dt": "2021/06/30 03:34",
+    "open_price": 35300,
+    "high_price": 35300,
+    "low_price": 35300,
+    "close_price": 35300
+  },
+  {
+    "close_time": 1625024100,
+    "close_time_dt": "2021/06/30 03:35",
+    "open_price": 35300,
+    "high_price": 35300,
+    "low_price": 35254.67,
+    "close_price": 35276.01
+  },
+  {
+    "close_time": 1625024160,
+    "close_time_dt": "2021/06/30 03:36",
+    "open_price": 35342.97,
+    "high_price": 35342.97,
+    "low_price": 35298.99,
+    "close_price": 35305.66
+  },
+  {
+    "close_time": 1625024280,
+    "close_time_dt": "2021/06/30 03:38",
+    "open_price": 35247.82,
+    "high_price": 35247.82,
+    "low_price": 35247.82,
+    "close_price": 35247.82
+  },
+  {
+    "close_time": 1625024340,
+    "close_time_dt": "2021/06/30 03:39",
+    "open_price": 35215.39,
+    "high_price": 35215.39,
+    "low_price": 35215.39,
+    "close_price": 35215.39
+  },
+  {
+    "close_time": 1625024400,
+    "close_time_dt": "2021/06/30 03:40",
+    "open_price": 35290.55,
+    "high_price": 35290.55,
+    "low_price": 35290.55,
+    "close_price": 35290.55
+  },
+  {
+    "close_time": 1625024460,
+    "close_time_dt": "2021/06/30 03:41",
+    "open_price": 35299.92,
+    "high_price": 35309.35,
+    "low_price": 35299.92,
+    "close_price": 35309.35
+  },
+  {
+    "close_time": 1625024520,
+    "close_time_dt": "2021/06/30 03:42",
+    "open_price": 35307.43,
+    "high_price": 35307.43,
+    "low_price": 35307.43,
+    "close_price": 35307.43
+  },
+  {
+    "close_time": 1625024640,
+    "close_time_dt": "2021/06/30 03:44",
+    "open_price": 35339.54,
+    "high_price": 35339.54,
+    "low_price": 35339.54,
+    "close_price": 35339.54
+  },
+  {
+    "close_time": 1625024700,
+    "close_time_dt": "2021/06/30 03:45",
+    "open_price": 35348.42,
+    "high_price": 35348.42,
+    "low_price": 35348.42,
+    "close_price": 35348.42
+  },
+  {
+    "close_time": 1625024940,
+    "close_time_dt": "2021/06/30 03:49",
+    "open_price": 35284.55,
+    "high_price": 35284.55,
+    "low_price": 35284.55,
+    "close_price": 35284.55
+  },
+  {
+    "close_time": 1625025000,
+    "close_time_dt": "2021/06/30 03:50",
+    "open_price": 35274.09,
+    "high_price": 35274.09,
+    "low_price": 35274.09,
+    "close_price": 35274.09
+  },
+  {
+    "close_time": 1625025300,
+    "close_time_dt": "2021/06/30 03:55",
+    "open_price": 35228.8,
+    "high_price": 35228.8,
+    "low_price": 35228.8,
+    "close_price": 35228.8
+  },
+  {
+    "close_time": 1625025360,
+    "close_time_dt": "2021/06/30 03:56",
+    "open_price": 35220.58,
+    "high_price": 35275.4,
+    "low_price": 35220.58,
+    "close_price": 35275.4
+  },
+  {
+    "close_time": 1625025480,
+    "close_time_dt": "2021/06/30 03:58",
+    "open_price": 35240.25,
+    "high_price": 35240.25,
+    "low_price": 35219.13,
+    "close_price": 35234.97
+  },
+  {
+    "close_time": 1625025540,
+    "close_time_dt": "2021/06/30 03:59",
+    "open_price": 35136.21,
+    "high_price": 35137.45,
+    "low_price": 35136.21,
+    "close_price": 35136.21
+  },
+  {
+    "close_time": 1625025600,
+    "close_time_dt": "2021/06/30 04:00",
+    "open_price": 35036.93,
+    "high_price": 35049.8,
+    "low_price": 35000,
+    "close_price": 35049.8
+  },
+  {
+    "close_time": 1625025660,
+    "close_time_dt": "2021/06/30 04:01",
+    "open_price": 35145.7,
+    "high_price": 35145.7,
+    "low_price": 35145.7,
+    "close_price": 35145.7
+  },
+  {
+    "close_time": 1625025720,
+    "close_time_dt": "2021/06/30 04:02",
+    "open_price": 35163.62,
+    "high_price": 35163.62,
+    "low_price": 35163.62,
+    "close_price": 35163.62
+  },
+  {
+    "close_time": 1625025840,
+    "close_time_dt": "2021/06/30 04:04",
+    "open_price": 35192.83,
+    "high_price": 35201.17,
+    "low_price": 35192.83,
+    "close_price": 35201.17
+  },
+  {
+    "close_time": 1625026080,
+    "close_time_dt": "2021/06/30 04:08",
+    "open_price": 35119.51,
+    "high_price": 35119.51,
+    "low_price": 35119.51,
+    "close_price": 35119.51
+  },
+  {
+    "close_time": 1625026260,
+    "close_time_dt": "2021/06/30 04:11",
+    "open_price": 35162.49,
+    "high_price": 35162.49,
+    "low_price": 35162.49,
+    "close_price": 35162.49
+  },
+  {
+    "close_time": 1625026440,
+    "close_time_dt": "2021/06/30 04:14",
+    "open_price": 35207.42,
+    "high_price": 35207.42,
+    "low_price": 35207.42,
+    "close_price": 35207.42
+  },
+  {
+    "close_time": 1625026500,
+    "close_time_dt": "2021/06/30 04:15",
+    "open_price": 35240.79,
+    "high_price": 35240.79,
+    "low_price": 35240.79,
+    "close_price": 35240.79
+  },
+  {
+    "close_time": 1625026680,
+    "close_time_dt": "2021/06/30 04:18",
+    "open_price": 35253.22,
+    "high_price": 35253.22,
+    "low_price": 35253.22,
+    "close_price": 35253.22
+  },
+  {
+    "close_time": 1625026920,
+    "close_time_dt": "2021/06/30 04:22",
+    "open_price": 35288.87,
+    "high_price": 35288.87,
+    "low_price": 35288.87,
+    "close_price": 35288.87
+  },
+  {
+    "close_time": 1625027580,
+    "close_time_dt": "2021/06/30 04:33",
+    "open_price": 35172.89,
+    "high_price": 35172.9,
+    "low_price": 35172.89,
+    "close_price": 35172.9
+  },
+  {
+    "close_time": 1625027940,
+    "close_time_dt": "2021/06/30 04:39",
+    "open_price": 35050.42,
+    "high_price": 35050.42,
+    "low_price": 35050.42,
+    "close_price": 35050.42
+  },
+  {
+    "close_time": 1625028000,
+    "close_time_dt": "2021/06/30 04:40",
+    "open_price": 35000,
+    "high_price": 35000,
+    "low_price": 35000,
+    "close_price": 35000
+  },
+  {
+    "close_time": 1625028060,
+    "close_time_dt": "2021/06/30 04:41",
+    "open_price": 34929.34,
+    "high_price": 34929.34,
+    "low_price": 34929.34,
+    "close_price": 34929.34
+  },
+  {
+    "close_time": 1625028180,
+    "close_time_dt": "2021/06/30 04:43",
+    "open_price": 34892.2,
+    "high_price": 34892.2,
+    "low_price": 34844.63,
+    "close_price": 34844.63
+  },
+  {
+    "close_time": 1625028240,
+    "close_time_dt": "2021/06/30 04:44",
+    "open_price": 34824.76,
+    "high_price": 34824.76,
+    "low_price": 34786.29,
+    "close_price": 34786.29
+  },
+  {
+    "close_time": 1625028420,
+    "close_time_dt": "2021/06/30 04:47",
+    "open_price": 34702.19,
+    "high_price": 34702.19,
+    "low_price": 34685.87,
+    "close_price": 34685.87
+  },
+  {
+    "close_time": 1625028480,
+    "close_time_dt": "2021/06/30 04:48",
+    "open_price": 34795.68,
+    "high_price": 34795.68,
+    "low_price": 34780.74,
+    "close_price": 34780.74
+  },
+  {
+    "close_time": 1625028720,
+    "close_time_dt": "2021/06/30 04:52",
+    "open_price": 34759.99,
+    "high_price": 34802.81,
+    "low_price": 34759.99,
+    "close_price": 34782.1
+  },
+  {
+    "close_time": 1625029020,
+    "close_time_dt": "2021/06/30 04:57",
+    "open_price": 34756.52,
+    "high_price": 34786.81,
+    "low_price": 34756.52,
+    "close_price": 34786.81
+  },
+  {
+    "close_time": 1625029380,
+    "close_time_dt": "2021/06/30 05:03",
+    "open_price": 34767.18,
+    "high_price": 34767.18,
+    "low_price": 34767.18,
+    "close_price": 34767.18
+  },
+  {
+    "close_time": 1625029440,
+    "close_time_dt": "2021/06/30 05:04",
+    "open_price": 34800.52,
+    "high_price": 34800.52,
+    "low_price": 34800.52,
+    "close_price": 34800.52
+  },
+  {
+    "close_time": 1625029800,
+    "close_time_dt": "2021/06/30 05:10",
+    "open_price": 34909.11,
+    "high_price": 34909.11,
+    "low_price": 34909.11,
+    "close_price": 34909.11
+  },
+  {
+    "close_time": 1625029980,
+    "close_time_dt": "2021/06/30 05:13",
+    "open_price": 34901.22,
+    "high_price": 34902.24,
+    "low_price": 34901.22,
+    "close_price": 34902.24
+  },
+  {
+    "close_time": 1625030040,
+    "close_time_dt": "2021/06/30 05:14",
+    "open_price": 34886.26,
+    "high_price": 34886.26,
+    "low_price": 34855.83,
+    "close_price": 34855.83
+  },
+  {
+    "close_time": 1625030160,
+    "close_time_dt": "2021/06/30 05:16",
+    "open_price": 34853.57,
+    "high_price": 34876.87,
+    "low_price": 34853.57,
+    "close_price": 34876.87
+  },
+  {
+    "close_time": 1625030220,
+    "close_time_dt": "2021/06/30 05:17",
+    "open_price": 34897.43,
+    "high_price": 34897.43,
+    "low_price": 34880.81,
+    "close_price": 34880.81
+  },
+  {
+    "close_time": 1625030280,
+    "close_time_dt": "2021/06/30 05:18",
+    "open_price": 34885.17,
+    "high_price": 34885.17,
+    "low_price": 34885.17,
+    "close_price": 34885.17
+  },
+  {
+    "close_time": 1625030340,
+    "close_time_dt": "2021/06/30 05:19",
+    "open_price": 34907,
+    "high_price": 34910.73,
+    "low_price": 34907,
+    "close_price": 34910.73
+  },
+  {
+    "close_time": 1625030700,
+    "close_time_dt": "2021/06/30 05:25",
+    "open_price": 34808.45,
+    "high_price": 34808.45,
+    "low_price": 34808.45,
+    "close_price": 34808.45
+  },
+  {
+    "close_time": 1625030880,
+    "close_time_dt": "2021/06/30 05:28",
+    "open_price": 34814.46,
+    "high_price": 34814.46,
+    "low_price": 34814.46,
+    "close_price": 34814.46
+  },
+  {
+    "close_time": 1625031120,
+    "close_time_dt": "2021/06/30 05:32",
+    "open_price": 34884.49,
+    "high_price": 34884.49,
+    "low_price": 34884.49,
+    "close_price": 34884.49
+  },
+  {
+    "close_time": 1625031300,
+    "close_time_dt": "2021/06/30 05:35",
+    "open_price": 34934.67,
+    "high_price": 34934.67,
+    "low_price": 34875.19,
+    "close_price": 34875.19
+  },
+  {
+    "close_time": 1625031360,
+    "close_time_dt": "2021/06/30 05:36",
+    "open_price": 34839.5,
+    "high_price": 34889.11,
+    "low_price": 34839.5,
+    "close_price": 34889.11
+  },
+  {
+    "close_time": 1625031480,
+    "close_time_dt": "2021/06/30 05:38",
+    "open_price": 34905.63,
+    "high_price": 34905.63,
+    "low_price": 34890.56,
+    "close_price": 34899.25
+  },
+  {
+    "close_time": 1625031540,
+    "close_time_dt": "2021/06/30 05:39",
+    "open_price": 34911.23,
+    "high_price": 34927.17,
+    "low_price": 34867.86,
+    "close_price": 34927.17
+  },
+  {
+    "close_time": 1625031600,
+    "close_time_dt": "2021/06/30 05:40",
+    "open_price": 34927.17,
+    "high_price": 34927.17,
+    "low_price": 34919.66,
+    "close_price": 34919.66
+  },
+  {
+    "close_time": 1625031720,
+    "close_time_dt": "2021/06/30 05:42",
+    "open_price": 34895.12,
+    "high_price": 34895.12,
+    "low_price": 34829.54,
+    "close_price": 34829.54
+  },
+  {
+    "close_time": 1625031780,
+    "close_time_dt": "2021/06/30 05:43",
+    "open_price": 34825.63,
+    "high_price": 34825.63,
+    "low_price": 34825.63,
+    "close_price": 34825.63
+  },
+  {
+    "close_time": 1625031840,
+    "close_time_dt": "2021/06/30 05:44",
+    "open_price": 34851.78,
+    "high_price": 34851.78,
+    "low_price": 34827.65,
+    "close_price": 34827.65
+  },
+  {
+    "close_time": 1625031900,
+    "close_time_dt": "2021/06/30 05:45",
+    "open_price": 34839.17,
+    "high_price": 34864.07,
+    "low_price": 34839.17,
+    "close_price": 34840.56
+  },
+  {
+    "close_time": 1625031960,
+    "close_time_dt": "2021/06/30 05:46",
+    "open_price": 34825.35,
+    "high_price": 34827.2,
+    "low_price": 34825.35,
+    "close_price": 34827.2
+  },
+  {
+    "close_time": 1625032020,
+    "close_time_dt": "2021/06/30 05:47",
+    "open_price": 34815.63,
+    "high_price": 34815.63,
+    "low_price": 34813.43,
+    "close_price": 34813.43
+  },
+  {
+    "close_time": 1625032080,
+    "close_time_dt": "2021/06/30 05:48",
+    "open_price": 34860.77,
+    "high_price": 34881.09,
+    "low_price": 34860.77,
+    "close_price": 34881.09
+  },
+  {
+    "close_time": 1625032140,
+    "close_time_dt": "2021/06/30 05:49",
+    "open_price": 34888.4,
+    "high_price": 34888.4,
+    "low_price": 34888.4,
+    "close_price": 34888.4
+  },
+  {
+    "close_time": 1625032260,
+    "close_time_dt": "2021/06/30 05:51",
+    "open_price": 34884.46,
+    "high_price": 34909.98,
+    "low_price": 34881.55,
+    "close_price": 34881.55
+  },
+  {
+    "close_time": 1625032320,
+    "close_time_dt": "2021/06/30 05:52",
+    "open_price": 34888.8,
+    "high_price": 34888.8,
+    "low_price": 34877.97,
+    "close_price": 34877.97
+  },
+  {
+    "close_time": 1625032380,
+    "close_time_dt": "2021/06/30 05:53",
+    "open_price": 34854.19,
+    "high_price": 34860.5,
+    "low_price": 34833.9,
+    "close_price": 34860.5
+  },
+  {
+    "close_time": 1625032440,
+    "close_time_dt": "2021/06/30 05:54",
+    "open_price": 34896.72,
+    "high_price": 34896.72,
+    "low_price": 34896.72,
+    "close_price": 34896.72
+  },
+  {
+    "close_time": 1625032500,
+    "close_time_dt": "2021/06/30 05:55",
+    "open_price": 34871.92,
+    "high_price": 34871.92,
+    "low_price": 34871.92,
+    "close_price": 34871.92
+  },
+  {
+    "close_time": 1625032620,
+    "close_time_dt": "2021/06/30 05:57",
+    "open_price": 34860.29,
+    "high_price": 34860.29,
+    "low_price": 34860.29,
+    "close_price": 34860.29
+  },
+  {
+    "close_time": 1625032680,
+    "close_time_dt": "2021/06/30 05:58",
+    "open_price": 34855.36,
+    "high_price": 34855.36,
+    "low_price": 34855.36,
+    "close_price": 34855.36
+  },
+  {
+    "close_time": 1625032740,
+    "close_time_dt": "2021/06/30 05:59",
+    "open_price": 34814.21,
+    "high_price": 34816.92,
+    "low_price": 34814.21,
+    "close_price": 34816.92
+  },
+  {
+    "close_time": 1625032800,
+    "close_time_dt": "2021/06/30 06:00",
+    "open_price": 34805.24,
+    "high_price": 34806.65,
+    "low_price": 34805.24,
+    "close_price": 34806.65
+  },
+  {
+    "close_time": 1625032920,
+    "close_time_dt": "2021/06/30 06:02",
+    "open_price": 34832.48,
+    "high_price": 34874.46,
+    "low_price": 34832.48,
+    "close_price": 34874.46
+  },
+  {
+    "close_time": 1625033100,
+    "close_time_dt": "2021/06/30 06:05",
+    "open_price": 34927.45,
+    "high_price": 34927.45,
+    "low_price": 34927.45,
+    "close_price": 34927.45
+  },
+  {
+    "close_time": 1625033160,
+    "close_time_dt": "2021/06/30 06:06",
+    "open_price": 35063.74,
+    "high_price": 35101.56,
+    "low_price": 35058.25,
+    "close_price": 35101.56
+  },
+  {
+    "close_time": 1625033640,
+    "close_time_dt": "2021/06/30 06:14",
+    "open_price": 35074.23,
+    "high_price": 35074.23,
+    "low_price": 35074.23,
+    "close_price": 35074.23
+  },
+  {
+    "close_time": 1625033700,
+    "close_time_dt": "2021/06/30 06:15",
+    "open_price": 35117.39,
+    "high_price": 35182.07,
+    "low_price": 35088.48,
+    "close_price": 35107.63
+  },
+  {
+    "close_time": 1625033760,
+    "close_time_dt": "2021/06/30 06:16",
+    "open_price": 35123.46,
+    "high_price": 35123.46,
+    "low_price": 35123.46,
+    "close_price": 35123.46
+  },
+  {
+    "close_time": 1625033940,
+    "close_time_dt": "2021/06/30 06:19",
+    "open_price": 35026.52,
+    "high_price": 35026.52,
+    "low_price": 35026.52,
+    "close_price": 35026.52
+  },
+  {
+    "close_time": 1625034240,
+    "close_time_dt": "2021/06/30 06:24",
+    "open_price": 34968,
+    "high_price": 34968,
+    "low_price": 34968,
+    "close_price": 34968
+  },
+  {
+    "close_time": 1625034300,
+    "close_time_dt": "2021/06/30 06:25",
+    "open_price": 35002.69,
+    "high_price": 35028.96,
+    "low_price": 35002.69,
+    "close_price": 35028.96
+  },
+  {
+    "close_time": 1625034420,
+    "close_time_dt": "2021/06/30 06:27",
+    "open_price": 35021.93,
+    "high_price": 35021.93,
+    "low_price": 35021.93,
+    "close_price": 35021.93
+  },
+  {
+    "close_time": 1625034480,
+    "close_time_dt": "2021/06/30 06:28",
+    "open_price": 35054.13,
+    "high_price": 35061.39,
+    "low_price": 35054.13,
+    "close_price": 35061.39
+  },
+  {
+    "close_time": 1625034660,
+    "close_time_dt": "2021/06/30 06:31",
+    "open_price": 35051.98,
+    "high_price": 35176.01,
+    "low_price": 35051.98,
+    "close_price": 35076.39
+  },
+  {
+    "close_time": 1625034720,
+    "close_time_dt": "2021/06/30 06:32",
+    "open_price": 35083.68,
+    "high_price": 35083.68,
+    "low_price": 35083.68,
+    "close_price": 35083.68
+  },
+  {
+    "close_time": 1625034780,
+    "close_time_dt": "2021/06/30 06:33",
+    "open_price": 35022.09,
+    "high_price": 35022.09,
+    "low_price": 35022.09,
+    "close_price": 35022.09
+  },
+  {
+    "close_time": 1625034840,
+    "close_time_dt": "2021/06/30 06:34",
+    "open_price": 35041.4,
+    "high_price": 35041.41,
+    "low_price": 35041.4,
+    "close_price": 35041.41
+  },
+  {
+    "close_time": 1625034900,
+    "close_time_dt": "2021/06/30 06:35",
+    "open_price": 35043.22,
+    "high_price": 35043.22,
+    "low_price": 35043.22,
+    "close_price": 35043.22
+  },
+  {
+    "close_time": 1625035020,
+    "close_time_dt": "2021/06/30 06:37",
+    "open_price": 35016.4,
+    "high_price": 35016.4,
+    "low_price": 35016.4,
+    "close_price": 35016.4
+  },
+  {
+    "close_time": 1625035140,
+    "close_time_dt": "2021/06/30 06:39",
+    "open_price": 35009.4,
+    "high_price": 35009.4,
+    "low_price": 35009.4,
+    "close_price": 35009.4
+  },
+  {
+    "close_time": 1625035200,
+    "close_time_dt": "2021/06/30 06:40",
+    "open_price": 34997.78,
+    "high_price": 34997.78,
+    "low_price": 34997.78,
+    "close_price": 34997.78
+  },
+  {
+    "close_time": 1625035260,
+    "close_time_dt": "2021/06/30 06:41",
+    "open_price": 34950.56,
+    "high_price": 34950.56,
+    "low_price": 34950.56,
+    "close_price": 34950.56
+  },
+  {
+    "close_time": 1625035320,
+    "close_time_dt": "2021/06/30 06:42",
+    "open_price": 34950,
+    "high_price": 34950,
+    "low_price": 34898.84,
+    "close_price": 34898.84
+  },
+  {
+    "close_time": 1625035380,
+    "close_time_dt": "2021/06/30 06:43",
+    "open_price": 34882.59,
+    "high_price": 34882.59,
+    "low_price": 34882.59,
+    "close_price": 34882.59
+  },
+  {
+    "close_time": 1625035440,
+    "close_time_dt": "2021/06/30 06:44",
+    "open_price": 34898.84,
+    "high_price": 34900.96,
+    "low_price": 34898.84,
+    "close_price": 34900.96
+  },
+  {
+    "close_time": 1625035800,
+    "close_time_dt": "2021/06/30 06:50",
+    "open_price": 35038.91,
+    "high_price": 35088.49,
+    "low_price": 35038.91,
+    "close_price": 35088.49
+  },
+  {
+    "close_time": 1625035920,
+    "close_time_dt": "2021/06/30 06:52",
+    "open_price": 34959.33,
+    "high_price": 34959.33,
+    "low_price": 34959.33,
+    "close_price": 34959.33
+  },
+  {
+    "close_time": 1625036760,
+    "close_time_dt": "2021/06/30 07:06",
+    "open_price": 35027.58,
+    "high_price": 35027.58,
+    "low_price": 35027.58,
+    "close_price": 35027.58
+  },
+  {
+    "close_time": 1625037540,
+    "close_time_dt": "2021/06/30 07:19",
+    "open_price": 34926.37,
+    "high_price": 34926.37,
+    "low_price": 34926.37,
+    "close_price": 34926.37
+  },
+  {
+    "close_time": 1625037660,
+    "close_time_dt": "2021/06/30 07:21",
+    "open_price": 34918.32,
+    "high_price": 34918.32,
+    "low_price": 34918.32,
+    "close_price": 34918.32
+  },
+  {
+    "close_time": 1625037720,
+    "close_time_dt": "2021/06/30 07:22",
+    "open_price": 34962.85,
+    "high_price": 34987.43,
+    "low_price": 34962.85,
+    "close_price": 34979.04
+  },
+  {
+    "close_time": 1625037780,
+    "close_time_dt": "2021/06/30 07:23",
+    "open_price": 35012.28,
+    "high_price": 35012.28,
+    "low_price": 35012.28,
+    "close_price": 35012.28
+  },
+  {
+    "close_time": 1625037840,
+    "close_time_dt": "2021/06/30 07:24",
+    "open_price": 35036.73,
+    "high_price": 35100,
+    "low_price": 35036.73,
+    "close_price": 35100
+  },
+  {
+    "close_time": 1625037900,
+    "close_time_dt": "2021/06/30 07:25",
+    "open_price": 35099.15,
+    "high_price": 35099.15,
+    "low_price": 35099.15,
+    "close_price": 35099.15
+  },
+  {
+    "close_time": 1625038200,
+    "close_time_dt": "2021/06/30 07:30",
+    "open_price": 35032.09,
+    "high_price": 35032.1,
+    "low_price": 35032.09,
+    "close_price": 35032.1
+  },
+  {
+    "close_time": 1625038380,
+    "close_time_dt": "2021/06/30 07:33",
+    "open_price": 35049.65,
+    "high_price": 35049.65,
+    "low_price": 35049.65,
+    "close_price": 35049.65
+  },
+  {
+    "close_time": 1625038440,
+    "close_time_dt": "2021/06/30 07:34",
+    "open_price": 35054.08,
+    "high_price": 35054.08,
+    "low_price": 35054.08,
+    "close_price": 35054.08
+  },
+  {
+    "close_time": 1625038620,
+    "close_time_dt": "2021/06/30 07:37",
+    "open_price": 35122.35,
+    "high_price": 35122.35,
+    "low_price": 35122.35,
+    "close_price": 35122.35
+  },
+  {
+    "close_time": 1625038680,
+    "close_time_dt": "2021/06/30 07:38",
+    "open_price": 35127.98,
+    "high_price": 35127.98,
+    "low_price": 35127.98,
+    "close_price": 35127.98
+  },
+  {
+    "close_time": 1625038860,
+    "close_time_dt": "2021/06/30 07:41",
+    "open_price": 35238.81,
+    "high_price": 35281.17,
+    "low_price": 35238.81,
+    "close_price": 35250.62
+  },
+  {
+    "close_time": 1625038920,
+    "close_time_dt": "2021/06/30 07:42",
+    "open_price": 35259.75,
+    "high_price": 35296.64,
+    "low_price": 35259.75,
+    "close_price": 35267.56
+  },
+  {
+    "close_time": 1625038980,
+    "close_time_dt": "2021/06/30 07:43",
+    "open_price": 35267.56,
+    "high_price": 35286.14,
+    "low_price": 35259.61,
+    "close_price": 35286.14
+  },
+  {
+    "close_time": 1625039040,
+    "close_time_dt": "2021/06/30 07:44",
+    "open_price": 35286.14,
+    "high_price": 35286.14,
+    "low_price": 35244.81,
+    "close_price": 35244.81
+  },
+  {
+    "close_time": 1625039100,
+    "close_time_dt": "2021/06/30 07:45",
+    "open_price": 35262.77,
+    "high_price": 35263.19,
+    "low_price": 35245.23,
+    "close_price": 35246.07
+  },
+  {
+    "close_time": 1625039160,
+    "close_time_dt": "2021/06/30 07:46",
+    "open_price": 35233.91,
+    "high_price": 35257,
+    "low_price": 35217.23,
+    "close_price": 35257
+  },
+  {
+    "close_time": 1625039220,
+    "close_time_dt": "2021/06/30 07:47",
+    "open_price": 35221.41,
+    "high_price": 35221.65,
+    "low_price": 35214.09,
+    "close_price": 35221.65
+  },
+  {
+    "close_time": 1625039280,
+    "close_time_dt": "2021/06/30 07:48",
+    "open_price": 35221.65,
+    "high_price": 35229.84,
+    "low_price": 35209.27,
+    "close_price": 35224.07
+  },
+  {
+    "close_time": 1625039340,
+    "close_time_dt": "2021/06/30 07:49",
+    "open_price": 35224.07,
+    "high_price": 35253.53,
+    "low_price": 35224.07,
+    "close_price": 35253.53
+  },
+  {
+    "close_time": 1625039400,
+    "close_time_dt": "2021/06/30 07:50",
+    "open_price": 35253.53,
+    "high_price": 35336.44,
+    "low_price": 35242.3,
+    "close_price": 35336.44
+  },
+  {
+    "close_time": 1625039460,
+    "close_time_dt": "2021/06/30 07:51",
+    "open_price": 35302.91,
+    "high_price": 35302.91,
+    "low_price": 35261.61,
+    "close_price": 35261.61
+  },
+  {
+    "close_time": 1625039520,
+    "close_time_dt": "2021/06/30 07:52",
+    "open_price": 35294.22,
+    "high_price": 35294.22,
+    "low_price": 35259.43,
+    "close_price": 35259.43
+  },
+  {
+    "close_time": 1625039580,
+    "close_time_dt": "2021/06/30 07:53",
+    "open_price": 35262.47,
+    "high_price": 35275.09,
+    "low_price": 35250.53,
+    "close_price": 35250.53
+  },
+  {
+    "close_time": 1625039640,
+    "close_time_dt": "2021/06/30 07:54",
+    "open_price": 35244.02,
+    "high_price": 35244.85,
+    "low_price": 35238.5,
+    "close_price": 35244.85
+  },
+  {
+    "close_time": 1625039700,
+    "close_time_dt": "2021/06/30 07:55",
+    "open_price": 35237.83,
+    "high_price": 35265.18,
+    "low_price": 35233.98,
+    "close_price": 35265.18
+  },
+  {
+    "close_time": 1625039760,
+    "close_time_dt": "2021/06/30 07:56",
+    "open_price": 35244.64,
+    "high_price": 35271.01,
+    "low_price": 35233.94,
+    "close_price": 35271.01
+  },
+  {
+    "close_time": 1625039820,
+    "close_time_dt": "2021/06/30 07:57",
+    "open_price": 35255.3,
+    "high_price": 35262.81,
+    "low_price": 35255.3,
+    "close_price": 35259.56
+  },
+  {
+    "close_time": 1625039880,
+    "close_time_dt": "2021/06/30 07:58",
+    "open_price": 35274.07,
+    "high_price": 35274.61,
+    "low_price": 35263.27,
+    "close_price": 35266.3
+  },
+  {
+    "close_time": 1625039940,
+    "close_time_dt": "2021/06/30 07:59",
+    "open_price": 35266.3,
+    "high_price": 35276.84,
+    "low_price": 35262.55,
+    "close_price": 35262.55
+  },
+  {
+    "close_time": 1625040000,
+    "close_time_dt": "2021/06/30 08:00",
+    "open_price": 35267.12,
+    "high_price": 35273.62,
+    "low_price": 35253.14,
+    "close_price": 35273.62
+  },
+  {
+    "close_time": 1625040060,
+    "close_time_dt": "2021/06/30 08:01",
+    "open_price": 35284.11,
+    "high_price": 35284.11,
+    "low_price": 35235.06,
+    "close_price": 35239.39
+  },
+  {
+    "close_time": 1625040120,
+    "close_time_dt": "2021/06/30 08:02",
+    "open_price": 35250.04,
+    "high_price": 35295.23,
+    "low_price": 35234.96,
+    "close_price": 35234.96
+  },
+  {
+    "close_time": 1625040180,
+    "close_time_dt": "2021/06/30 08:03",
+    "open_price": 35229.15,
+    "high_price": 35242.07,
+    "low_price": 35207.52,
+    "close_price": 35207.52
+  },
+  {
+    "close_time": 1625040240,
+    "close_time_dt": "2021/06/30 08:04",
+    "open_price": 35207.83,
+    "high_price": 35246.12,
+    "low_price": 35200.09,
+    "close_price": 35246.12
+  },
+  {
+    "close_time": 1625040300,
+    "close_time_dt": "2021/06/30 08:05",
+    "open_price": 35215.95,
+    "high_price": 35215.95,
+    "low_price": 35200.45,
+    "close_price": 35203.34
+  },
+  {
+    "close_time": 1625040360,
+    "close_time_dt": "2021/06/30 08:06",
+    "open_price": 35228.56,
+    "high_price": 35228.56,
+    "low_price": 35210.31,
+    "close_price": 35210.31
+  },
+  {
+    "close_time": 1625040420,
+    "close_time_dt": "2021/06/30 08:07",
+    "open_price": 35242.9,
+    "high_price": 35242.9,
+    "low_price": 35242.9,
+    "close_price": 35242.9
+  },
+  {
+    "close_time": 1625040480,
+    "close_time_dt": "2021/06/30 08:08",
+    "open_price": 35193.55,
+    "high_price": 35193.55,
+    "low_price": 35193.55,
+    "close_price": 35193.55
+  },
+  {
+    "close_time": 1625040540,
+    "close_time_dt": "2021/06/30 08:09",
+    "open_price": 35188.97,
+    "high_price": 35188.97,
+    "low_price": 35188.97,
+    "close_price": 35188.97
+  },
+  {
+    "close_time": 1625040600,
+    "close_time_dt": "2021/06/30 08:10",
+    "open_price": 35204.5,
+    "high_price": 35206.93,
+    "low_price": 35180,
+    "close_price": 35206.93
+  },
+  {
+    "close_time": 1625040660,
+    "close_time_dt": "2021/06/30 08:11",
+    "open_price": 35205.31,
+    "high_price": 35226.11,
+    "low_price": 35180.56,
+    "close_price": 35226.11
+  },
+  {
+    "close_time": 1625040720,
+    "close_time_dt": "2021/06/30 08:12",
+    "open_price": 35232.65,
+    "high_price": 35232.65,
+    "low_price": 35180,
+    "close_price": 35180
+  },
+  {
+    "close_time": 1625040780,
+    "close_time_dt": "2021/06/30 08:13",
+    "open_price": 35182.6,
+    "high_price": 35182.6,
+    "low_price": 35180,
+    "close_price": 35180
+  },
+  {
+    "close_time": 1625041020,
+    "close_time_dt": "2021/06/30 08:17",
+    "open_price": 35136.9,
+    "high_price": 35136.9,
+    "low_price": 35136.9,
+    "close_price": 35136.9
+  },
+  {
+    "close_time": 1625041200,
+    "close_time_dt": "2021/06/30 08:20",
+    "open_price": 35157.32,
+    "high_price": 35157.32,
+    "low_price": 35157.32,
+    "close_price": 35157.32
+  },
+  {
+    "close_time": 1625041560,
+    "close_time_dt": "2021/06/30 08:26",
+    "open_price": 35245,
+    "high_price": 35245,
+    "low_price": 35245,
+    "close_price": 35245
+  },
+  {
+    "close_time": 1625041680,
+    "close_time_dt": "2021/06/30 08:28",
+    "open_price": 35227.14,
+    "high_price": 35227.14,
+    "low_price": 35227.14,
+    "close_price": 35227.14
+  },
+  {
+    "close_time": 1625041800,
+    "close_time_dt": "2021/06/30 08:30",
+    "open_price": 35218.92,
+    "high_price": 35218.92,
+    "low_price": 35218.92,
+    "close_price": 35218.92
+  },
+  {
+    "close_time": 1625042100,
+    "close_time_dt": "2021/06/30 08:35",
+    "open_price": 35300,
+    "high_price": 35300,
+    "low_price": 35300,
+    "close_price": 35300
+  },
+  {
+    "close_time": 1625042160,
+    "close_time_dt": "2021/06/30 08:36",
+    "open_price": 35252.83,
+    "high_price": 35252.91,
+    "low_price": 35213.2,
+    "close_price": 35213.2
+  },
+  {
+    "close_time": 1625042700,
+    "close_time_dt": "2021/06/30 08:45",
+    "open_price": 35141.82,
+    "high_price": 35141.82,
+    "low_price": 35129.52,
+    "close_price": 35129.52
+  },
+  {
+    "close_time": 1625042820,
+    "close_time_dt": "2021/06/30 08:47",
+    "open_price": 35041.78,
+    "high_price": 35041.78,
+    "low_price": 34923.84,
+    "close_price": 34923.84
+  },
+  {
+    "close_time": 1625042880,
+    "close_time_dt": "2021/06/30 08:48",
+    "open_price": 34887.9,
+    "high_price": 34887.9,
+    "low_price": 34887.9,
+    "close_price": 34887.9
+  },
+  {
+    "close_time": 1625042940,
+    "close_time_dt": "2021/06/30 08:49",
+    "open_price": 34885.94,
+    "high_price": 34929.82,
+    "low_price": 34788.69,
+    "close_price": 34788.69
+  },
+  {
+    "close_time": 1625043000,
+    "close_time_dt": "2021/06/30 08:50",
+    "open_price": 34912.08,
+    "high_price": 34912.08,
+    "low_price": 34889.32,
+    "close_price": 34889.32
+  },
+  {
+    "close_time": 1625043060,
+    "close_time_dt": "2021/06/30 08:51",
+    "open_price": 34848.5,
+    "high_price": 34908.9,
+    "low_price": 34829.49,
+    "close_price": 34908.9
+  },
+  {
+    "close_time": 1625043300,
+    "close_time_dt": "2021/06/30 08:55",
+    "open_price": 34839.13,
+    "high_price": 34839.13,
+    "low_price": 34736.85,
+    "close_price": 34736.85
+  },
+  {
+    "close_time": 1625043360,
+    "close_time_dt": "2021/06/30 08:56",
+    "open_price": 34715.62,
+    "high_price": 34715.62,
+    "low_price": 34608.18,
+    "close_price": 34687.35
+  },
+  {
+    "close_time": 1625043420,
+    "close_time_dt": "2021/06/30 08:57",
+    "open_price": 34636.85,
+    "high_price": 34636.85,
+    "low_price": 34600,
+    "close_price": 34606.53
+  },
+  {
+    "close_time": 1625043480,
+    "close_time_dt": "2021/06/30 08:58",
+    "open_price": 34633.9,
+    "high_price": 34633.9,
+    "low_price": 34633.9,
+    "close_price": 34633.9
+  },
+  {
+    "close_time": 1625043540,
+    "close_time_dt": "2021/06/30 08:59",
+    "open_price": 34633.31,
+    "high_price": 34635.9,
+    "low_price": 34633.31,
+    "close_price": 34635.9
+  },
+  {
+    "close_time": 1625043600,
+    "close_time_dt": "2021/06/30 09:00",
+    "open_price": 34635.59,
+    "high_price": 34635.59,
+    "low_price": 34635.59,
+    "close_price": 34635.59
+  },
+  {
+    "close_time": 1625043660,
+    "close_time_dt": "2021/06/30 09:01",
+    "open_price": 34635.17,
+    "high_price": 34635.17,
+    "low_price": 34605.6,
+    "close_price": 34605.6
+  },
+  {
+    "close_time": 1625043720,
+    "close_time_dt": "2021/06/30 09:02",
+    "open_price": 34615.97,
+    "high_price": 34615.97,
+    "low_price": 34497.49,
+    "close_price": 34551.31
+  },
+  {
+    "close_time": 1625043780,
+    "close_time_dt": "2021/06/30 09:03",
+    "open_price": 34515.91,
+    "high_price": 34526.42,
+    "low_price": 34515.91,
+    "close_price": 34526.42
+  },
+  {
+    "close_time": 1625043840,
+    "close_time_dt": "2021/06/30 09:04",
+    "open_price": 34567.46,
+    "high_price": 34567.46,
+    "low_price": 34567.46,
+    "close_price": 34567.46
+  },
+  {
+    "close_time": 1625043900,
+    "close_time_dt": "2021/06/30 09:05",
+    "open_price": 34566.92,
+    "high_price": 34566.92,
+    "low_price": 34566.92,
+    "close_price": 34566.92
+  },
+  {
+    "close_time": 1625044020,
+    "close_time_dt": "2021/06/30 09:07",
+    "open_price": 34566.78,
+    "high_price": 34566.78,
+    "low_price": 34566.78,
+    "close_price": 34566.78
+  },
+  {
+    "close_time": 1625044080,
+    "close_time_dt": "2021/06/30 09:08",
+    "open_price": 34588.27,
+    "high_price": 34620.49,
+    "low_price": 34588.27,
+    "close_price": 34620.49
+  },
+  {
+    "close_time": 1625044200,
+    "close_time_dt": "2021/06/30 09:10",
+    "open_price": 34629.09,
+    "high_price": 34668.5,
+    "low_price": 34629.09,
+    "close_price": 34668.5
+  },
+  {
+    "close_time": 1625044320,
+    "close_time_dt": "2021/06/30 09:12",
+    "open_price": 34698.83,
+    "high_price": 34700.64,
+    "low_price": 34698.83,
+    "close_price": 34700.64
+  },
+  {
+    "close_time": 1625044440,
+    "close_time_dt": "2021/06/30 09:14",
+    "open_price": 34695,
+    "high_price": 34695,
+    "low_price": 34632.74,
+    "close_price": 34632.74
+  },
+  {
+    "close_time": 1625044500,
+    "close_time_dt": "2021/06/30 09:15",
+    "open_price": 34632.74,
+    "high_price": 34632.74,
+    "low_price": 34632.74,
+    "close_price": 34632.74
+  },
+  {
+    "close_time": 1625044560,
+    "close_time_dt": "2021/06/30 09:16",
+    "open_price": 34641.94,
+    "high_price": 34641.94,
+    "low_price": 34641.94,
+    "close_price": 34641.94
+  },
+  {
+    "close_time": 1625044620,
+    "close_time_dt": "2021/06/30 09:17",
+    "open_price": 34702.72,
+    "high_price": 34703.49,
+    "low_price": 34702.72,
+    "close_price": 34703.49
+  },
+  {
+    "close_time": 1625044680,
+    "close_time_dt": "2021/06/30 09:18",
+    "open_price": 34703.49,
+    "high_price": 34724.85,
+    "low_price": 34703.49,
+    "close_price": 34724.85
+  },
+  {
+    "close_time": 1625044860,
+    "close_time_dt": "2021/06/30 09:21",
+    "open_price": 34712.06,
+    "high_price": 34712.06,
+    "low_price": 34712.06,
+    "close_price": 34712.06
+  },
+  {
+    "close_time": 1625044980,
+    "close_time_dt": "2021/06/30 09:23",
+    "open_price": 34689.81,
+    "high_price": 34689.81,
+    "low_price": 34583.82,
+    "close_price": 34584.97
+  },
+  {
+    "close_time": 1625045040,
+    "close_time_dt": "2021/06/30 09:24",
+    "open_price": 34628.46,
+    "high_price": 34628.46,
+    "low_price": 34628.46,
+    "close_price": 34628.46
+  },
+  {
+    "close_time": 1625045100,
+    "close_time_dt": "2021/06/30 09:25",
+    "open_price": 34596.05,
+    "high_price": 34596.05,
+    "low_price": 34553.42,
+    "close_price": 34553.42
+  },
+  {
+    "close_time": 1625045220,
+    "close_time_dt": "2021/06/30 09:27",
+    "open_price": 34549.18,
+    "high_price": 34612.68,
+    "low_price": 34549.18,
+    "close_price": 34612.68
+  },
+  {
+    "close_time": 1625045280,
+    "close_time_dt": "2021/06/30 09:28",
+    "open_price": 34577.26,
+    "high_price": 34577.26,
+    "low_price": 34574.32,
+    "close_price": 34574.32
+  },
+  {
+    "close_time": 1625045460,
+    "close_time_dt": "2021/06/30 09:31",
+    "open_price": 34594.65,
+    "high_price": 34627.05,
+    "low_price": 34594.65,
+    "close_price": 34625.99
+  },
+  {
+    "close_time": 1625045520,
+    "close_time_dt": "2021/06/30 09:32",
+    "open_price": 34626.46,
+    "high_price": 34628.32,
+    "low_price": 34619.99,
+    "close_price": 34619.99
+  },
+  {
+    "close_time": 1625045580,
+    "close_time_dt": "2021/06/30 09:33",
+    "open_price": 34628.46,
+    "high_price": 34643.55,
+    "low_price": 34628.46,
+    "close_price": 34643.55
+  },
+  {
+    "close_time": 1625045640,
+    "close_time_dt": "2021/06/30 09:34",
+    "open_price": 34643.55,
+    "high_price": 34643.55,
+    "low_price": 34624.53,
+    "close_price": 34624.53
+  },
+  {
+    "close_time": 1625045700,
+    "close_time_dt": "2021/06/30 09:35",
+    "open_price": 34624.53,
+    "high_price": 34624.53,
+    "low_price": 34619.99,
+    "close_price": 34619.99
+  },
+  {
+    "close_time": 1625045820,
+    "close_time_dt": "2021/06/30 09:37",
+    "open_price": 34633.56,
+    "high_price": 34633.56,
+    "low_price": 34633.56,
+    "close_price": 34633.56
+  },
+  {
+    "close_time": 1625045880,
+    "close_time_dt": "2021/06/30 09:38",
+    "open_price": 34618.09,
+    "high_price": 34618.09,
+    "low_price": 34616.9,
+    "close_price": 34616.9
+  },
+  {
+    "close_time": 1625045940,
+    "close_time_dt": "2021/06/30 09:39",
+    "open_price": 34607.16,
+    "high_price": 34607.16,
+    "low_price": 34599.57,
+    "close_price": 34599.57
+  },
+  {
+    "close_time": 1625046000,
+    "close_time_dt": "2021/06/30 09:40",
+    "open_price": 34599.57,
+    "high_price": 34599.57,
+    "low_price": 34565.77,
+    "close_price": 34565.77
+  },
+  {
+    "close_time": 1625046060,
+    "close_time_dt": "2021/06/30 09:41",
+    "open_price": 34565.77,
+    "high_price": 34565.77,
+    "low_price": 34561.94,
+    "close_price": 34561.94
+  },
+  {
+    "close_time": 1625046300,
+    "close_time_dt": "2021/06/30 09:45",
+    "open_price": 34561.94,
+    "high_price": 34561.94,
+    "low_price": 34559.99,
+    "close_price": 34559.99
+  },
+  {
+    "close_time": 1625046420,
+    "close_time_dt": "2021/06/30 09:47",
+    "open_price": 34550.22,
+    "high_price": 34550.22,
+    "low_price": 34443.1,
+    "close_price": 34496.95
+  },
+  {
+    "close_time": 1625046480,
+    "close_time_dt": "2021/06/30 09:48",
+    "open_price": 34474.82,
+    "high_price": 34529.74,
+    "low_price": 34446.52,
+    "close_price": 34529.74
+  },
+  {
+    "close_time": 1625046900,
+    "close_time_dt": "2021/06/30 09:55",
+    "open_price": 34630.66,
+    "high_price": 34636.11,
+    "low_price": 34630.66,
+    "close_price": 34636.11
+  },
+  {
+    "close_time": 1625047200,
+    "close_time_dt": "2021/06/30 10:00",
+    "open_price": 34647.67,
+    "high_price": 34648.85,
+    "low_price": 34647.67,
+    "close_price": 34648.85
+  },
+  {
+    "close_time": 1625047260,
+    "close_time_dt": "2021/06/30 10:01",
+    "open_price": 34648.85,
+    "high_price": 34674.06,
+    "low_price": 34648.85,
+    "close_price": 34674.06
+  },
+  {
+    "close_time": 1625047320,
+    "close_time_dt": "2021/06/30 10:02",
+    "open_price": 34661.16,
+    "high_price": 34661.16,
+    "low_price": 34661.16,
+    "close_price": 34661.16
+  },
+  {
+    "close_time": 1625047380,
+    "close_time_dt": "2021/06/30 10:03",
+    "open_price": 34678.91,
+    "high_price": 34682.54,
+    "low_price": 34678.91,
+    "close_price": 34682.54
+  },
+  {
+    "close_time": 1625047560,
+    "close_time_dt": "2021/06/30 10:06",
+    "open_price": 34678,
+    "high_price": 34678,
+    "low_price": 34629.14,
+    "close_price": 34662.62
+  },
+  {
+    "close_time": 1625047620,
+    "close_time_dt": "2021/06/30 10:07",
+    "open_price": 34724.85,
+    "high_price": 34727.62,
+    "low_price": 34724.85,
+    "close_price": 34727.62
+  },
+  {
+    "close_time": 1625048340,
+    "close_time_dt": "2021/06/30 10:19",
+    "open_price": 34743.35,
+    "high_price": 34743.35,
+    "low_price": 34743.35,
+    "close_price": 34743.35
+  },
+  {
+    "close_time": 1625048400,
+    "close_time_dt": "2021/06/30 10:20",
+    "open_price": 34702.38,
+    "high_price": 34702.38,
+    "low_price": 34702.38,
+    "close_price": 34702.38
+  },
+  {
+    "close_time": 1625048520,
+    "close_time_dt": "2021/06/30 10:22",
+    "open_price": 34743.35,
+    "high_price": 34743.35,
+    "low_price": 34689.68,
+    "close_price": 34689.68
+  },
+  {
+    "close_time": 1625048700,
+    "close_time_dt": "2021/06/30 10:25",
+    "open_price": 34710.85,
+    "high_price": 34710.85,
+    "low_price": 34710.85,
+    "close_price": 34710.85
+  },
+  {
+    "close_time": 1625049060,
+    "close_time_dt": "2021/06/30 10:31",
+    "open_price": 34848.03,
+    "high_price": 34848.03,
+    "low_price": 34848.03,
+    "close_price": 34848.03
+  },
+  {
+    "close_time": 1625049420,
+    "close_time_dt": "2021/06/30 10:37",
+    "open_price": 34790.68,
+    "high_price": 34790.68,
+    "low_price": 34790.68,
+    "close_price": 34790.68
+  },
+  {
+    "close_time": 1625049600,
+    "close_time_dt": "2021/06/30 10:40",
+    "open_price": 34825.82,
+    "high_price": 34886.84,
+    "low_price": 34825.82,
+    "close_price": 34861.62
+  },
+  {
+    "close_time": 1625050140,
+    "close_time_dt": "2021/06/30 10:49",
+    "open_price": 34748.36,
+    "high_price": 34748.36,
+    "low_price": 34748.36,
+    "close_price": 34748.36
+  },
+  {
+    "close_time": 1625050200,
+    "close_time_dt": "2021/06/30 10:50",
+    "open_price": 34718.22,
+    "high_price": 34718.22,
+    "low_price": 34718.22,
+    "close_price": 34718.22
+  },
+  {
+    "close_time": 1625050440,
+    "close_time_dt": "2021/06/30 10:54",
+    "open_price": 34775.85,
+    "high_price": 34775.85,
+    "low_price": 34775.85,
+    "close_price": 34775.85
+  },
+  {
+    "close_time": 1625050920,
+    "close_time_dt": "2021/06/30 11:02",
+    "open_price": 34800,
+    "high_price": 34800,
+    "low_price": 34800,
+    "close_price": 34800
+  },
+  {
+    "close_time": 1625051460,
+    "close_time_dt": "2021/06/30 11:11",
+    "open_price": 34855.34,
+    "high_price": 34855.35,
+    "low_price": 34855.34,
+    "close_price": 34855.35
+  },
+  {
+    "close_time": 1625051580,
+    "close_time_dt": "2021/06/30 11:13",
+    "open_price": 34853.5,
+    "high_price": 34853.5,
+    "low_price": 34853.5,
+    "close_price": 34853.5
+  },
+  {
+    "close_time": 1625051640,
+    "close_time_dt": "2021/06/30 11:14",
+    "open_price": 34855.23,
+    "high_price": 34856.56,
+    "low_price": 34855.23,
+    "close_price": 34856.56
+  },
+  {
+    "close_time": 1625051760,
+    "close_time_dt": "2021/06/30 11:16",
+    "open_price": 34792.07,
+    "high_price": 34792.07,
+    "low_price": 34764.06,
+    "close_price": 34764.06
+  },
+  {
+    "close_time": 1625052000,
+    "close_time_dt": "2021/06/30 11:20",
+    "open_price": 34902.14,
+    "high_price": 34902.14,
+    "low_price": 34902.14,
+    "close_price": 34902.14
+  },
+  {
+    "close_time": 1625052420,
+    "close_time_dt": "2021/06/30 11:27",
+    "open_price": 34730.13,
+    "high_price": 34730.13,
+    "low_price": 34730.13,
+    "close_price": 34730.13
+  },
+  {
+    "close_time": 1625052600,
+    "close_time_dt": "2021/06/30 11:30",
+    "open_price": 34581.71,
+    "high_price": 34653.62,
+    "low_price": 34581.71,
+    "close_price": 34653.62
+  },
+  {
+    "close_time": 1625052660,
+    "close_time_dt": "2021/06/30 11:31",
+    "open_price": 34657.02,
+    "high_price": 34657.02,
+    "low_price": 34626.44,
+    "close_price": 34626.44
+  },
+  {
+    "close_time": 1625052720,
+    "close_time_dt": "2021/06/30 11:32",
+    "open_price": 34661.55,
+    "high_price": 34661.55,
+    "low_price": 34661.55,
+    "close_price": 34661.55
+  },
+  {
+    "close_time": 1625052780,
+    "close_time_dt": "2021/06/30 11:33",
+    "open_price": 34606.58,
+    "high_price": 34613.22,
+    "low_price": 34600.88,
+    "close_price": 34600.88
+  },
+  {
+    "close_time": 1625052900,
+    "close_time_dt": "2021/06/30 11:35",
+    "open_price": 34655.65,
+    "high_price": 34663.37,
+    "low_price": 34655.65,
+    "close_price": 34663.37
+  },
+  {
+    "close_time": 1625052960,
+    "close_time_dt": "2021/06/30 11:36",
+    "open_price": 34663.37,
+    "high_price": 34673.74,
+    "low_price": 34662.51,
+    "close_price": 34673.74
+  },
+  {
+    "close_time": 1625053200,
+    "close_time_dt": "2021/06/30 11:40",
+    "open_price": 34775.97,
+    "high_price": 34927.08,
+    "low_price": 34775.97,
+    "close_price": 34927.08
+  },
+  {
+    "close_time": 1625053260,
+    "close_time_dt": "2021/06/30 11:41",
+    "open_price": 34897.68,
+    "high_price": 34897.68,
+    "low_price": 34897.68,
+    "close_price": 34897.68
+  },
+  {
+    "close_time": 1625053320,
+    "close_time_dt": "2021/06/30 11:42",
+    "open_price": 34894.66,
+    "high_price": 34897.57,
+    "low_price": 34894.66,
+    "close_price": 34897.57
+  },
+  {
+    "close_time": 1625053380,
+    "close_time_dt": "2021/06/30 11:43",
+    "open_price": 34924.34,
+    "high_price": 34924.34,
+    "low_price": 34924.34,
+    "close_price": 34924.34
+  },
+  {
+    "close_time": 1625053740,
+    "close_time_dt": "2021/06/30 11:49",
+    "open_price": 34943.17,
+    "high_price": 34944.61,
+    "low_price": 34943.17,
+    "close_price": 34944.61
+  },
+  {
+    "close_time": 1625053920,
+    "close_time_dt": "2021/06/30 11:52",
+    "open_price": 34958.89,
+    "high_price": 34958.89,
+    "low_price": 34958.89,
+    "close_price": 34958.89
+  },
+  {
+    "close_time": 1625053980,
+    "close_time_dt": "2021/06/30 11:53",
+    "open_price": 34953.11,
+    "high_price": 35043.04,
+    "low_price": 34953.11,
+    "close_price": 35043.04
+  },
+  {
+    "close_time": 1625054460,
+    "close_time_dt": "2021/06/30 12:01",
+    "open_price": 34885.23,
+    "high_price": 34885.23,
+    "low_price": 34885.23,
+    "close_price": 34885.23
+  },
+  {
+    "close_time": 1625054520,
+    "close_time_dt": "2021/06/30 12:02",
+    "open_price": 34820,
+    "high_price": 34820,
+    "low_price": 34820,
+    "close_price": 34820
+  },
+  {
+    "close_time": 1625054580,
+    "close_time_dt": "2021/06/30 12:03",
+    "open_price": 34835.53,
+    "high_price": 34861.68,
+    "low_price": 34822.92,
+    "close_price": 34822.92
+  },
+  {
+    "close_time": 1625054700,
+    "close_time_dt": "2021/06/30 12:05",
+    "open_price": 34906.75,
+    "high_price": 34906.75,
+    "low_price": 34906.75,
+    "close_price": 34906.75
+  },
+  {
+    "close_time": 1625055060,
+    "close_time_dt": "2021/06/30 12:11",
+    "open_price": 34954.07,
+    "high_price": 34996.36,
+    "low_price": 34954.07,
+    "close_price": 34996.36
+  },
+  {
+    "close_time": 1625055960,
+    "close_time_dt": "2021/06/30 12:26",
+    "open_price": 34839.19,
+    "high_price": 34839.19,
+    "low_price": 34825.61,
+    "close_price": 34825.61
+  },
+  {
+    "close_time": 1625056200,
+    "close_time_dt": "2021/06/30 12:30",
+    "open_price": 34891.47,
+    "high_price": 34891.47,
+    "low_price": 34891.47,
+    "close_price": 34891.47
+  },
+  {
+    "close_time": 1625056260,
+    "close_time_dt": "2021/06/30 12:31",
+    "open_price": 34820,
+    "high_price": 34820,
+    "low_price": 34820,
+    "close_price": 34820
+  },
+  {
+    "close_time": 1625056320,
+    "close_time_dt": "2021/06/30 12:32",
+    "open_price": 34820,
+    "high_price": 34820,
+    "low_price": 34746.99,
+    "close_price": 34746.99
+  },
+  {
+    "close_time": 1625056740,
+    "close_time_dt": "2021/06/30 12:39",
+    "open_price": 34689.05,
+    "high_price": 34689.05,
+    "low_price": 34651.09,
+    "close_price": 34668.77
+  },
+  {
+    "close_time": 1625056800,
+    "close_time_dt": "2021/06/30 12:40",
+    "open_price": 34658.83,
+    "high_price": 34658.83,
+    "low_price": 34628.78,
+    "close_price": 34628.78
+  },
+  {
+    "close_time": 1625056920,
+    "close_time_dt": "2021/06/30 12:42",
+    "open_price": 34660.59,
+    "high_price": 34660.59,
+    "low_price": 34660.59,
+    "close_price": 34660.59
+  },
+  {
+    "close_time": 1625056980,
+    "close_time_dt": "2021/06/30 12:43",
+    "open_price": 34674.27,
+    "high_price": 34674.27,
+    "low_price": 34674.27,
+    "close_price": 34674.27
+  },
+  {
+    "close_time": 1625057100,
+    "close_time_dt": "2021/06/30 12:45",
+    "open_price": 34731.66,
+    "high_price": 34731.66,
+    "low_price": 34731.66,
+    "close_price": 34731.66
+  },
+  {
+    "close_time": 1625057280,
+    "close_time_dt": "2021/06/30 12:48",
+    "open_price": 34732.08,
+    "high_price": 34732.08,
+    "low_price": 34732.08,
+    "close_price": 34732.08
+  },
+  {
+    "close_time": 1625057340,
+    "close_time_dt": "2021/06/30 12:49",
+    "open_price": 34716.37,
+    "high_price": 34716.37,
+    "low_price": 34716.37,
+    "close_price": 34716.37
+  },
+  {
+    "close_time": 1625057400,
+    "close_time_dt": "2021/06/30 12:50",
+    "open_price": 34722.59,
+    "high_price": 34722.59,
+    "low_price": 34689.28,
+    "close_price": 34689.28
+  },
+  {
+    "close_time": 1625057460,
+    "close_time_dt": "2021/06/30 12:51",
+    "open_price": 34710.66,
+    "high_price": 34715.28,
+    "low_price": 34710.66,
+    "close_price": 34715.28
+  },
+  {
+    "close_time": 1625057520,
+    "close_time_dt": "2021/06/30 12:52",
+    "open_price": 34672.05,
+    "high_price": 34672.05,
+    "low_price": 34660.31,
+    "close_price": 34660.31
+  },
+  {
+    "close_time": 1625057580,
+    "close_time_dt": "2021/06/30 12:53",
+    "open_price": 34681.74,
+    "high_price": 34701.07,
+    "low_price": 34681.74,
+    "close_price": 34701.07
+  },
+  {
+    "close_time": 1625057640,
+    "close_time_dt": "2021/06/30 12:54",
+    "open_price": 34700.31,
+    "high_price": 34708.99,
+    "low_price": 34682.96,
+    "close_price": 34700.46
+  },
+  {
+    "close_time": 1625057700,
+    "close_time_dt": "2021/06/30 12:55",
+    "open_price": 34700.46,
+    "high_price": 34700.46,
+    "low_price": 34684.48,
+    "close_price": 34694.56
+  },
+  {
+    "close_time": 1625057760,
+    "close_time_dt": "2021/06/30 12:56",
+    "open_price": 34708.66,
+    "high_price": 34738.17,
+    "low_price": 34697.29,
+    "close_price": 34738.17
+  },
+  {
+    "close_time": 1625057820,
+    "close_time_dt": "2021/06/30 12:57",
+    "open_price": 34711.11,
+    "high_price": 34738.17,
+    "low_price": 34703.64,
+    "close_price": 34703.64
+  },
+  {
+    "close_time": 1625057880,
+    "close_time_dt": "2021/06/30 12:58",
+    "open_price": 34712.15,
+    "high_price": 34715.77,
+    "low_price": 34706.03,
+    "close_price": 34706.03
+  },
+  {
+    "close_time": 1625057940,
+    "close_time_dt": "2021/06/30 12:59",
+    "open_price": 34731.91,
+    "high_price": 34731.91,
+    "low_price": 34722.8,
+    "close_price": 34722.8
+  },
+  {
+    "close_time": 1625058000,
+    "close_time_dt": "2021/06/30 13:00",
+    "open_price": 34696.96,
+    "high_price": 34696.96,
+    "low_price": 34639.96,
+    "close_price": 34639.96
+  },
+  {
+    "close_time": 1625058060,
+    "close_time_dt": "2021/06/30 13:01",
+    "open_price": 34685.26,
+    "high_price": 34703.49,
+    "low_price": 34665.89,
+    "close_price": 34695.1
+  },
+  {
+    "close_time": 1625058120,
+    "close_time_dt": "2021/06/30 13:02",
+    "open_price": 34649.22,
+    "high_price": 34649.22,
+    "low_price": 34618.46,
+    "close_price": 34618.46
+  },
+  {
+    "close_time": 1625058180,
+    "close_time_dt": "2021/06/30 13:03",
+    "open_price": 34599.53,
+    "high_price": 34644.37,
+    "low_price": 34599.53,
+    "close_price": 34644.37
+  },
+  {
+    "close_time": 1625058300,
+    "close_time_dt": "2021/06/30 13:05",
+    "open_price": 34567.56,
+    "high_price": 34596.34,
+    "low_price": 34567.56,
+    "close_price": 34596.34
+  },
+  {
+    "close_time": 1625058360,
+    "close_time_dt": "2021/06/30 13:06",
+    "open_price": 34612.22,
+    "high_price": 34643.15,
+    "low_price": 34606.23,
+    "close_price": 34643.15
+  },
+  {
+    "close_time": 1625058420,
+    "close_time_dt": "2021/06/30 13:07",
+    "open_price": 34609.15,
+    "high_price": 34609.15,
+    "low_price": 34600.92,
+    "close_price": 34601.52
+  },
+  {
+    "close_time": 1625058480,
+    "close_time_dt": "2021/06/30 13:08",
+    "open_price": 34587.03,
+    "high_price": 34587.03,
+    "low_price": 34562.9,
+    "close_price": 34562.9
+  },
+  {
+    "close_time": 1625058540,
+    "close_time_dt": "2021/06/30 13:09",
+    "open_price": 34512.5,
+    "high_price": 34550.44,
+    "low_price": 34512.49,
+    "close_price": 34516.46
+  },
+  {
+    "close_time": 1625058600,
+    "close_time_dt": "2021/06/30 13:10",
+    "open_price": 34533.83,
+    "high_price": 34533.83,
+    "low_price": 34520.24,
+    "close_price": 34520.24
+  },
+  {
+    "close_time": 1625058660,
+    "close_time_dt": "2021/06/30 13:11",
+    "open_price": 34552.28,
+    "high_price": 34565.85,
+    "low_price": 34552.28,
+    "close_price": 34565.85
+  },
+  {
+    "close_time": 1625058720,
+    "close_time_dt": "2021/06/30 13:12",
+    "open_price": 34522.05,
+    "high_price": 34522.05,
+    "low_price": 34522.05,
+    "close_price": 34522.05
+  },
+  {
+    "close_time": 1625058780,
+    "close_time_dt": "2021/06/30 13:13",
+    "open_price": 34512.5,
+    "high_price": 34525.76,
+    "low_price": 34500,
+    "close_price": 34525.76
+  },
+  {
+    "close_time": 1625058840,
+    "close_time_dt": "2021/06/30 13:14",
+    "open_price": 34530.03,
+    "high_price": 34530.03,
+    "low_price": 34519.71,
+    "close_price": 34519.71
+  },
+  {
+    "close_time": 1625059080,
+    "close_time_dt": "2021/06/30 13:18",
+    "open_price": 34605.14,
+    "high_price": 34605.14,
+    "low_price": 34605.14,
+    "close_price": 34605.14
+  },
+  {
+    "close_time": 1625059140,
+    "close_time_dt": "2021/06/30 13:19",
+    "open_price": 34621.95,
+    "high_price": 34621.95,
+    "low_price": 34621.95,
+    "close_price": 34621.95
+  },
+  {
+    "close_time": 1625059200,
+    "close_time_dt": "2021/06/30 13:20",
+    "open_price": 34588.64,
+    "high_price": 34613.88,
+    "low_price": 34588.64,
+    "close_price": 34613.88
+  },
+  {
+    "close_time": 1625059260,
+    "close_time_dt": "2021/06/30 13:21",
+    "open_price": 34623.02,
+    "high_price": 34633.86,
+    "low_price": 34622.85,
+    "close_price": 34633.86
+  },
+  {
+    "close_time": 1625059320,
+    "close_time_dt": "2021/06/30 13:22",
+    "open_price": 34698.39,
+    "high_price": 34698.39,
+    "low_price": 34698.39,
+    "close_price": 34698.39
+  },
+  {
+    "close_time": 1625059380,
+    "close_time_dt": "2021/06/30 13:23",
+    "open_price": 34672.61,
+    "high_price": 34683.58,
+    "low_price": 34672.61,
+    "close_price": 34683.58
+  },
+  {
+    "close_time": 1625059440,
+    "close_time_dt": "2021/06/30 13:24",
+    "open_price": 34672.39,
+    "high_price": 34672.39,
+    "low_price": 34639.74,
+    "close_price": 34657.02
+  },
+  {
+    "close_time": 1625059500,
+    "close_time_dt": "2021/06/30 13:25",
+    "open_price": 34671.61,
+    "high_price": 34671.61,
+    "low_price": 34650.33,
+    "close_price": 34650.33
+  },
+  {
+    "close_time": 1625059560,
+    "close_time_dt": "2021/06/30 13:26",
+    "open_price": 34650.33,
+    "high_price": 34655.81,
+    "low_price": 34642.66,
+    "close_price": 34642.66
+  },
+  {
+    "close_time": 1625059620,
+    "close_time_dt": "2021/06/30 13:27",
+    "open_price": 34650.69,
+    "high_price": 34673.07,
+    "low_price": 34650.69,
+    "close_price": 34673.07
+  },
+  {
+    "close_time": 1625059680,
+    "close_time_dt": "2021/06/30 13:28",
+    "open_price": 34679.72,
+    "high_price": 34697.65,
+    "low_price": 34679.72,
+    "close_price": 34697.65
+  },
+  {
+    "close_time": 1625059740,
+    "close_time_dt": "2021/06/30 13:29",
+    "open_price": 34671.62,
+    "high_price": 34671.62,
+    "low_price": 34619.36,
+    "close_price": 34619.36
+  },
+  {
+    "close_time": 1625059800,
+    "close_time_dt": "2021/06/30 13:30",
+    "open_price": 34611.76,
+    "high_price": 34611.76,
+    "low_price": 34611.76,
+    "close_price": 34611.76
+  },
+  {
+    "close_time": 1625059860,
+    "close_time_dt": "2021/06/30 13:31",
+    "open_price": 34661.34,
+    "high_price": 34661.34,
+    "low_price": 34612.88,
+    "close_price": 34612.88
+  },
+  {
+    "close_time": 1625059920,
+    "close_time_dt": "2021/06/30 13:32",
+    "open_price": 34586.22,
+    "high_price": 34586.22,
+    "low_price": 34586.2,
+    "close_price": 34586.2
+  },
+  {
+    "close_time": 1625059980,
+    "close_time_dt": "2021/06/30 13:33",
+    "open_price": 34586.47,
+    "high_price": 34591.78,
+    "low_price": 34586.46,
+    "close_price": 34591.78
+  },
+  {
+    "close_time": 1625060040,
+    "close_time_dt": "2021/06/30 13:34",
+    "open_price": 34554.19,
+    "high_price": 34554.19,
+    "low_price": 34548.68,
+    "close_price": 34548.68
+  },
+  {
+    "close_time": 1625060100,
+    "close_time_dt": "2021/06/30 13:35",
+    "open_price": 34558.62,
+    "high_price": 34558.62,
+    "low_price": 34555.92,
+    "close_price": 34555.92
+  },
+  {
+    "close_time": 1625060160,
+    "close_time_dt": "2021/06/30 13:36",
+    "open_price": 34564.96,
+    "high_price": 34564.96,
+    "low_price": 34564.96,
+    "close_price": 34564.96
+  },
+  {
+    "close_time": 1625060280,
+    "close_time_dt": "2021/06/30 13:38",
+    "open_price": 34614.3,
+    "high_price": 34614.31,
+    "low_price": 34614.3,
+    "close_price": 34614.31
+  },
+  {
+    "close_time": 1625060340,
+    "close_time_dt": "2021/06/30 13:39",
+    "open_price": 34573.91,
+    "high_price": 34573.91,
+    "low_price": 34573.91,
+    "close_price": 34573.91
+  },
+  {
+    "close_time": 1625060400,
+    "close_time_dt": "2021/06/30 13:40",
+    "open_price": 34584.21,
+    "high_price": 34584.21,
+    "low_price": 34584.21,
+    "close_price": 34584.21
+  },
+  {
+    "close_time": 1625060460,
+    "close_time_dt": "2021/06/30 13:41",
+    "open_price": 34629.45,
+    "high_price": 34629.45,
+    "low_price": 34629.45,
+    "close_price": 34629.45
+  },
+  {
+    "close_time": 1625060820,
+    "close_time_dt": "2021/06/30 13:47",
+    "open_price": 34658.94,
+    "high_price": 34661.37,
+    "low_price": 34658.94,
+    "close_price": 34661.37
+  },
+  {
+    "close_time": 1625061180,
+    "close_time_dt": "2021/06/30 13:53",
+    "open_price": 34640.55,
+    "high_price": 34654.57,
+    "low_price": 34640.55,
+    "close_price": 34654.57
+  },
+  {
+    "close_time": 1625061240,
+    "close_time_dt": "2021/06/30 13:54",
+    "open_price": 34665.03,
+    "high_price": 34665.03,
+    "low_price": 34665.03,
+    "close_price": 34665.03
+  },
+  {
+    "close_time": 1625061840,
+    "close_time_dt": "2021/06/30 14:04",
+    "open_price": 34821.74,
+    "high_price": 34821.74,
+    "low_price": 34821.74,
+    "close_price": 34821.74
+  },
+  {
+    "close_time": 1625061900,
+    "close_time_dt": "2021/06/30 14:05",
+    "open_price": 34796.07,
+    "high_price": 34805.39,
+    "low_price": 34787.09,
+    "close_price": 34787.09
+  },
+  {
+    "close_time": 1625061960,
+    "close_time_dt": "2021/06/30 14:06",
+    "open_price": 34795.8,
+    "high_price": 34795.8,
+    "low_price": 34761.95,
+    "close_price": 34761.95
+  },
+  {
+    "close_time": 1625062020,
+    "close_time_dt": "2021/06/30 14:07",
+    "open_price": 34743.53,
+    "high_price": 34748.66,
+    "low_price": 34743.53,
+    "close_price": 34748.66
+  },
+  {
+    "close_time": 1625062080,
+    "close_time_dt": "2021/06/30 14:08",
+    "open_price": 34777.43,
+    "high_price": 34777.43,
+    "low_price": 34777.43,
+    "close_price": 34777.43
+  },
+  {
+    "close_time": 1625062140,
+    "close_time_dt": "2021/06/30 14:09",
+    "open_price": 34792.66,
+    "high_price": 34817.4,
+    "low_price": 34792.66,
+    "close_price": 34811.12
+  },
+  {
+    "close_time": 1625062200,
+    "close_time_dt": "2021/06/30 14:10",
+    "open_price": 34817.58,
+    "high_price": 34817.58,
+    "low_price": 34783.77,
+    "close_price": 34798.76
+  },
+  {
+    "close_time": 1625062260,
+    "close_time_dt": "2021/06/30 14:11",
+    "open_price": 34798.76,
+    "high_price": 34805.75,
+    "low_price": 34798.36,
+    "close_price": 34798.36
+  },
+  {
+    "close_time": 1625062320,
+    "close_time_dt": "2021/06/30 14:12",
+    "open_price": 34800.13,
+    "high_price": 34800.13,
+    "low_price": 34745.47,
+    "close_price": 34779.22
+  },
+  {
+    "close_time": 1625062380,
+    "close_time_dt": "2021/06/30 14:13",
+    "open_price": 34779.22,
+    "high_price": 34779.22,
+    "low_price": 34779.22,
+    "close_price": 34779.22
+  },
+  {
+    "close_time": 1625063520,
+    "close_time_dt": "2021/06/30 14:32",
+    "open_price": 34581.04,
+    "high_price": 34581.04,
+    "low_price": 34581.04,
+    "close_price": 34581.04
+  },
+  {
+    "close_time": 1625063580,
+    "close_time_dt": "2021/06/30 14:33",
+    "open_price": 34594.99,
+    "high_price": 34594.99,
+    "low_price": 34594.99,
+    "close_price": 34594.99
+  },
+  {
+    "close_time": 1625063940,
+    "close_time_dt": "2021/06/30 14:39",
+    "open_price": 34555.62,
+    "high_price": 34555.62,
+    "low_price": 34544.65,
+    "close_price": 34544.65
+  },
+  {
+    "close_time": 1625064000,
+    "close_time_dt": "2021/06/30 14:40",
+    "open_price": 34522.49,
+    "high_price": 34522.49,
+    "low_price": 34522.49,
+    "close_price": 34522.49
+  },
+  {
+    "close_time": 1625064120,
+    "close_time_dt": "2021/06/30 14:42",
+    "open_price": 34570.32,
+    "high_price": 34570.32,
+    "low_price": 34570.32,
+    "close_price": 34570.32
+  },
+  {
+    "close_time": 1625064240,
+    "close_time_dt": "2021/06/30 14:44",
+    "open_price": 34594.25,
+    "high_price": 34594.25,
+    "low_price": 34569.82,
+    "close_price": 34569.82
+  },
+  {
+    "close_time": 1625064300,
+    "close_time_dt": "2021/06/30 14:45",
+    "open_price": 34547.97,
+    "high_price": 34547.97,
+    "low_price": 34547.97,
+    "close_price": 34547.97
+  },
+  {
+    "close_time": 1625064420,
+    "close_time_dt": "2021/06/30 14:47",
+    "open_price": 34614.12,
+    "high_price": 34614.12,
+    "low_price": 34614.12,
+    "close_price": 34614.12
+  },
+  {
+    "close_time": 1625064480,
+    "close_time_dt": "2021/06/30 14:48",
+    "open_price": 34636.54,
+    "high_price": 34636.54,
+    "low_price": 34636.54,
+    "close_price": 34636.54
+  },
+  {
+    "close_time": 1625065200,
+    "close_time_dt": "2021/06/30 15:00",
+    "open_price": 34619.8,
+    "high_price": 34619.8,
+    "low_price": 34619.8,
+    "close_price": 34619.8
+  },
+  {
+    "close_time": 1625065500,
+    "close_time_dt": "2021/06/30 15:05",
+    "open_price": 34503.51,
+    "high_price": 34503.51,
+    "low_price": 34303.5,
+    "close_price": 34303.5
+  },
+  {
+    "close_time": 1625065560,
+    "close_time_dt": "2021/06/30 15:06",
+    "open_price": 34274.39,
+    "high_price": 34305.97,
+    "low_price": 34211.36,
+    "close_price": 34305.97
+  },
+  {
+    "close_time": 1625065860,
+    "close_time_dt": "2021/06/30 15:11",
+    "open_price": 34332.3,
+    "high_price": 34332.3,
+    "low_price": 34332.3,
+    "close_price": 34332.3
+  },
+  {
+    "close_time": 1625066100,
+    "close_time_dt": "2021/06/30 15:15",
+    "open_price": 34346.02,
+    "high_price": 34347.37,
+    "low_price": 34346.02,
+    "close_price": 34347.37
+  },
+  {
+    "close_time": 1625066160,
+    "close_time_dt": "2021/06/30 15:16",
+    "open_price": 34343.8,
+    "high_price": 34347.37,
+    "low_price": 34343.8,
+    "close_price": 34347.37
+  },
+  {
+    "close_time": 1625066220,
+    "close_time_dt": "2021/06/30 15:17",
+    "open_price": 34347.37,
+    "high_price": 34347.37,
+    "low_price": 34347.37,
+    "close_price": 34347.37
+  },
+  {
+    "close_time": 1625066460,
+    "close_time_dt": "2021/06/30 15:21",
+    "open_price": 34200,
+    "high_price": 34220.01,
+    "low_price": 34175.23,
+    "close_price": 34220.01
+  },
+  {
+    "close_time": 1625066580,
+    "close_time_dt": "2021/06/30 15:23",
+    "open_price": 34347.37,
+    "high_price": 34347.37,
+    "low_price": 34347.37,
+    "close_price": 34347.37
+  },
+  {
+    "close_time": 1625066640,
+    "close_time_dt": "2021/06/30 15:24",
+    "open_price": 34347.37,
+    "high_price": 34347.37,
+    "low_price": 34347.37,
+    "close_price": 34347.37
+  },
+  {
+    "close_time": 1625067240,
+    "close_time_dt": "2021/06/30 15:34",
+    "open_price": 34309.94,
+    "high_price": 34309.94,
+    "low_price": 34309.94,
+    "close_price": 34309.94
+  },
+  {
+    "close_time": 1625067480,
+    "close_time_dt": "2021/06/30 15:38",
+    "open_price": 34244.2,
+    "high_price": 34244.2,
+    "low_price": 34244.2,
+    "close_price": 34244.2
+  },
+  {
+    "close_time": 1625067600,
+    "close_time_dt": "2021/06/30 15:40",
+    "open_price": 34211.92,
+    "high_price": 34211.92,
+    "low_price": 34211.92,
+    "close_price": 34211.92
+  },
+  {
+    "close_time": 1625067780,
+    "close_time_dt": "2021/06/30 15:43",
+    "open_price": 34183.38,
+    "high_price": 34183.38,
+    "low_price": 34183.38,
+    "close_price": 34183.38
+  },
+  {
+    "close_time": 1625067840,
+    "close_time_dt": "2021/06/30 15:44",
+    "open_price": 34175.52,
+    "high_price": 34213.71,
+    "low_price": 34175.52,
+    "close_price": 34213.71
+  },
+  {
+    "close_time": 1625068020,
+    "close_time_dt": "2021/06/30 15:47",
+    "open_price": 34154.03,
+    "high_price": 34258.36,
+    "low_price": 34154.03,
+    "close_price": 34258.36
+  },
+  {
+    "close_time": 1625068380,
+    "close_time_dt": "2021/06/30 15:53",
+    "open_price": 34261.83,
+    "high_price": 34261.83,
+    "low_price": 34261.83,
+    "close_price": 34261.83
+  },
+  {
+    "close_time": 1625068500,
+    "close_time_dt": "2021/06/30 15:55",
+    "open_price": 34234.5,
+    "high_price": 34234.5,
+    "low_price": 34222.98,
+    "close_price": 34222.98
+  },
+  {
+    "close_time": 1625068740,
+    "close_time_dt": "2021/06/30 15:59",
+    "open_price": 34216.07,
+    "high_price": 34217.11,
+    "low_price": 34180.65,
+    "close_price": 34180.65
+  },
+  {
+    "close_time": 1625068800,
+    "close_time_dt": "2021/06/30 16:00",
+    "open_price": 34202.33,
+    "high_price": 34202.33,
+    "low_price": 34177.62,
+    "close_price": 34177.62
+  },
+  {
+    "close_time": 1625068920,
+    "close_time_dt": "2021/06/30 16:02",
+    "open_price": 34263.78,
+    "high_price": 34263.79,
+    "low_price": 34263.78,
+    "close_price": 34263.79
+  },
+  {
+    "close_time": 1625068980,
+    "close_time_dt": "2021/06/30 16:03",
+    "open_price": 34161.96,
+    "high_price": 34192.54,
+    "low_price": 34152.85,
+    "close_price": 34192.54
+  },
+  {
+    "close_time": 1625069040,
+    "close_time_dt": "2021/06/30 16:04",
+    "open_price": 34170.32,
+    "high_price": 34192.33,
+    "low_price": 34170.32,
+    "close_price": 34176.72
+  },
+  {
+    "close_time": 1625069100,
+    "close_time_dt": "2021/06/30 16:05",
+    "open_price": 34145.28,
+    "high_price": 34181,
+    "low_price": 34123.15,
+    "close_price": 34123.15
+  },
+  {
+    "close_time": 1625069160,
+    "close_time_dt": "2021/06/30 16:06",
+    "open_price": 34115.36,
+    "high_price": 34149.89,
+    "low_price": 34080.65,
+    "close_price": 34083.49
+  },
+  {
+    "close_time": 1625069220,
+    "close_time_dt": "2021/06/30 16:07",
+    "open_price": 34102.36,
+    "high_price": 34123.41,
+    "low_price": 34085.83,
+    "close_price": 34123.41
+  },
+  {
+    "close_time": 1625069280,
+    "close_time_dt": "2021/06/30 16:08",
+    "open_price": 34125,
+    "high_price": 34125,
+    "low_price": 34125,
+    "close_price": 34125
+  },
+  {
+    "close_time": 1625069400,
+    "close_time_dt": "2021/06/30 16:10",
+    "open_price": 34193,
+    "high_price": 34193,
+    "low_price": 34193,
+    "close_price": 34193
+  },
+  {
+    "close_time": 1625069460,
+    "close_time_dt": "2021/06/30 16:11",
+    "open_price": 34218.03,
+    "high_price": 34218.03,
+    "low_price": 34218.03,
+    "close_price": 34218.03
+  },
+  {
+    "close_time": 1625069580,
+    "close_time_dt": "2021/06/30 16:13",
+    "open_price": 34264.53,
+    "high_price": 34264.53,
+    "low_price": 34246.69,
+    "close_price": 34246.69
+  },
+  {
+    "close_time": 1625069880,
+    "close_time_dt": "2021/06/30 16:18",
+    "open_price": 34277.84,
+    "high_price": 34318.62,
+    "low_price": 34277.84,
+    "close_price": 34318.62
+  },
+  {
+    "close_time": 1625069940,
+    "close_time_dt": "2021/06/30 16:19",
+    "open_price": 34318.62,
+    "high_price": 34318.62,
+    "low_price": 34318.62,
+    "close_price": 34318.62
+  },
+  {
+    "close_time": 1625070000,
+    "close_time_dt": "2021/06/30 16:20",
+    "open_price": 34317.83,
+    "high_price": 34317.83,
+    "low_price": 34317.83,
+    "close_price": 34317.83
+  },
+  {
+    "close_time": 1625070060,
+    "close_time_dt": "2021/06/30 16:21",
+    "open_price": 34317.83,
+    "high_price": 34347.37,
+    "low_price": 34317.83,
+    "close_price": 34347.37
+  },
+  {
+    "close_time": 1625070180,
+    "close_time_dt": "2021/06/30 16:23",
+    "open_price": 34322.83,
+    "high_price": 34322.83,
+    "low_price": 34307.89,
+    "close_price": 34307.89
+  },
+  {
+    "close_time": 1625070240,
+    "close_time_dt": "2021/06/30 16:24",
+    "open_price": 34321.37,
+    "high_price": 34321.37,
+    "low_price": 34281.32,
+    "close_price": 34281.32
+  },
+  {
+    "close_time": 1625070300,
+    "close_time_dt": "2021/06/30 16:25",
+    "open_price": 34281.32,
+    "high_price": 34281.32,
+    "low_price": 34281.32,
+    "close_price": 34281.32
+  },
+  {
+    "close_time": 1625070840,
+    "close_time_dt": "2021/06/30 16:34",
+    "open_price": 34316.06,
+    "high_price": 34316.06,
+    "low_price": 34316.06,
+    "close_price": 34316.06
+  },
+  {
+    "close_time": 1625070900,
+    "close_time_dt": "2021/06/30 16:35",
+    "open_price": 34316.06,
+    "high_price": 34316.06,
+    "low_price": 34316.06,
+    "close_price": 34316.06
+  },
+  {
+    "close_time": 1625070960,
+    "close_time_dt": "2021/06/30 16:36",
+    "open_price": 34347.37,
+    "high_price": 34347.37,
+    "low_price": 34347.37,
+    "close_price": 34347.37
+  },
+  {
+    "close_time": 1625071020,
+    "close_time_dt": "2021/06/30 16:37",
+    "open_price": 34347.37,
+    "high_price": 34347.37,
+    "low_price": 34347.37,
+    "close_price": 34347.37
+  },
+  {
+    "close_time": 1625071260,
+    "close_time_dt": "2021/06/30 16:41",
+    "open_price": 34334.19,
+    "high_price": 34334.19,
+    "low_price": 34334.19,
+    "close_price": 34334.19
+  },
+  {
+    "close_time": 1625071500,
+    "close_time_dt": "2021/06/30 16:45",
+    "open_price": 34269,
+    "high_price": 34269,
+    "low_price": 34269,
+    "close_price": 34269
+  },
+  {
+    "close_time": 1625072040,
+    "close_time_dt": "2021/06/30 16:54",
+    "open_price": 34238.08,
+    "high_price": 34238.08,
+    "low_price": 34198.19,
+    "close_price": 34211.02
+  },
+  {
+    "close_time": 1625072640,
+    "close_time_dt": "2021/06/30 17:04",
+    "open_price": 34195,
+    "high_price": 34195,
+    "low_price": 34195,
+    "close_price": 34195
+  },
+  {
+    "close_time": 1625072700,
+    "close_time_dt": "2021/06/30 17:05",
+    "open_price": 34224.71,
+    "high_price": 34224.71,
+    "low_price": 34224.71,
+    "close_price": 34224.71
+  },
+  {
+    "close_time": 1625073000,
+    "close_time_dt": "2021/06/30 17:10",
+    "open_price": 34263.9,
+    "high_price": 34263.9,
+    "low_price": 34263.9,
+    "close_price": 34263.9
+  },
+  {
+    "close_time": 1625073420,
+    "close_time_dt": "2021/06/30 17:17",
+    "open_price": 34290.83,
+    "high_price": 34290.83,
+    "low_price": 34290.83,
+    "close_price": 34290.83
+  },
+  {
+    "close_time": 1625073600,
+    "close_time_dt": "2021/06/30 17:20",
+    "open_price": 34325.9,
+    "high_price": 34325.9,
+    "low_price": 34325.9,
+    "close_price": 34325.9
+  },
+  {
+    "close_time": 1625074560,
+    "close_time_dt": "2021/06/30 17:36",
+    "open_price": 34347.37,
+    "high_price": 34563.67,
+    "low_price": 34347.37,
+    "close_price": 34489.33
+  },
+  {
+    "close_time": 1625074620,
+    "close_time_dt": "2021/06/30 17:37",
+    "open_price": 34480.48,
+    "high_price": 34480.48,
+    "low_price": 34480.48,
+    "close_price": 34480.48
+  },
+  {
+    "close_time": 1625074680,
+    "close_time_dt": "2021/06/30 17:38",
+    "open_price": 34468.33,
+    "high_price": 34473.5,
+    "low_price": 34468.33,
+    "close_price": 34473.5
+  },
+  {
+    "close_time": 1625074800,
+    "close_time_dt": "2021/06/30 17:40",
+    "open_price": 34535.03,
+    "high_price": 34680,
+    "low_price": 34535.03,
+    "close_price": 34676.71
+  },
+  {
+    "close_time": 1625074860,
+    "close_time_dt": "2021/06/30 17:41",
+    "open_price": 34671.74,
+    "high_price": 34671.74,
+    "low_price": 34671.74,
+    "close_price": 34671.74
+  },
+  {
+    "close_time": 1625075040,
+    "close_time_dt": "2021/06/30 17:44",
+    "open_price": 34619.34,
+    "high_price": 34619.34,
+    "low_price": 34619.34,
+    "close_price": 34619.34
+  },
+  {
+    "close_time": 1625075460,
+    "close_time_dt": "2021/06/30 17:51",
+    "open_price": 34545.88,
+    "high_price": 34545.88,
+    "low_price": 34545.88,
+    "close_price": 34545.88
+  },
+  {
+    "close_time": 1625075520,
+    "close_time_dt": "2021/06/30 17:52",
+    "open_price": 34545.67,
+    "high_price": 34733.49,
+    "low_price": 34545.67,
+    "close_price": 34709.69
+  },
+  {
+    "close_time": 1625075580,
+    "close_time_dt": "2021/06/30 17:53",
+    "open_price": 34696.86,
+    "high_price": 34696.86,
+    "low_price": 34668.53,
+    "close_price": 34668.53
+  },
+  {
+    "close_time": 1625075640,
+    "close_time_dt": "2021/06/30 17:54",
+    "open_price": 34710.92,
+    "high_price": 34720.74,
+    "low_price": 34688.51,
+    "close_price": 34714.8
+  },
+  {
+    "close_time": 1625075700,
+    "close_time_dt": "2021/06/30 17:55",
+    "open_price": 34713.06,
+    "high_price": 34721.78,
+    "low_price": 34710.43,
+    "close_price": 34720.54
+  },
+  {
+    "close_time": 1625075760,
+    "close_time_dt": "2021/06/30 17:56",
+    "open_price": 34720.54,
+    "high_price": 34720.54,
+    "low_price": 34704.33,
+    "close_price": 34713.24
+  },
+  {
+    "close_time": 1625075820,
+    "close_time_dt": "2021/06/30 17:57",
+    "open_price": 34693.81,
+    "high_price": 34693.81,
+    "low_price": 34693.81,
+    "close_price": 34693.81
+  },
+  {
+    "close_time": 1625076180,
+    "close_time_dt": "2021/06/30 18:03",
+    "open_price": 34682.14,
+    "high_price": 34682.14,
+    "low_price": 34682.14,
+    "close_price": 34682.14
+  },
+  {
+    "close_time": 1625076480,
+    "close_time_dt": "2021/06/30 18:08",
+    "open_price": 34591.38,
+    "high_price": 34591.38,
+    "low_price": 34591.38,
+    "close_price": 34591.38
+  },
+  {
+    "close_time": 1625078280,
+    "close_time_dt": "2021/06/30 18:38",
+    "open_price": 34632.92,
+    "high_price": 34632.92,
+    "low_price": 34632.92,
+    "close_price": 34632.92
+  },
+  {
+    "close_time": 1625078400,
+    "close_time_dt": "2021/06/30 18:40",
+    "open_price": 34721.51,
+    "high_price": 34721.51,
+    "low_price": 34721.51,
+    "close_price": 34721.51
+  },
+  {
+    "close_time": 1625078760,
+    "close_time_dt": "2021/06/30 18:46",
+    "open_price": 34829.27,
+    "high_price": 34829.27,
+    "low_price": 34829.27,
+    "close_price": 34829.27
+  },
+  {
+    "close_time": 1625078820,
+    "close_time_dt": "2021/06/30 18:47",
+    "open_price": 34808.89,
+    "high_price": 34808.89,
+    "low_price": 34808.89,
+    "close_price": 34808.89
+  },
+  {
+    "close_time": 1625078940,
+    "close_time_dt": "2021/06/30 18:49",
+    "open_price": 34833.27,
+    "high_price": 34833.27,
+    "low_price": 34833.27,
+    "close_price": 34833.27
+  },
+  {
+    "close_time": 1625079000,
+    "close_time_dt": "2021/06/30 18:50",
+    "open_price": 34889.56,
+    "high_price": 34889.56,
+    "low_price": 34889.56,
+    "close_price": 34889.56
+  },
+  {
+    "close_time": 1625079120,
+    "close_time_dt": "2021/06/30 18:52",
+    "open_price": 34765.47,
+    "high_price": 34765.47,
+    "low_price": 34765.47,
+    "close_price": 34765.47
+  },
+  {
+    "close_time": 1625079240,
+    "close_time_dt": "2021/06/30 18:54",
+    "open_price": 34764.44,
+    "high_price": 34764.44,
+    "low_price": 34746.84,
+    "close_price": 34746.84
+  },
+  {
+    "close_time": 1625079360,
+    "close_time_dt": "2021/06/30 18:56",
+    "open_price": 34750.57,
+    "high_price": 34750.57,
+    "low_price": 34729.51,
+    "close_price": 34729.51
+  },
+  {
+    "close_time": 1625079480,
+    "close_time_dt": "2021/06/30 18:58",
+    "open_price": 34819.69,
+    "high_price": 34819.69,
+    "low_price": 34819.69,
+    "close_price": 34819.69
+  },
+  {
+    "close_time": 1625079660,
+    "close_time_dt": "2021/06/30 19:01",
+    "open_price": 34809.22,
+    "high_price": 34809.22,
+    "low_price": 34809.22,
+    "close_price": 34809.22
+  },
+  {
+    "close_time": 1625079720,
+    "close_time_dt": "2021/06/30 19:02",
+    "open_price": 34749.7,
+    "high_price": 34749.7,
+    "low_price": 34749.7,
+    "close_price": 34749.7
+  },
+  {
+    "close_time": 1625080440,
+    "close_time_dt": "2021/06/30 19:14",
+    "open_price": 34754.82,
+    "high_price": 34754.82,
+    "low_price": 34729.51,
+    "close_price": 34729.51
+  },
+  {
+    "close_time": 1625080500,
+    "close_time_dt": "2021/06/30 19:15",
+    "open_price": 34706.01,
+    "high_price": 34706.01,
+    "low_price": 34706.01,
+    "close_price": 34706.01
+  },
+  {
+    "close_time": 1625080560,
+    "close_time_dt": "2021/06/30 19:16",
+    "open_price": 34701.71,
+    "high_price": 34701.71,
+    "low_price": 34701.71,
+    "close_price": 34701.71
+  },
+  {
+    "close_time": 1625080800,
+    "close_time_dt": "2021/06/30 19:20",
+    "open_price": 34737.81,
+    "high_price": 34737.81,
+    "low_price": 34737.81,
+    "close_price": 34737.81
+  },
+  {
+    "close_time": 1625080980,
+    "close_time_dt": "2021/06/30 19:23",
+    "open_price": 34768.67,
+    "high_price": 34768.67,
+    "low_price": 34768.67,
+    "close_price": 34768.67
+  },
+  {
+    "close_time": 1625081400,
+    "close_time_dt": "2021/06/30 19:30",
+    "open_price": 34767.83,
+    "high_price": 34767.83,
+    "low_price": 34767.83,
+    "close_price": 34767.83
+  },
+  {
+    "close_time": 1625081520,
+    "close_time_dt": "2021/06/30 19:32",
+    "open_price": 34812.59,
+    "high_price": 34812.59,
+    "low_price": 34812.59,
+    "close_price": 34812.59
+  },
+  {
+    "close_time": 1625081820,
+    "close_time_dt": "2021/06/30 19:37",
+    "open_price": 34797.84,
+    "high_price": 34797.84,
+    "low_price": 34797.84,
+    "close_price": 34797.84
+  },
+  {
+    "close_time": 1625082000,
+    "close_time_dt": "2021/06/30 19:40",
+    "open_price": 34792.64,
+    "high_price": 34792.64,
+    "low_price": 34792.64,
+    "close_price": 34792.64
+  },
+  {
+    "close_time": 1625082060,
+    "close_time_dt": "2021/06/30 19:41",
+    "open_price": 34796.27,
+    "high_price": 34797.84,
+    "low_price": 34796.27,
+    "close_price": 34797.84
+  },
+  {
+    "close_time": 1625082360,
+    "close_time_dt": "2021/06/30 19:46",
+    "open_price": 34829.59,
+    "high_price": 34829.59,
+    "low_price": 34815.6,
+    "close_price": 34815.6
+  },
+  {
+    "close_time": 1625082540,
+    "close_time_dt": "2021/06/30 19:49",
+    "open_price": 34823.54,
+    "high_price": 34823.54,
+    "low_price": 34823.54,
+    "close_price": 34823.54
+  },
+  {
+    "close_time": 1625082600,
+    "close_time_dt": "2021/06/30 19:50",
+    "open_price": 34805.23,
+    "high_price": 34805.23,
+    "low_price": 34805.23,
+    "close_price": 34805.23
+  },
+  {
+    "close_time": 1625082660,
+    "close_time_dt": "2021/06/30 19:51",
+    "open_price": 34749.75,
+    "high_price": 34749.75,
+    "low_price": 34749.75,
+    "close_price": 34749.75
+  },
+  {
+    "close_time": 1625082720,
+    "close_time_dt": "2021/06/30 19:52",
+    "open_price": 34741.66,
+    "high_price": 34741.66,
+    "low_price": 34741.66,
+    "close_price": 34741.66
+  },
+  {
+    "close_time": 1625082900,
+    "close_time_dt": "2021/06/30 19:55",
+    "open_price": 34743.35,
+    "high_price": 34743.35,
+    "low_price": 34743.35,
+    "close_price": 34743.35
+  },
+  {
+    "close_time": 1625083260,
+    "close_time_dt": "2021/06/30 20:01",
+    "open_price": 34778.38,
+    "high_price": 34809.78,
+    "low_price": 34778.38,
+    "close_price": 34809.78
+  },
+  {
+    "close_time": 1625083320,
+    "close_time_dt": "2021/06/30 20:02",
+    "open_price": 34860.5,
+    "high_price": 34860.5,
+    "low_price": 34750.12,
+    "close_price": 34805.3
+  },
+  {
+    "close_time": 1625083380,
+    "close_time_dt": "2021/06/30 20:03",
+    "open_price": 34805.3,
+    "high_price": 34855.87,
+    "low_price": 34805.3,
+    "close_price": 34855.87
+  },
+  {
+    "close_time": 1625083440,
+    "close_time_dt": "2021/06/30 20:04",
+    "open_price": 34836.71,
+    "high_price": 34872.23,
+    "low_price": 34836.71,
+    "close_price": 34872.23
+  },
+  {
+    "close_time": 1625083500,
+    "close_time_dt": "2021/06/30 20:05",
+    "open_price": 34877.24,
+    "high_price": 34979,
+    "low_price": 34857.63,
+    "close_price": 34934.34
+  },
+  {
+    "close_time": 1625083560,
+    "close_time_dt": "2021/06/30 20:06",
+    "open_price": 34965.35,
+    "high_price": 35018.35,
+    "low_price": 34965.35,
+    "close_price": 34983.69
+  },
+  {
+    "close_time": 1625083620,
+    "close_time_dt": "2021/06/30 20:07",
+    "open_price": 34968,
+    "high_price": 34968,
+    "low_price": 34966.65,
+    "close_price": 34966.65
+  },
+  {
+    "close_time": 1625083680,
+    "close_time_dt": "2021/06/30 20:08",
+    "open_price": 34980.95,
+    "high_price": 35076.71,
+    "low_price": 34979.84,
+    "close_price": 35061.88
+  },
+  {
+    "close_time": 1625084040,
+    "close_time_dt": "2021/06/30 20:14",
+    "open_price": 34987.94,
+    "high_price": 34987.94,
+    "low_price": 34979.84,
+    "close_price": 34979.84
+  },
+  {
+    "close_time": 1625084100,
+    "close_time_dt": "2021/06/30 20:15",
+    "open_price": 34974.2,
+    "high_price": 34977.74,
+    "low_price": 34974.2,
+    "close_price": 34977.74
+  },
+  {
+    "close_time": 1625084220,
+    "close_time_dt": "2021/06/30 20:17",
+    "open_price": 34932.15,
+    "high_price": 34932.15,
+    "low_price": 34924.55,
+    "close_price": 34924.55
+  },
+  {
+    "close_time": 1625084580,
+    "close_time_dt": "2021/06/30 20:23",
+    "open_price": 34888.99,
+    "high_price": 34888.99,
+    "low_price": 34888.99,
+    "close_price": 34888.99
+  },
+  {
+    "close_time": 1625084760,
+    "close_time_dt": "2021/06/30 20:26",
+    "open_price": 34887.28,
+    "high_price": 34887.28,
+    "low_price": 34887.28,
+    "close_price": 34887.28
+  },
+  {
+    "close_time": 1625085240,
+    "close_time_dt": "2021/06/30 20:34",
+    "open_price": 34918.97,
+    "high_price": 34918.97,
+    "low_price": 34918.97,
+    "close_price": 34918.97
+  },
+  {
+    "close_time": 1625085360,
+    "close_time_dt": "2021/06/30 20:36",
+    "open_price": 34940.6,
+    "high_price": 34940.6,
+    "low_price": 34940.6,
+    "close_price": 34940.6
+  },
+  {
+    "close_time": 1625085540,
+    "close_time_dt": "2021/06/30 20:39",
+    "open_price": 34972.06,
+    "high_price": 34972.06,
+    "low_price": 34972.06,
+    "close_price": 34972.06
+  },
+  {
+    "close_time": 1625085660,
+    "close_time_dt": "2021/06/30 20:41",
+    "open_price": 35019.65,
+    "high_price": 35055.77,
+    "low_price": 35019.65,
+    "close_price": 35055.77
+  },
+  {
+    "close_time": 1625085720,
+    "close_time_dt": "2021/06/30 20:42",
+    "open_price": 35064.16,
+    "high_price": 35068.99,
+    "low_price": 35064.16,
+    "close_price": 35068.99
+  },
+  {
+    "close_time": 1625085780,
+    "close_time_dt": "2021/06/30 20:43",
+    "open_price": 35011.55,
+    "high_price": 35011.55,
+    "low_price": 35007.18,
+    "close_price": 35007.18
+  },
+  {
+    "close_time": 1625086080,
+    "close_time_dt": "2021/06/30 20:48",
+    "open_price": 34958.85,
+    "high_price": 34958.85,
+    "low_price": 34958.85,
+    "close_price": 34958.85
+  },
+  {
+    "close_time": 1625086320,
+    "close_time_dt": "2021/06/30 20:52",
+    "open_price": 34873.59,
+    "high_price": 34873.59,
+    "low_price": 34805.3,
+    "close_price": 34805.3
+  },
+  {
+    "close_time": 1625086380,
+    "close_time_dt": "2021/06/30 20:53",
+    "open_price": 34742.48,
+    "high_price": 34742.48,
+    "low_price": 34468.55,
+    "close_price": 34495.42
+  },
+  {
+    "close_time": 1625086440,
+    "close_time_dt": "2021/06/30 20:54",
+    "open_price": 34549.61,
+    "high_price": 34579.9,
+    "low_price": 34520.83,
+    "close_price": 34548.46
+  },
+  {
+    "close_time": 1625086500,
+    "close_time_dt": "2021/06/30 20:55",
+    "open_price": 34537.28,
+    "high_price": 34578.41,
+    "low_price": 34537.28,
+    "close_price": 34578.41
+  },
+  {
+    "close_time": 1625086560,
+    "close_time_dt": "2021/06/30 20:56",
+    "open_price": 34587.25,
+    "high_price": 34657.64,
+    "low_price": 34572.03,
+    "close_price": 34657.64
+  },
+  {
+    "close_time": 1625087040,
+    "close_time_dt": "2021/06/30 21:04",
+    "open_price": 34685,
+    "high_price": 34685,
+    "low_price": 34685,
+    "close_price": 34685
+  },
+  {
+    "close_time": 1625087160,
+    "close_time_dt": "2021/06/30 21:06",
+    "open_price": 34742.72,
+    "high_price": 34742.72,
+    "low_price": 34742.72,
+    "close_price": 34742.72
+  },
+  {
+    "close_time": 1625087220,
+    "close_time_dt": "2021/06/30 21:07",
+    "open_price": 34761.24,
+    "high_price": 34761.24,
+    "low_price": 34761.24,
+    "close_price": 34761.24
+  },
+  {
+    "close_time": 1625087520,
+    "close_time_dt": "2021/06/30 21:12",
+    "open_price": 34763.19,
+    "high_price": 34763.19,
+    "low_price": 34763.19,
+    "close_price": 34763.19
+  },
+  {
+    "close_time": 1625087880,
+    "close_time_dt": "2021/06/30 21:18",
+    "open_price": 34835.21,
+    "high_price": 34835.21,
+    "low_price": 34835.21,
+    "close_price": 34835.21
+  },
+  {
+    "close_time": 1625088120,
+    "close_time_dt": "2021/06/30 21:22",
+    "open_price": 34931.55,
+    "high_price": 34998.16,
+    "low_price": 34931.55,
+    "close_price": 34998.16
+  },
+  {
+    "close_time": 1625088360,
+    "close_time_dt": "2021/06/30 21:26",
+    "open_price": 34926.85,
+    "high_price": 34926.85,
+    "low_price": 34926.85,
+    "close_price": 34926.85
+  },
+  {
+    "close_time": 1625088480,
+    "close_time_dt": "2021/06/30 21:28",
+    "open_price": 34884.89,
+    "high_price": 34884.89,
+    "low_price": 34884.89,
+    "close_price": 34884.89
+  },
+  {
+    "close_time": 1625088540,
+    "close_time_dt": "2021/06/30 21:29",
+    "open_price": 34895.49,
+    "high_price": 34895.49,
+    "low_price": 34895.49,
+    "close_price": 34895.49
+  },
+  {
+    "close_time": 1625088660,
+    "close_time_dt": "2021/06/30 21:31",
+    "open_price": 34877.28,
+    "high_price": 34877.28,
+    "low_price": 34877.28,
+    "close_price": 34877.28
+  },
+  {
+    "close_time": 1625088780,
+    "close_time_dt": "2021/06/30 21:33",
+    "open_price": 34889.99,
+    "high_price": 34889.99,
+    "low_price": 34889.99,
+    "close_price": 34889.99
+  },
+  {
+    "close_time": 1625088960,
+    "close_time_dt": "2021/06/30 21:36",
+    "open_price": 34913.66,
+    "high_price": 34998.21,
+    "low_price": 34913.66,
+    "close_price": 34997.55
+  },
+  {
+    "close_time": 1625089020,
+    "close_time_dt": "2021/06/30 21:37",
+    "open_price": 34910.6,
+    "high_price": 34910.6,
+    "low_price": 34910.6,
+    "close_price": 34910.6
+  },
+  {
+    "close_time": 1625089080,
+    "close_time_dt": "2021/06/30 21:38",
+    "open_price": 34892.42,
+    "high_price": 34892.42,
+    "low_price": 34892.42,
+    "close_price": 34892.42
+  },
+  {
+    "close_time": 1625089140,
+    "close_time_dt": "2021/06/30 21:39",
+    "open_price": 34923.27,
+    "high_price": 34982.51,
+    "low_price": 34923.27,
+    "close_price": 34967.1
+  },
+  {
+    "close_time": 1625089260,
+    "close_time_dt": "2021/06/30 21:41",
+    "open_price": 34988.44,
+    "high_price": 34988.44,
+    "low_price": 34937.8,
+    "close_price": 34937.8
+  },
+  {
+    "close_time": 1625089860,
+    "close_time_dt": "2021/06/30 21:51",
+    "open_price": 34901.28,
+    "high_price": 34901.28,
+    "low_price": 34901.28,
+    "close_price": 34901.28
+  },
+  {
+    "close_time": 1625089920,
+    "close_time_dt": "2021/06/30 21:52",
+    "open_price": 34747.17,
+    "high_price": 34747.17,
+    "low_price": 34747.17,
+    "close_price": 34747.17
+  },
+  {
+    "close_time": 1625090760,
+    "close_time_dt": "2021/06/30 22:06",
+    "open_price": 34729.18,
+    "high_price": 34816.21,
+    "low_price": 34697.99,
+    "close_price": 34748.45
+  },
+  {
+    "close_time": 1625091000,
+    "close_time_dt": "2021/06/30 22:10",
+    "open_price": 34720.18,
+    "high_price": 34720.18,
+    "low_price": 34720.18,
+    "close_price": 34720.18
+  },
+  {
+    "close_time": 1625091060,
+    "close_time_dt": "2021/06/30 22:11",
+    "open_price": 34714.16,
+    "high_price": 34714.16,
+    "low_price": 34714.16,
+    "close_price": 34714.16
+  },
+  {
+    "close_time": 1625091360,
+    "close_time_dt": "2021/06/30 22:16",
+    "open_price": 34717.83,
+    "high_price": 34717.83,
+    "low_price": 34717.83,
+    "close_price": 34717.83
+  },
+  {
+    "close_time": 1625091420,
+    "close_time_dt": "2021/06/30 22:17",
+    "open_price": 34741.75,
+    "high_price": 34758.32,
+    "low_price": 34741.75,
+    "close_price": 34758.32
+  },
+  {
+    "close_time": 1625091660,
+    "close_time_dt": "2021/06/30 22:21",
+    "open_price": 34723.42,
+    "high_price": 34723.42,
+    "low_price": 34723.42,
+    "close_price": 34723.42
+  },
+  {
+    "close_time": 1625091900,
+    "close_time_dt": "2021/06/30 22:25",
+    "open_price": 34790.85,
+    "high_price": 34790.85,
+    "low_price": 34790.85,
+    "close_price": 34790.85
+  },
+  {
+    "close_time": 1625091960,
+    "close_time_dt": "2021/06/30 22:26",
+    "open_price": 34822.2,
+    "high_price": 34822.2,
+    "low_price": 34822.2,
+    "close_price": 34822.2
+  },
+  {
+    "close_time": 1625092380,
+    "close_time_dt": "2021/06/30 22:33",
+    "open_price": 34917.83,
+    "high_price": 34968.58,
+    "low_price": 34917.83,
+    "close_price": 34921.65
+  },
+  {
+    "close_time": 1625092980,
+    "close_time_dt": "2021/06/30 22:43",
+    "open_price": 34870.74,
+    "high_price": 34870.74,
+    "low_price": 34870.74,
+    "close_price": 34870.74
+  },
+  {
+    "close_time": 1625093040,
+    "close_time_dt": "2021/06/30 22:44",
+    "open_price": 34872.37,
+    "high_price": 34872.37,
+    "low_price": 34868.57,
+    "close_price": 34868.57
+  },
+  {
+    "close_time": 1625093100,
+    "close_time_dt": "2021/06/30 22:45",
+    "open_price": 34860.68,
+    "high_price": 34888.63,
+    "low_price": 34860.68,
+    "close_price": 34888.63
+  },
+  {
+    "close_time": 1625093160,
+    "close_time_dt": "2021/06/30 22:46",
+    "open_price": 34889.95,
+    "high_price": 34895.77,
+    "low_price": 34889.95,
+    "close_price": 34895.1
+  },
+  {
+    "close_time": 1625093220,
+    "close_time_dt": "2021/06/30 22:47",
+    "open_price": 34885.22,
+    "high_price": 34885.22,
+    "low_price": 34885.22,
+    "close_price": 34885.22
+  },
+  {
+    "close_time": 1625093280,
+    "close_time_dt": "2021/06/30 22:48",
+    "open_price": 34883.18,
+    "high_price": 34883.18,
+    "low_price": 34845.73,
+    "close_price": 34845.73
+  },
+  {
+    "close_time": 1625093340,
+    "close_time_dt": "2021/06/30 22:49",
+    "open_price": 34852.52,
+    "high_price": 34856.9,
+    "low_price": 34852.52,
+    "close_price": 34856.9
+  },
+  {
+    "close_time": 1625093400,
+    "close_time_dt": "2021/06/30 22:50",
+    "open_price": 34853.47,
+    "high_price": 34873.79,
+    "low_price": 34853.47,
+    "close_price": 34873.79
+  },
+  {
+    "close_time": 1625093460,
+    "close_time_dt": "2021/06/30 22:51",
+    "open_price": 34856.46,
+    "high_price": 34856.46,
+    "low_price": 34850.31,
+    "close_price": 34850.31
+  },
+  {
+    "close_time": 1625093520,
+    "close_time_dt": "2021/06/30 22:52",
+    "open_price": 34852.23,
+    "high_price": 34869.64,
+    "low_price": 34852.23,
+    "close_price": 34858.88
+  },
+  {
+    "close_time": 1625093580,
+    "close_time_dt": "2021/06/30 22:53",
+    "open_price": 34846.47,
+    "high_price": 34846.47,
+    "low_price": 34846.47,
+    "close_price": 34846.47
+  },
+  {
+    "close_time": 1625094060,
+    "close_time_dt": "2021/06/30 23:01",
+    "open_price": 34901.92,
+    "high_price": 34976.17,
+    "low_price": 34901.92,
+    "close_price": 34976.17
+  },
+  {
+    "close_time": 1625094120,
+    "close_time_dt": "2021/06/30 23:02",
+    "open_price": 34989.95,
+    "high_price": 34996.34,
+    "low_price": 34982.43,
+    "close_price": 34996.34
+  },
+  {
+    "close_time": 1625094660,
+    "close_time_dt": "2021/06/30 23:11",
+    "open_price": 35088.11,
+    "high_price": 35088.11,
+    "low_price": 35088.11,
+    "close_price": 35088.11
+  },
+  {
+    "close_time": 1625094720,
+    "close_time_dt": "2021/06/30 23:12",
+    "open_price": 35096.5,
+    "high_price": 35096.5,
+    "low_price": 35096.5,
+    "close_price": 35096.5
+  },
+  {
+    "close_time": 1625094780,
+    "close_time_dt": "2021/06/30 23:13",
+    "open_price": 35110,
+    "high_price": 35110,
+    "low_price": 35110,
+    "close_price": 35110
+  },
+  {
+    "close_time": 1625096160,
+    "close_time_dt": "2021/06/30 23:36",
+    "open_price": 35055.91,
+    "high_price": 35055.91,
+    "low_price": 35029.67,
+    "close_price": 35029.67
+  },
+  {
+    "close_time": 1625096460,
+    "close_time_dt": "2021/06/30 23:41",
+    "open_price": 35046.47,
+    "high_price": 35046.47,
+    "low_price": 35046.47,
+    "close_price": 35046.47
+  },
+  {
+    "close_time": 1625096520,
+    "close_time_dt": "2021/06/30 23:42",
+    "open_price": 35053.16,
+    "high_price": 35053.16,
+    "low_price": 35053.16,
+    "close_price": 35053.16
+  },
+  {
+    "close_time": 1625096700,
+    "close_time_dt": "2021/06/30 23:45",
+    "open_price": 35082.71,
+    "high_price": 35082.71,
+    "low_price": 35082.71,
+    "close_price": 35082.71
+  },
+  {
+    "close_time": 1625096820,
+    "close_time_dt": "2021/06/30 23:47",
+    "open_price": 35129.38,
+    "high_price": 35190.79,
+    "low_price": 35129.38,
+    "close_price": 35190.79
+  },
+  {
+    "close_time": 1625096880,
+    "close_time_dt": "2021/06/30 23:48",
+    "open_price": 35190.78,
+    "high_price": 35190.78,
+    "low_price": 35190.78,
+    "close_price": 35190.78
+  },
+  {
+    "close_time": 1625096940,
+    "close_time_dt": "2021/06/30 23:49",
+    "open_price": 35190.78,
+    "high_price": 35190.79,
+    "low_price": 35190.78,
+    "close_price": 35190.79
+  },
+  {
+    "close_time": 1625097120,
+    "close_time_dt": "2021/06/30 23:52",
+    "open_price": 35074.68,
+    "high_price": 35074.68,
+    "low_price": 35074.68,
+    "close_price": 35074.68
+  },
+  {
+    "close_time": 1625097180,
+    "close_time_dt": "2021/06/30 23:53",
+    "open_price": 35072.09,
+    "high_price": 35072.09,
+    "low_price": 35072.09,
+    "close_price": 35072.09
+  },
+  {
+    "close_time": 1625097240,
+    "close_time_dt": "2021/06/30 23:54",
+    "open_price": 35078.47,
+    "high_price": 35083.82,
+    "low_price": 35078.47,
+    "close_price": 35083.82
+  },
+  {
+    "close_time": 1625097300,
+    "close_time_dt": "2021/06/30 23:55",
+    "open_price": 35071.9,
+    "high_price": 35071.9,
+    "low_price": 35048.83,
+    "close_price": 35048.83
+  },
+  {
+    "close_time": 1625097360,
+    "close_time_dt": "2021/06/30 23:56",
+    "open_price": 35068.12,
+    "high_price": 35068.12,
+    "low_price": 35004.59,
+    "close_price": 35014.58
+  },
+  {
+    "close_time": 1625097420,
+    "close_time_dt": "2021/06/30 23:57",
+    "open_price": 35026.67,
+    "high_price": 35026.67,
+    "low_price": 35022.12,
+    "close_price": 35022.12
+  },
+  {
+    "close_time": 1625097480,
+    "close_time_dt": "2021/06/30 23:58",
+    "open_price": 35019.68,
+    "high_price": 35048.95,
+    "low_price": 35019.68,
+    "close_price": 35032.43
+  },
+  {
+    "close_time": 1625097540,
+    "close_time_dt": "2021/06/30 23:59",
+    "open_price": 35032.43,
+    "high_price": 35037.26,
+    "low_price": 35032.43,
+    "close_price": 35037.26
+  },
+  {
+    "close_time": 1625097600,
+    "close_time_dt": "2021/07/01 00:00",
+    "open_price": 35032.84,
+    "high_price": 35032.84,
+    "low_price": 35032.84,
+    "close_price": 35032.84
+  },
+  {
+    "close_time": 1625097660,
+    "close_time_dt": "2021/07/01 00:01",
+    "open_price": 35019.68,
+    "high_price": 35019.68,
+    "low_price": 35019.68,
+    "close_price": 35019.68
+  },
+  {
+    "close_time": 1625097960,
+    "close_time_dt": "2021/07/01 00:06",
+    "open_price": 34951.99,
+    "high_price": 34951.99,
+    "low_price": 34951.99,
+    "close_price": 34951.99
+  },
+  {
+    "close_time": 1625098080,
+    "close_time_dt": "2021/07/01 00:08",
+    "open_price": 34923.18,
+    "high_price": 34923.18,
+    "low_price": 34923.18,
+    "close_price": 34923.18
+  },
+  {
+    "close_time": 1625098140,
+    "close_time_dt": "2021/07/01 00:09",
+    "open_price": 34936.46,
+    "high_price": 34936.46,
+    "low_price": 34936.46,
+    "close_price": 34936.46
+  },
+  {
+    "close_time": 1625098200,
+    "close_time_dt": "2021/07/01 00:10",
+    "open_price": 34916.59,
+    "high_price": 34918.95,
+    "low_price": 34883.04,
+    "close_price": 34883.04
+  },
+  {
+    "close_time": 1625098260,
+    "close_time_dt": "2021/07/01 00:11",
+    "open_price": 34889.02,
+    "high_price": 34889.02,
+    "low_price": 34889.01,
+    "close_price": 34889.01
+  },
+  {
+    "close_time": 1625098320,
+    "close_time_dt": "2021/07/01 00:12",
+    "open_price": 34882.15,
+    "high_price": 34882.15,
+    "low_price": 34882.15,
+    "close_price": 34882.15
+  },
+  {
+    "close_time": 1625098380,
+    "close_time_dt": "2021/07/01 00:13",
+    "open_price": 34858.06,
+    "high_price": 34865.69,
+    "low_price": 34838.59,
+    "close_price": 34838.59
+  },
+  {
+    "close_time": 1625098440,
+    "close_time_dt": "2021/07/01 00:14",
+    "open_price": 34830.58,
+    "high_price": 34844.14,
+    "low_price": 34830.58,
+    "close_price": 34844.14
+  },
+  {
+    "close_time": 1625098560,
+    "close_time_dt": "2021/07/01 00:16",
+    "open_price": 34834.71,
+    "high_price": 34834.71,
+    "low_price": 34834.71,
+    "close_price": 34834.71
+  },
+  {
+    "close_time": 1625098620,
+    "close_time_dt": "2021/07/01 00:17",
+    "open_price": 34783.1,
+    "high_price": 34783.1,
+    "low_price": 34783.1,
+    "close_price": 34783.1
+  },
+  {
+    "close_time": 1625098740,
+    "close_time_dt": "2021/07/01 00:19",
+    "open_price": 34797.95,
+    "high_price": 34797.95,
+    "low_price": 34797.95,
+    "close_price": 34797.95
+  },
+  {
+    "close_time": 1625098860,
+    "close_time_dt": "2021/07/01 00:21",
+    "open_price": 34870.21,
+    "high_price": 34870.21,
+    "low_price": 34870.21,
+    "close_price": 34870.21
+  },
+  {
+    "close_time": 1625098980,
+    "close_time_dt": "2021/07/01 00:23",
+    "open_price": 34864.2,
+    "high_price": 34864.2,
+    "low_price": 34832.67,
+    "close_price": 34832.67
+  },
+  {
+    "close_time": 1625099040,
+    "close_time_dt": "2021/07/01 00:24",
+    "open_price": 34884.07,
+    "high_price": 34887.57,
+    "low_price": 34861.39,
+    "close_price": 34887.57
+  },
+  {
+    "close_time": 1625099100,
+    "close_time_dt": "2021/07/01 00:25",
+    "open_price": 34887.57,
+    "high_price": 34887.57,
+    "low_price": 34807.34,
+    "close_price": 34807.34
+  },
+  {
+    "close_time": 1625099160,
+    "close_time_dt": "2021/07/01 00:26",
+    "open_price": 34819.99,
+    "high_price": 34819.99,
+    "low_price": 34724.34,
+    "close_price": 34744.45
+  },
+  {
+    "close_time": 1625099220,
+    "close_time_dt": "2021/07/01 00:27",
+    "open_price": 34781.92,
+    "high_price": 34815.37,
+    "low_price": 34763.52,
+    "close_price": 34815.37
+  },
+  {
+    "close_time": 1625099280,
+    "close_time_dt": "2021/07/01 00:28",
+    "open_price": 34812.35,
+    "high_price": 34815.41,
+    "low_price": 34775.72,
+    "close_price": 34802.67
+  },
+  {
+    "close_time": 1625099340,
+    "close_time_dt": "2021/07/01 00:29",
+    "open_price": 34812.31,
+    "high_price": 34812.31,
+    "low_price": 34812.31,
+    "close_price": 34812.31
+  },
+  {
+    "close_time": 1625099400,
+    "close_time_dt": "2021/07/01 00:30",
+    "open_price": 34812.31,
+    "high_price": 34822.6,
+    "low_price": 34812.31,
+    "close_price": 34822.6
+  },
+  {
+    "close_time": 1625099460,
+    "close_time_dt": "2021/07/01 00:31",
+    "open_price": 34822.6,
+    "high_price": 34850.91,
+    "low_price": 34804.22,
+    "close_price": 34810.48
+  },
+  {
+    "close_time": 1625099520,
+    "close_time_dt": "2021/07/01 00:32",
+    "open_price": 34863.76,
+    "high_price": 34863.76,
+    "low_price": 34813.08,
+    "close_price": 34823.18
+  },
+  {
+    "close_time": 1625099580,
+    "close_time_dt": "2021/07/01 00:33",
+    "open_price": 34816.96,
+    "high_price": 34826.01,
+    "low_price": 34816.96,
+    "close_price": 34820.38
+  },
+  {
+    "close_time": 1625099640,
+    "close_time_dt": "2021/07/01 00:34",
+    "open_price": 34826.45,
+    "high_price": 34880.59,
+    "low_price": 34826.45,
+    "close_price": 34845.09
+  },
+  {
+    "close_time": 1625099700,
+    "close_time_dt": "2021/07/01 00:35",
+    "open_price": 34845.34,
+    "high_price": 34861.19,
+    "low_price": 34845.34,
+    "close_price": 34861.19
+  },
+  {
+    "close_time": 1625099760,
+    "close_time_dt": "2021/07/01 00:36",
+    "open_price": 34861.19,
+    "high_price": 34861.19,
+    "low_price": 34831.03,
+    "close_price": 34831.03
+  },
+  {
+    "close_time": 1625099820,
+    "close_time_dt": "2021/07/01 00:37",
+    "open_price": 34831.03,
+    "high_price": 34831.03,
+    "low_price": 34804.9,
+    "close_price": 34830.28
+  },
+  {
+    "close_time": 1625099880,
+    "close_time_dt": "2021/07/01 00:38",
+    "open_price": 34833.28,
+    "high_price": 34838.07,
+    "low_price": 34831.19,
+    "close_price": 34838.07
+  },
+  {
+    "close_time": 1625099940,
+    "close_time_dt": "2021/07/01 00:39",
+    "open_price": 34842.07,
+    "high_price": 34842.07,
+    "low_price": 34842.07,
+    "close_price": 34842.07
+  },
+  {
+    "close_time": 1625100000,
+    "close_time_dt": "2021/07/01 00:40",
+    "open_price": 34834.95,
+    "high_price": 34863,
+    "low_price": 34834.95,
+    "close_price": 34840.19
+  },
+  {
+    "close_time": 1625100060,
+    "close_time_dt": "2021/07/01 00:41",
+    "open_price": 34832.67,
+    "high_price": 34851.43,
+    "low_price": 34832.67,
+    "close_price": 34845.55
+  },
+  {
+    "close_time": 1625100120,
+    "close_time_dt": "2021/07/01 00:42",
+    "open_price": 34848.83,
+    "high_price": 34848.88,
+    "low_price": 34841.3,
+    "close_price": 34841.3
+  },
+  {
+    "close_time": 1625100180,
+    "close_time_dt": "2021/07/01 00:43",
+    "open_price": 34834.42,
+    "high_price": 34834.42,
+    "low_price": 34793.64,
+    "close_price": 34793.64
+  },
+  {
+    "close_time": 1625100240,
+    "close_time_dt": "2021/07/01 00:44",
+    "open_price": 34793.07,
+    "high_price": 34793.07,
+    "low_price": 34780.25,
+    "close_price": 34780.25
+  },
+  {
+    "close_time": 1625100540,
+    "close_time_dt": "2021/07/01 00:49",
+    "open_price": 34813.55,
+    "high_price": 34813.55,
+    "low_price": 34813.55,
+    "close_price": 34813.55
+  },
+  {
+    "close_time": 1625100600,
+    "close_time_dt": "2021/07/01 00:50",
+    "open_price": 34861.99,
+    "high_price": 34864.04,
+    "low_price": 34861.99,
+    "close_price": 34864.04
+  },
+  {
+    "close_time": 1625101080,
+    "close_time_dt": "2021/07/01 00:58",
+    "open_price": 34822.75,
+    "high_price": 34822.75,
+    "low_price": 34813.55,
+    "close_price": 34813.55
+  },
+  {
+    "close_time": 1625101140,
+    "close_time_dt": "2021/07/01 00:59",
+    "open_price": 34772.36,
+    "high_price": 34772.36,
+    "low_price": 34772.36,
+    "close_price": 34772.36
+  }
+]
