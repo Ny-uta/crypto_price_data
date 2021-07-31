@@ -1,0 +1,6458 @@
+[
+  {
+    "close_time": 1627606260,
+    "close_time_dt": "2021/07/30 00:51",
+    "open_price": 0.05977,
+    "high_price": 0.05977,
+    "low_price": 0.05977,
+    "close_price": 0.05977
+  },
+  {
+    "close_time": 1627606320,
+    "close_time_dt": "2021/07/30 00:52",
+    "open_price": 0.05983,
+    "high_price": 0.05983,
+    "low_price": 0.05983,
+    "close_price": 0.05983
+  },
+  {
+    "close_time": 1627606740,
+    "close_time_dt": "2021/07/30 00:59",
+    "open_price": 0.05993,
+    "high_price": 0.05993,
+    "low_price": 0.05993,
+    "close_price": 0.05993
+  },
+  {
+    "close_time": 1627606860,
+    "close_time_dt": "2021/07/30 01:01",
+    "open_price": 0.05998,
+    "high_price": 0.05998,
+    "low_price": 0.05998,
+    "close_price": 0.05998
+  },
+  {
+    "close_time": 1627606920,
+    "close_time_dt": "2021/07/30 01:02",
+    "open_price": 0.06,
+    "high_price": 0.06,
+    "low_price": 0.06,
+    "close_price": 0.06
+  },
+  {
+    "close_time": 1627607040,
+    "close_time_dt": "2021/07/30 01:04",
+    "open_price": 0.05996,
+    "high_price": 0.05996,
+    "low_price": 0.05996,
+    "close_price": 0.05996
+  },
+  {
+    "close_time": 1627607220,
+    "close_time_dt": "2021/07/30 01:07",
+    "open_price": 0.05997,
+    "high_price": 0.05997,
+    "low_price": 0.05997,
+    "close_price": 0.05997
+  },
+  {
+    "close_time": 1627607340,
+    "close_time_dt": "2021/07/30 01:09",
+    "open_price": 0.06002,
+    "high_price": 0.06002,
+    "low_price": 0.06002,
+    "close_price": 0.06002
+  },
+  {
+    "close_time": 1627607580,
+    "close_time_dt": "2021/07/30 01:13",
+    "open_price": 0.06003,
+    "high_price": 0.06008,
+    "low_price": 0.06003,
+    "close_price": 0.06008
+  },
+  {
+    "close_time": 1627607640,
+    "close_time_dt": "2021/07/30 01:14",
+    "open_price": 0.06009,
+    "high_price": 0.06009,
+    "low_price": 0.06009,
+    "close_price": 0.06009
+  },
+  {
+    "close_time": 1627607700,
+    "close_time_dt": "2021/07/30 01:15",
+    "open_price": 0.0601,
+    "high_price": 0.0601,
+    "low_price": 0.0601,
+    "close_price": 0.0601
+  },
+  {
+    "close_time": 1627607760,
+    "close_time_dt": "2021/07/30 01:16",
+    "open_price": 0.0601,
+    "high_price": 0.06016,
+    "low_price": 0.0601,
+    "close_price": 0.06016
+  },
+  {
+    "close_time": 1627607940,
+    "close_time_dt": "2021/07/30 01:19",
+    "open_price": 0.06016,
+    "high_price": 0.06019,
+    "low_price": 0.06015,
+    "close_price": 0.06015
+  },
+  {
+    "close_time": 1627608000,
+    "close_time_dt": "2021/07/30 01:20",
+    "open_price": 0.06012,
+    "high_price": 0.06012,
+    "low_price": 0.06012,
+    "close_price": 0.06012
+  },
+  {
+    "close_time": 1627608060,
+    "close_time_dt": "2021/07/30 01:21",
+    "open_price": 0.06012,
+    "high_price": 0.06012,
+    "low_price": 0.06012,
+    "close_price": 0.06012
+  },
+  {
+    "close_time": 1627608120,
+    "close_time_dt": "2021/07/30 01:22",
+    "open_price": 0.06009,
+    "high_price": 0.0601,
+    "low_price": 0.06009,
+    "close_price": 0.0601
+  },
+  {
+    "close_time": 1627608180,
+    "close_time_dt": "2021/07/30 01:23",
+    "open_price": 0.06008,
+    "high_price": 0.06008,
+    "low_price": 0.06008,
+    "close_price": 0.06008
+  },
+  {
+    "close_time": 1627608300,
+    "close_time_dt": "2021/07/30 01:25",
+    "open_price": 0.0601,
+    "high_price": 0.0601,
+    "low_price": 0.0601,
+    "close_price": 0.0601
+  },
+  {
+    "close_time": 1627608480,
+    "close_time_dt": "2021/07/30 01:28",
+    "open_price": 0.06004,
+    "high_price": 0.06004,
+    "low_price": 0.06003,
+    "close_price": 0.06003
+  },
+  {
+    "close_time": 1627608540,
+    "close_time_dt": "2021/07/30 01:29",
+    "open_price": 0.06003,
+    "high_price": 0.06003,
+    "low_price": 0.06003,
+    "close_price": 0.06003
+  },
+  {
+    "close_time": 1627608780,
+    "close_time_dt": "2021/07/30 01:33",
+    "open_price": 0.06003,
+    "high_price": 0.06003,
+    "low_price": 0.06003,
+    "close_price": 0.06003
+  },
+  {
+    "close_time": 1627608900,
+    "close_time_dt": "2021/07/30 01:35",
+    "open_price": 0.06007,
+    "high_price": 0.06007,
+    "low_price": 0.06007,
+    "close_price": 0.06007
+  },
+  {
+    "close_time": 1627608960,
+    "close_time_dt": "2021/07/30 01:36",
+    "open_price": 0.06012,
+    "high_price": 0.06012,
+    "low_price": 0.06012,
+    "close_price": 0.06012
+  },
+  {
+    "close_time": 1627609020,
+    "close_time_dt": "2021/07/30 01:37",
+    "open_price": 0.0602,
+    "high_price": 0.0602,
+    "low_price": 0.0602,
+    "close_price": 0.0602
+  },
+  {
+    "close_time": 1627609080,
+    "close_time_dt": "2021/07/30 01:38",
+    "open_price": 0.06021,
+    "high_price": 0.06023,
+    "low_price": 0.06021,
+    "close_price": 0.06023
+  },
+  {
+    "close_time": 1627609320,
+    "close_time_dt": "2021/07/30 01:42",
+    "open_price": 0.06024,
+    "high_price": 0.06035,
+    "low_price": 0.06024,
+    "close_price": 0.06035
+  },
+  {
+    "close_time": 1627609380,
+    "close_time_dt": "2021/07/30 01:43",
+    "open_price": 0.06036,
+    "high_price": 0.06046,
+    "low_price": 0.06036,
+    "close_price": 0.06046
+  },
+  {
+    "close_time": 1627609440,
+    "close_time_dt": "2021/07/30 01:44",
+    "open_price": 0.06044,
+    "high_price": 0.06046,
+    "low_price": 0.06044,
+    "close_price": 0.06046
+  },
+  {
+    "close_time": 1627609560,
+    "close_time_dt": "2021/07/30 01:46",
+    "open_price": 0.06046,
+    "high_price": 0.06054,
+    "low_price": 0.06043,
+    "close_price": 0.06054
+  },
+  {
+    "close_time": 1627609620,
+    "close_time_dt": "2021/07/30 01:47",
+    "open_price": 0.06054,
+    "high_price": 0.06074,
+    "low_price": 0.06054,
+    "close_price": 0.06072
+  },
+  {
+    "close_time": 1627609680,
+    "close_time_dt": "2021/07/30 01:48",
+    "open_price": 0.06072,
+    "high_price": 0.06082,
+    "low_price": 0.06072,
+    "close_price": 0.06082
+  },
+  {
+    "close_time": 1627609740,
+    "close_time_dt": "2021/07/30 01:49",
+    "open_price": 0.06083,
+    "high_price": 0.06085,
+    "low_price": 0.06079,
+    "close_price": 0.06081
+  },
+  {
+    "close_time": 1627609800,
+    "close_time_dt": "2021/07/30 01:50",
+    "open_price": 0.06075,
+    "high_price": 0.0608,
+    "low_price": 0.06075,
+    "close_price": 0.06078
+  },
+  {
+    "close_time": 1627609860,
+    "close_time_dt": "2021/07/30 01:51",
+    "open_price": 0.06077,
+    "high_price": 0.06077,
+    "low_price": 0.06077,
+    "close_price": 0.06077
+  },
+  {
+    "close_time": 1627609980,
+    "close_time_dt": "2021/07/30 01:53",
+    "open_price": 0.0607,
+    "high_price": 0.0607,
+    "low_price": 0.0607,
+    "close_price": 0.0607
+  },
+  {
+    "close_time": 1627610040,
+    "close_time_dt": "2021/07/30 01:54",
+    "open_price": 0.06071,
+    "high_price": 0.06071,
+    "low_price": 0.0607,
+    "close_price": 0.0607
+  },
+  {
+    "close_time": 1627610160,
+    "close_time_dt": "2021/07/30 01:56",
+    "open_price": 0.06077,
+    "high_price": 0.06077,
+    "low_price": 0.06077,
+    "close_price": 0.06077
+  },
+  {
+    "close_time": 1627610220,
+    "close_time_dt": "2021/07/30 01:57",
+    "open_price": 0.06081,
+    "high_price": 0.06087,
+    "low_price": 0.06081,
+    "close_price": 0.06087
+  },
+  {
+    "close_time": 1627610280,
+    "close_time_dt": "2021/07/30 01:58",
+    "open_price": 0.06086,
+    "high_price": 0.06087,
+    "low_price": 0.06079,
+    "close_price": 0.06079
+  },
+  {
+    "close_time": 1627610340,
+    "close_time_dt": "2021/07/30 01:59",
+    "open_price": 0.06075,
+    "high_price": 0.06075,
+    "low_price": 0.0607,
+    "close_price": 0.0607
+  },
+  {
+    "close_time": 1627610400,
+    "close_time_dt": "2021/07/30 02:00",
+    "open_price": 0.0607,
+    "high_price": 0.0607,
+    "low_price": 0.06066,
+    "close_price": 0.06066
+  },
+  {
+    "close_time": 1627610460,
+    "close_time_dt": "2021/07/30 02:01",
+    "open_price": 0.0607,
+    "high_price": 0.06072,
+    "low_price": 0.06069,
+    "close_price": 0.06069
+  },
+  {
+    "close_time": 1627610580,
+    "close_time_dt": "2021/07/30 02:03",
+    "open_price": 0.06081,
+    "high_price": 0.06083,
+    "low_price": 0.06081,
+    "close_price": 0.06083
+  },
+  {
+    "close_time": 1627610640,
+    "close_time_dt": "2021/07/30 02:04",
+    "open_price": 0.06077,
+    "high_price": 0.06077,
+    "low_price": 0.06077,
+    "close_price": 0.06077
+  },
+  {
+    "close_time": 1627610760,
+    "close_time_dt": "2021/07/30 02:06",
+    "open_price": 0.06082,
+    "high_price": 0.06088,
+    "low_price": 0.06082,
+    "close_price": 0.06087
+  },
+  {
+    "close_time": 1627610820,
+    "close_time_dt": "2021/07/30 02:07",
+    "open_price": 0.06079,
+    "high_price": 0.06079,
+    "low_price": 0.06079,
+    "close_price": 0.06079
+  },
+  {
+    "close_time": 1627610880,
+    "close_time_dt": "2021/07/30 02:08",
+    "open_price": 0.06079,
+    "high_price": 0.06079,
+    "low_price": 0.06079,
+    "close_price": 0.06079
+  },
+  {
+    "close_time": 1627610940,
+    "close_time_dt": "2021/07/30 02:09",
+    "open_price": 0.06078,
+    "high_price": 0.06078,
+    "low_price": 0.06078,
+    "close_price": 0.06078
+  },
+  {
+    "close_time": 1627611000,
+    "close_time_dt": "2021/07/30 02:10",
+    "open_price": 0.06079,
+    "high_price": 0.06079,
+    "low_price": 0.06072,
+    "close_price": 0.06072
+  },
+  {
+    "close_time": 1627611120,
+    "close_time_dt": "2021/07/30 02:12",
+    "open_price": 0.06071,
+    "high_price": 0.06071,
+    "low_price": 0.06071,
+    "close_price": 0.06071
+  },
+  {
+    "close_time": 1627611240,
+    "close_time_dt": "2021/07/30 02:14",
+    "open_price": 0.06072,
+    "high_price": 0.06072,
+    "low_price": 0.06072,
+    "close_price": 0.06072
+  },
+  {
+    "close_time": 1627611420,
+    "close_time_dt": "2021/07/30 02:17",
+    "open_price": 0.06069,
+    "high_price": 0.06069,
+    "low_price": 0.06069,
+    "close_price": 0.06069
+  },
+  {
+    "close_time": 1627611540,
+    "close_time_dt": "2021/07/30 02:19",
+    "open_price": 0.06061,
+    "high_price": 0.06061,
+    "low_price": 0.06057,
+    "close_price": 0.06057
+  },
+  {
+    "close_time": 1627611600,
+    "close_time_dt": "2021/07/30 02:20",
+    "open_price": 0.06054,
+    "high_price": 0.06054,
+    "low_price": 0.06054,
+    "close_price": 0.06054
+  },
+  {
+    "close_time": 1627611660,
+    "close_time_dt": "2021/07/30 02:21",
+    "open_price": 0.06057,
+    "high_price": 0.0606,
+    "low_price": 0.06057,
+    "close_price": 0.0606
+  },
+  {
+    "close_time": 1627611720,
+    "close_time_dt": "2021/07/30 02:22",
+    "open_price": 0.06068,
+    "high_price": 0.06068,
+    "low_price": 0.06068,
+    "close_price": 0.06068
+  },
+  {
+    "close_time": 1627611780,
+    "close_time_dt": "2021/07/30 02:23",
+    "open_price": 0.06066,
+    "high_price": 0.06066,
+    "low_price": 0.06066,
+    "close_price": 0.06066
+  },
+  {
+    "close_time": 1627611840,
+    "close_time_dt": "2021/07/30 02:24",
+    "open_price": 0.06062,
+    "high_price": 0.06062,
+    "low_price": 0.06061,
+    "close_price": 0.06061
+  },
+  {
+    "close_time": 1627611900,
+    "close_time_dt": "2021/07/30 02:25",
+    "open_price": 0.06059,
+    "high_price": 0.06059,
+    "low_price": 0.06059,
+    "close_price": 0.06059
+  },
+  {
+    "close_time": 1627611960,
+    "close_time_dt": "2021/07/30 02:26",
+    "open_price": 0.06054,
+    "high_price": 0.06054,
+    "low_price": 0.06054,
+    "close_price": 0.06054
+  },
+  {
+    "close_time": 1627612020,
+    "close_time_dt": "2021/07/30 02:27",
+    "open_price": 0.06052,
+    "high_price": 0.06052,
+    "low_price": 0.06047,
+    "close_price": 0.06047
+  },
+  {
+    "close_time": 1627612260,
+    "close_time_dt": "2021/07/30 02:31",
+    "open_price": 0.06056,
+    "high_price": 0.06056,
+    "low_price": 0.06056,
+    "close_price": 0.06056
+  },
+  {
+    "close_time": 1627612320,
+    "close_time_dt": "2021/07/30 02:32",
+    "open_price": 0.06059,
+    "high_price": 0.06061,
+    "low_price": 0.06059,
+    "close_price": 0.06061
+  },
+  {
+    "close_time": 1627612500,
+    "close_time_dt": "2021/07/30 02:35",
+    "open_price": 0.06063,
+    "high_price": 0.06063,
+    "low_price": 0.06063,
+    "close_price": 0.06063
+  },
+  {
+    "close_time": 1627612620,
+    "close_time_dt": "2021/07/30 02:37",
+    "open_price": 0.0606,
+    "high_price": 0.0606,
+    "low_price": 0.0606,
+    "close_price": 0.0606
+  },
+  {
+    "close_time": 1627612800,
+    "close_time_dt": "2021/07/30 02:40",
+    "open_price": 0.06053,
+    "high_price": 0.06053,
+    "low_price": 0.06053,
+    "close_price": 0.06053
+  },
+  {
+    "close_time": 1627612860,
+    "close_time_dt": "2021/07/30 02:41",
+    "open_price": 0.06056,
+    "high_price": 0.06058,
+    "low_price": 0.06056,
+    "close_price": 0.06058
+  },
+  {
+    "close_time": 1627612920,
+    "close_time_dt": "2021/07/30 02:42",
+    "open_price": 0.06057,
+    "high_price": 0.06058,
+    "low_price": 0.06056,
+    "close_price": 0.06058
+  },
+  {
+    "close_time": 1627613160,
+    "close_time_dt": "2021/07/30 02:46",
+    "open_price": 0.06062,
+    "high_price": 0.06066,
+    "low_price": 0.06062,
+    "close_price": 0.06066
+  },
+  {
+    "close_time": 1627613220,
+    "close_time_dt": "2021/07/30 02:47",
+    "open_price": 0.06067,
+    "high_price": 0.06067,
+    "low_price": 0.06067,
+    "close_price": 0.06067
+  },
+  {
+    "close_time": 1627613280,
+    "close_time_dt": "2021/07/30 02:48",
+    "open_price": 0.06067,
+    "high_price": 0.06067,
+    "low_price": 0.06067,
+    "close_price": 0.06067
+  },
+  {
+    "close_time": 1627613400,
+    "close_time_dt": "2021/07/30 02:50",
+    "open_price": 0.06065,
+    "high_price": 0.06065,
+    "low_price": 0.06065,
+    "close_price": 0.06065
+  },
+  {
+    "close_time": 1627613700,
+    "close_time_dt": "2021/07/30 02:55",
+    "open_price": 0.06065,
+    "high_price": 0.06065,
+    "low_price": 0.06065,
+    "close_price": 0.06065
+  },
+  {
+    "close_time": 1627613760,
+    "close_time_dt": "2021/07/30 02:56",
+    "open_price": 0.06065,
+    "high_price": 0.06065,
+    "low_price": 0.06065,
+    "close_price": 0.06065
+  },
+  {
+    "close_time": 1627613880,
+    "close_time_dt": "2021/07/30 02:58",
+    "open_price": 0.06066,
+    "high_price": 0.06066,
+    "low_price": 0.06066,
+    "close_price": 0.06066
+  },
+  {
+    "close_time": 1627614060,
+    "close_time_dt": "2021/07/30 03:01",
+    "open_price": 0.06072,
+    "high_price": 0.06072,
+    "low_price": 0.0607,
+    "close_price": 0.0607
+  },
+  {
+    "close_time": 1627614180,
+    "close_time_dt": "2021/07/30 03:03",
+    "open_price": 0.06074,
+    "high_price": 0.06074,
+    "low_price": 0.06074,
+    "close_price": 0.06074
+  },
+  {
+    "close_time": 1627614240,
+    "close_time_dt": "2021/07/30 03:04",
+    "open_price": 0.06073,
+    "high_price": 0.06073,
+    "low_price": 0.06069,
+    "close_price": 0.06069
+  },
+  {
+    "close_time": 1627614360,
+    "close_time_dt": "2021/07/30 03:06",
+    "open_price": 0.06078,
+    "high_price": 0.06078,
+    "low_price": 0.06077,
+    "close_price": 0.06077
+  },
+  {
+    "close_time": 1627614420,
+    "close_time_dt": "2021/07/30 03:07",
+    "open_price": 0.06079,
+    "high_price": 0.06079,
+    "low_price": 0.06079,
+    "close_price": 0.06079
+  },
+  {
+    "close_time": 1627614480,
+    "close_time_dt": "2021/07/30 03:08",
+    "open_price": 0.06082,
+    "high_price": 0.06084,
+    "low_price": 0.06082,
+    "close_price": 0.06084
+  },
+  {
+    "close_time": 1627614600,
+    "close_time_dt": "2021/07/30 03:10",
+    "open_price": 0.06083,
+    "high_price": 0.06083,
+    "low_price": 0.06083,
+    "close_price": 0.06083
+  },
+  {
+    "close_time": 1627614660,
+    "close_time_dt": "2021/07/30 03:11",
+    "open_price": 0.06082,
+    "high_price": 0.06082,
+    "low_price": 0.06082,
+    "close_price": 0.06082
+  },
+  {
+    "close_time": 1627614720,
+    "close_time_dt": "2021/07/30 03:12",
+    "open_price": 0.0608,
+    "high_price": 0.0608,
+    "low_price": 0.0608,
+    "close_price": 0.0608
+  },
+  {
+    "close_time": 1627614780,
+    "close_time_dt": "2021/07/30 03:13",
+    "open_price": 0.06081,
+    "high_price": 0.06081,
+    "low_price": 0.06081,
+    "close_price": 0.06081
+  },
+  {
+    "close_time": 1627614900,
+    "close_time_dt": "2021/07/30 03:15",
+    "open_price": 0.0608,
+    "high_price": 0.0608,
+    "low_price": 0.0608,
+    "close_price": 0.0608
+  },
+  {
+    "close_time": 1627614960,
+    "close_time_dt": "2021/07/30 03:16",
+    "open_price": 0.0608,
+    "high_price": 0.06086,
+    "low_price": 0.0608,
+    "close_price": 0.06086
+  },
+  {
+    "close_time": 1627615020,
+    "close_time_dt": "2021/07/30 03:17",
+    "open_price": 0.06087,
+    "high_price": 0.06087,
+    "low_price": 0.06087,
+    "close_price": 0.06087
+  },
+  {
+    "close_time": 1627615080,
+    "close_time_dt": "2021/07/30 03:18",
+    "open_price": 0.06081,
+    "high_price": 0.06081,
+    "low_price": 0.06081,
+    "close_price": 0.06081
+  },
+  {
+    "close_time": 1627615140,
+    "close_time_dt": "2021/07/30 03:19",
+    "open_price": 0.06079,
+    "high_price": 0.06079,
+    "low_price": 0.06077,
+    "close_price": 0.06077
+  },
+  {
+    "close_time": 1627615500,
+    "close_time_dt": "2021/07/30 03:25",
+    "open_price": 0.06073,
+    "high_price": 0.06075,
+    "low_price": 0.06073,
+    "close_price": 0.06075
+  },
+  {
+    "close_time": 1627615560,
+    "close_time_dt": "2021/07/30 03:26",
+    "open_price": 0.06075,
+    "high_price": 0.06075,
+    "low_price": 0.06075,
+    "close_price": 0.06075
+  },
+  {
+    "close_time": 1627615620,
+    "close_time_dt": "2021/07/30 03:27",
+    "open_price": 0.06077,
+    "high_price": 0.06077,
+    "low_price": 0.06077,
+    "close_price": 0.06077
+  },
+  {
+    "close_time": 1627615680,
+    "close_time_dt": "2021/07/30 03:28",
+    "open_price": 0.06076,
+    "high_price": 0.06076,
+    "low_price": 0.06076,
+    "close_price": 0.06076
+  },
+  {
+    "close_time": 1627615860,
+    "close_time_dt": "2021/07/30 03:31",
+    "open_price": 0.06075,
+    "high_price": 0.06075,
+    "low_price": 0.06075,
+    "close_price": 0.06075
+  },
+  {
+    "close_time": 1627615920,
+    "close_time_dt": "2021/07/30 03:32",
+    "open_price": 0.06075,
+    "high_price": 0.06075,
+    "low_price": 0.06075,
+    "close_price": 0.06075
+  },
+  {
+    "close_time": 1627615980,
+    "close_time_dt": "2021/07/30 03:33",
+    "open_price": 0.06073,
+    "high_price": 0.06073,
+    "low_price": 0.06065,
+    "close_price": 0.06065
+  },
+  {
+    "close_time": 1627616160,
+    "close_time_dt": "2021/07/30 03:36",
+    "open_price": 0.06065,
+    "high_price": 0.06065,
+    "low_price": 0.06063,
+    "close_price": 0.06063
+  },
+  {
+    "close_time": 1627616220,
+    "close_time_dt": "2021/07/30 03:37",
+    "open_price": 0.0606,
+    "high_price": 0.0606,
+    "low_price": 0.06055,
+    "close_price": 0.06055
+  },
+  {
+    "close_time": 1627616340,
+    "close_time_dt": "2021/07/30 03:39",
+    "open_price": 0.06055,
+    "high_price": 0.06055,
+    "low_price": 0.06053,
+    "close_price": 0.06053
+  },
+  {
+    "close_time": 1627616400,
+    "close_time_dt": "2021/07/30 03:40",
+    "open_price": 0.06052,
+    "high_price": 0.06052,
+    "low_price": 0.06052,
+    "close_price": 0.06052
+  },
+  {
+    "close_time": 1627616580,
+    "close_time_dt": "2021/07/30 03:43",
+    "open_price": 0.06055,
+    "high_price": 0.06055,
+    "low_price": 0.06055,
+    "close_price": 0.06055
+  },
+  {
+    "close_time": 1627616880,
+    "close_time_dt": "2021/07/30 03:48",
+    "open_price": 0.06068,
+    "high_price": 0.06068,
+    "low_price": 0.06067,
+    "close_price": 0.06067
+  },
+  {
+    "close_time": 1627616940,
+    "close_time_dt": "2021/07/30 03:49",
+    "open_price": 0.06067,
+    "high_price": 0.06067,
+    "low_price": 0.06067,
+    "close_price": 0.06067
+  },
+  {
+    "close_time": 1627617000,
+    "close_time_dt": "2021/07/30 03:50",
+    "open_price": 0.06067,
+    "high_price": 0.06067,
+    "low_price": 0.06067,
+    "close_price": 0.06067
+  },
+  {
+    "close_time": 1627617060,
+    "close_time_dt": "2021/07/30 03:51",
+    "open_price": 0.06067,
+    "high_price": 0.06067,
+    "low_price": 0.06067,
+    "close_price": 0.06067
+  },
+  {
+    "close_time": 1627617180,
+    "close_time_dt": "2021/07/30 03:53",
+    "open_price": 0.06067,
+    "high_price": 0.06067,
+    "low_price": 0.06064,
+    "close_price": 0.06064
+  },
+  {
+    "close_time": 1627617300,
+    "close_time_dt": "2021/07/30 03:55",
+    "open_price": 0.06063,
+    "high_price": 0.06063,
+    "low_price": 0.06063,
+    "close_price": 0.06063
+  },
+  {
+    "close_time": 1627617420,
+    "close_time_dt": "2021/07/30 03:57",
+    "open_price": 0.06053,
+    "high_price": 0.06053,
+    "low_price": 0.06053,
+    "close_price": 0.06053
+  },
+  {
+    "close_time": 1627617720,
+    "close_time_dt": "2021/07/30 04:02",
+    "open_price": 0.06066,
+    "high_price": 0.06066,
+    "low_price": 0.06066,
+    "close_price": 0.06066
+  },
+  {
+    "close_time": 1627618020,
+    "close_time_dt": "2021/07/30 04:07",
+    "open_price": 0.06068,
+    "high_price": 0.06068,
+    "low_price": 0.06066,
+    "close_price": 0.06066
+  },
+  {
+    "close_time": 1627618080,
+    "close_time_dt": "2021/07/30 04:08",
+    "open_price": 0.06063,
+    "high_price": 0.06063,
+    "low_price": 0.06063,
+    "close_price": 0.06063
+  },
+  {
+    "close_time": 1627618140,
+    "close_time_dt": "2021/07/30 04:09",
+    "open_price": 0.06064,
+    "high_price": 0.06064,
+    "low_price": 0.06064,
+    "close_price": 0.06064
+  },
+  {
+    "close_time": 1627618200,
+    "close_time_dt": "2021/07/30 04:10",
+    "open_price": 0.06064,
+    "high_price": 0.06064,
+    "low_price": 0.06064,
+    "close_price": 0.06064
+  },
+  {
+    "close_time": 1627618260,
+    "close_time_dt": "2021/07/30 04:11",
+    "open_price": 0.06063,
+    "high_price": 0.06063,
+    "low_price": 0.06063,
+    "close_price": 0.06063
+  },
+  {
+    "close_time": 1627618320,
+    "close_time_dt": "2021/07/30 04:12",
+    "open_price": 0.06071,
+    "high_price": 0.06071,
+    "low_price": 0.06071,
+    "close_price": 0.06071
+  },
+  {
+    "close_time": 1627618500,
+    "close_time_dt": "2021/07/30 04:15",
+    "open_price": 0.06073,
+    "high_price": 0.06077,
+    "low_price": 0.06073,
+    "close_price": 0.06077
+  },
+  {
+    "close_time": 1627618620,
+    "close_time_dt": "2021/07/30 04:17",
+    "open_price": 0.06078,
+    "high_price": 0.06078,
+    "low_price": 0.06078,
+    "close_price": 0.06078
+  },
+  {
+    "close_time": 1627618740,
+    "close_time_dt": "2021/07/30 04:19",
+    "open_price": 0.06079,
+    "high_price": 0.06079,
+    "low_price": 0.06078,
+    "close_price": 0.06078
+  },
+  {
+    "close_time": 1627618980,
+    "close_time_dt": "2021/07/30 04:23",
+    "open_price": 0.06076,
+    "high_price": 0.06076,
+    "low_price": 0.06076,
+    "close_price": 0.06076
+  },
+  {
+    "close_time": 1627619400,
+    "close_time_dt": "2021/07/30 04:30",
+    "open_price": 0.06074,
+    "high_price": 0.06074,
+    "low_price": 0.06074,
+    "close_price": 0.06074
+  },
+  {
+    "close_time": 1627619460,
+    "close_time_dt": "2021/07/30 04:31",
+    "open_price": 0.06073,
+    "high_price": 0.06074,
+    "low_price": 0.06073,
+    "close_price": 0.06074
+  },
+  {
+    "close_time": 1627619580,
+    "close_time_dt": "2021/07/30 04:33",
+    "open_price": 0.06077,
+    "high_price": 0.06077,
+    "low_price": 0.06077,
+    "close_price": 0.06077
+  },
+  {
+    "close_time": 1627619760,
+    "close_time_dt": "2021/07/30 04:36",
+    "open_price": 0.06077,
+    "high_price": 0.06077,
+    "low_price": 0.06076,
+    "close_price": 0.06076
+  },
+  {
+    "close_time": 1627619940,
+    "close_time_dt": "2021/07/30 04:39",
+    "open_price": 0.06079,
+    "high_price": 0.06079,
+    "low_price": 0.06079,
+    "close_price": 0.06079
+  },
+  {
+    "close_time": 1627620000,
+    "close_time_dt": "2021/07/30 04:40",
+    "open_price": 0.06079,
+    "high_price": 0.06079,
+    "low_price": 0.06079,
+    "close_price": 0.06079
+  },
+  {
+    "close_time": 1627620060,
+    "close_time_dt": "2021/07/30 04:41",
+    "open_price": 0.06079,
+    "high_price": 0.06079,
+    "low_price": 0.06079,
+    "close_price": 0.06079
+  },
+  {
+    "close_time": 1627620180,
+    "close_time_dt": "2021/07/30 04:43",
+    "open_price": 0.06077,
+    "high_price": 0.06077,
+    "low_price": 0.06077,
+    "close_price": 0.06077
+  },
+  {
+    "close_time": 1627620360,
+    "close_time_dt": "2021/07/30 04:46",
+    "open_price": 0.06076,
+    "high_price": 0.06076,
+    "low_price": 0.06076,
+    "close_price": 0.06076
+  },
+  {
+    "close_time": 1627620540,
+    "close_time_dt": "2021/07/30 04:49",
+    "open_price": 0.06075,
+    "high_price": 0.06075,
+    "low_price": 0.06075,
+    "close_price": 0.06075
+  },
+  {
+    "close_time": 1627620600,
+    "close_time_dt": "2021/07/30 04:50",
+    "open_price": 0.06076,
+    "high_price": 0.06076,
+    "low_price": 0.06076,
+    "close_price": 0.06076
+  },
+  {
+    "close_time": 1627620660,
+    "close_time_dt": "2021/07/30 04:51",
+    "open_price": 0.06077,
+    "high_price": 0.06077,
+    "low_price": 0.06077,
+    "close_price": 0.06077
+  },
+  {
+    "close_time": 1627620720,
+    "close_time_dt": "2021/07/30 04:52",
+    "open_price": 0.06071,
+    "high_price": 0.06071,
+    "low_price": 0.06071,
+    "close_price": 0.06071
+  },
+  {
+    "close_time": 1627620780,
+    "close_time_dt": "2021/07/30 04:53",
+    "open_price": 0.06069,
+    "high_price": 0.06069,
+    "low_price": 0.06067,
+    "close_price": 0.06067
+  },
+  {
+    "close_time": 1627620840,
+    "close_time_dt": "2021/07/30 04:54",
+    "open_price": 0.0607,
+    "high_price": 0.0607,
+    "low_price": 0.06065,
+    "close_price": 0.06065
+  },
+  {
+    "close_time": 1627620960,
+    "close_time_dt": "2021/07/30 04:56",
+    "open_price": 0.06064,
+    "high_price": 0.06064,
+    "low_price": 0.06064,
+    "close_price": 0.06064
+  },
+  {
+    "close_time": 1627621080,
+    "close_time_dt": "2021/07/30 04:58",
+    "open_price": 0.06064,
+    "high_price": 0.06065,
+    "low_price": 0.06064,
+    "close_price": 0.06065
+  },
+  {
+    "close_time": 1627621140,
+    "close_time_dt": "2021/07/30 04:59",
+    "open_price": 0.06065,
+    "high_price": 0.06065,
+    "low_price": 0.06065,
+    "close_price": 0.06065
+  },
+  {
+    "close_time": 1627621200,
+    "close_time_dt": "2021/07/30 05:00",
+    "open_price": 0.06065,
+    "high_price": 0.06065,
+    "low_price": 0.06065,
+    "close_price": 0.06065
+  },
+  {
+    "close_time": 1627621320,
+    "close_time_dt": "2021/07/30 05:02",
+    "open_price": 0.0607,
+    "high_price": 0.0607,
+    "low_price": 0.0607,
+    "close_price": 0.0607
+  },
+  {
+    "close_time": 1627621500,
+    "close_time_dt": "2021/07/30 05:05",
+    "open_price": 0.0607,
+    "high_price": 0.0607,
+    "low_price": 0.0607,
+    "close_price": 0.0607
+  },
+  {
+    "close_time": 1627621620,
+    "close_time_dt": "2021/07/30 05:07",
+    "open_price": 0.0607,
+    "high_price": 0.0607,
+    "low_price": 0.0607,
+    "close_price": 0.0607
+  },
+  {
+    "close_time": 1627621680,
+    "close_time_dt": "2021/07/30 05:08",
+    "open_price": 0.0607,
+    "high_price": 0.0607,
+    "low_price": 0.0607,
+    "close_price": 0.0607
+  },
+  {
+    "close_time": 1627621800,
+    "close_time_dt": "2021/07/30 05:10",
+    "open_price": 0.06071,
+    "high_price": 0.06071,
+    "low_price": 0.06071,
+    "close_price": 0.06071
+  },
+  {
+    "close_time": 1627621980,
+    "close_time_dt": "2021/07/30 05:13",
+    "open_price": 0.06071,
+    "high_price": 0.06071,
+    "low_price": 0.06071,
+    "close_price": 0.06071
+  },
+  {
+    "close_time": 1627622160,
+    "close_time_dt": "2021/07/30 05:16",
+    "open_price": 0.06069,
+    "high_price": 0.06069,
+    "low_price": 0.06066,
+    "close_price": 0.06066
+  },
+  {
+    "close_time": 1627622220,
+    "close_time_dt": "2021/07/30 05:17",
+    "open_price": 0.06065,
+    "high_price": 0.06066,
+    "low_price": 0.06065,
+    "close_price": 0.06066
+  },
+  {
+    "close_time": 1627622340,
+    "close_time_dt": "2021/07/30 05:19",
+    "open_price": 0.06065,
+    "high_price": 0.06065,
+    "low_price": 0.0606,
+    "close_price": 0.0606
+  },
+  {
+    "close_time": 1627622520,
+    "close_time_dt": "2021/07/30 05:22",
+    "open_price": 0.06072,
+    "high_price": 0.06072,
+    "low_price": 0.06072,
+    "close_price": 0.06072
+  },
+  {
+    "close_time": 1627622580,
+    "close_time_dt": "2021/07/30 05:23",
+    "open_price": 0.0607,
+    "high_price": 0.0607,
+    "low_price": 0.0607,
+    "close_price": 0.0607
+  },
+  {
+    "close_time": 1627622640,
+    "close_time_dt": "2021/07/30 05:24",
+    "open_price": 0.06069,
+    "high_price": 0.06069,
+    "low_price": 0.06069,
+    "close_price": 0.06069
+  },
+  {
+    "close_time": 1627622700,
+    "close_time_dt": "2021/07/30 05:25",
+    "open_price": 0.06068,
+    "high_price": 0.06068,
+    "low_price": 0.06068,
+    "close_price": 0.06068
+  },
+  {
+    "close_time": 1627622760,
+    "close_time_dt": "2021/07/30 05:26",
+    "open_price": 0.06066,
+    "high_price": 0.06066,
+    "low_price": 0.06063,
+    "close_price": 0.06063
+  },
+  {
+    "close_time": 1627622820,
+    "close_time_dt": "2021/07/30 05:27",
+    "open_price": 0.06063,
+    "high_price": 0.06064,
+    "low_price": 0.06063,
+    "close_price": 0.06064
+  },
+  {
+    "close_time": 1627623000,
+    "close_time_dt": "2021/07/30 05:30",
+    "open_price": 0.06057,
+    "high_price": 0.06062,
+    "low_price": 0.06057,
+    "close_price": 0.06062
+  },
+  {
+    "close_time": 1627623060,
+    "close_time_dt": "2021/07/30 05:31",
+    "open_price": 0.06056,
+    "high_price": 0.06056,
+    "low_price": 0.06056,
+    "close_price": 0.06056
+  },
+  {
+    "close_time": 1627623660,
+    "close_time_dt": "2021/07/30 05:41",
+    "open_price": 0.06065,
+    "high_price": 0.06065,
+    "low_price": 0.06065,
+    "close_price": 0.06065
+  },
+  {
+    "close_time": 1627623780,
+    "close_time_dt": "2021/07/30 05:43",
+    "open_price": 0.0607,
+    "high_price": 0.0607,
+    "low_price": 0.0607,
+    "close_price": 0.0607
+  },
+  {
+    "close_time": 1627623840,
+    "close_time_dt": "2021/07/30 05:44",
+    "open_price": 0.0607,
+    "high_price": 0.0607,
+    "low_price": 0.0607,
+    "close_price": 0.0607
+  },
+  {
+    "close_time": 1627623960,
+    "close_time_dt": "2021/07/30 05:46",
+    "open_price": 0.06068,
+    "high_price": 0.06068,
+    "low_price": 0.06064,
+    "close_price": 0.06064
+  },
+  {
+    "close_time": 1627624080,
+    "close_time_dt": "2021/07/30 05:48",
+    "open_price": 0.06061,
+    "high_price": 0.06061,
+    "low_price": 0.0606,
+    "close_price": 0.0606
+  },
+  {
+    "close_time": 1627624200,
+    "close_time_dt": "2021/07/30 05:50",
+    "open_price": 0.06052,
+    "high_price": 0.06052,
+    "low_price": 0.0605,
+    "close_price": 0.0605
+  },
+  {
+    "close_time": 1627624260,
+    "close_time_dt": "2021/07/30 05:51",
+    "open_price": 0.0605,
+    "high_price": 0.06053,
+    "low_price": 0.0605,
+    "close_price": 0.06053
+  },
+  {
+    "close_time": 1627624320,
+    "close_time_dt": "2021/07/30 05:52",
+    "open_price": 0.06054,
+    "high_price": 0.06056,
+    "low_price": 0.06054,
+    "close_price": 0.06056
+  },
+  {
+    "close_time": 1627624440,
+    "close_time_dt": "2021/07/30 05:54",
+    "open_price": 0.06054,
+    "high_price": 0.06054,
+    "low_price": 0.06054,
+    "close_price": 0.06054
+  },
+  {
+    "close_time": 1627624560,
+    "close_time_dt": "2021/07/30 05:56",
+    "open_price": 0.06053,
+    "high_price": 0.06053,
+    "low_price": 0.06053,
+    "close_price": 0.06053
+  },
+  {
+    "close_time": 1627624680,
+    "close_time_dt": "2021/07/30 05:58",
+    "open_price": 0.06051,
+    "high_price": 0.06051,
+    "low_price": 0.06051,
+    "close_price": 0.06051
+  },
+  {
+    "close_time": 1627624740,
+    "close_time_dt": "2021/07/30 05:59",
+    "open_price": 0.06051,
+    "high_price": 0.06051,
+    "low_price": 0.06051,
+    "close_price": 0.06051
+  },
+  {
+    "close_time": 1627624800,
+    "close_time_dt": "2021/07/30 06:00",
+    "open_price": 0.0605,
+    "high_price": 0.0605,
+    "low_price": 0.0605,
+    "close_price": 0.0605
+  },
+  {
+    "close_time": 1627624920,
+    "close_time_dt": "2021/07/30 06:02",
+    "open_price": 0.0605,
+    "high_price": 0.0605,
+    "low_price": 0.0605,
+    "close_price": 0.0605
+  },
+  {
+    "close_time": 1627625040,
+    "close_time_dt": "2021/07/30 06:04",
+    "open_price": 0.06049,
+    "high_price": 0.06049,
+    "low_price": 0.06049,
+    "close_price": 0.06049
+  },
+  {
+    "close_time": 1627625220,
+    "close_time_dt": "2021/07/30 06:07",
+    "open_price": 0.0605,
+    "high_price": 0.0605,
+    "low_price": 0.0605,
+    "close_price": 0.0605
+  },
+  {
+    "close_time": 1627625280,
+    "close_time_dt": "2021/07/30 06:08",
+    "open_price": 0.0605,
+    "high_price": 0.0605,
+    "low_price": 0.0605,
+    "close_price": 0.0605
+  },
+  {
+    "close_time": 1627625340,
+    "close_time_dt": "2021/07/30 06:09",
+    "open_price": 0.06049,
+    "high_price": 0.06049,
+    "low_price": 0.06049,
+    "close_price": 0.06049
+  },
+  {
+    "close_time": 1627625520,
+    "close_time_dt": "2021/07/30 06:12",
+    "open_price": 0.06045,
+    "high_price": 0.06045,
+    "low_price": 0.06037,
+    "close_price": 0.06037
+  },
+  {
+    "close_time": 1627625580,
+    "close_time_dt": "2021/07/30 06:13",
+    "open_price": 0.06036,
+    "high_price": 0.06036,
+    "low_price": 0.06025,
+    "close_price": 0.06026
+  },
+  {
+    "close_time": 1627625760,
+    "close_time_dt": "2021/07/30 06:16",
+    "open_price": 0.06025,
+    "high_price": 0.06025,
+    "low_price": 0.06024,
+    "close_price": 0.06024
+  },
+  {
+    "close_time": 1627625820,
+    "close_time_dt": "2021/07/30 06:17",
+    "open_price": 0.06023,
+    "high_price": 0.06023,
+    "low_price": 0.06021,
+    "close_price": 0.06021
+  },
+  {
+    "close_time": 1627626120,
+    "close_time_dt": "2021/07/30 06:22",
+    "open_price": 0.06032,
+    "high_price": 0.06032,
+    "low_price": 0.06032,
+    "close_price": 0.06032
+  },
+  {
+    "close_time": 1627626240,
+    "close_time_dt": "2021/07/30 06:24",
+    "open_price": 0.06029,
+    "high_price": 0.06029,
+    "low_price": 0.06029,
+    "close_price": 0.06029
+  },
+  {
+    "close_time": 1627626360,
+    "close_time_dt": "2021/07/30 06:26",
+    "open_price": 0.06029,
+    "high_price": 0.06031,
+    "low_price": 0.06029,
+    "close_price": 0.06031
+  },
+  {
+    "close_time": 1627626600,
+    "close_time_dt": "2021/07/30 06:30",
+    "open_price": 0.06023,
+    "high_price": 0.06023,
+    "low_price": 0.06023,
+    "close_price": 0.06023
+  },
+  {
+    "close_time": 1627626660,
+    "close_time_dt": "2021/07/30 06:31",
+    "open_price": 0.06025,
+    "high_price": 0.06026,
+    "low_price": 0.06025,
+    "close_price": 0.06026
+  },
+  {
+    "close_time": 1627626720,
+    "close_time_dt": "2021/07/30 06:32",
+    "open_price": 0.06025,
+    "high_price": 0.06025,
+    "low_price": 0.06025,
+    "close_price": 0.06025
+  },
+  {
+    "close_time": 1627626780,
+    "close_time_dt": "2021/07/30 06:33",
+    "open_price": 0.06021,
+    "high_price": 0.06021,
+    "low_price": 0.06019,
+    "close_price": 0.06019
+  },
+  {
+    "close_time": 1627626840,
+    "close_time_dt": "2021/07/30 06:34",
+    "open_price": 0.06024,
+    "high_price": 0.06024,
+    "low_price": 0.06024,
+    "close_price": 0.06024
+  },
+  {
+    "close_time": 1627626900,
+    "close_time_dt": "2021/07/30 06:35",
+    "open_price": 0.06024,
+    "high_price": 0.06024,
+    "low_price": 0.06024,
+    "close_price": 0.06024
+  },
+  {
+    "close_time": 1627626960,
+    "close_time_dt": "2021/07/30 06:36",
+    "open_price": 0.06025,
+    "high_price": 0.06028,
+    "low_price": 0.06025,
+    "close_price": 0.06028
+  },
+  {
+    "close_time": 1627627020,
+    "close_time_dt": "2021/07/30 06:37",
+    "open_price": 0.06026,
+    "high_price": 0.06026,
+    "low_price": 0.06026,
+    "close_price": 0.06026
+  },
+  {
+    "close_time": 1627627080,
+    "close_time_dt": "2021/07/30 06:38",
+    "open_price": 0.06028,
+    "high_price": 0.06028,
+    "low_price": 0.06028,
+    "close_price": 0.06028
+  },
+  {
+    "close_time": 1627627140,
+    "close_time_dt": "2021/07/30 06:39",
+    "open_price": 0.06027,
+    "high_price": 0.06027,
+    "low_price": 0.06027,
+    "close_price": 0.06027
+  },
+  {
+    "close_time": 1627627200,
+    "close_time_dt": "2021/07/30 06:40",
+    "open_price": 0.06028,
+    "high_price": 0.06036,
+    "low_price": 0.06028,
+    "close_price": 0.06033
+  },
+  {
+    "close_time": 1627627260,
+    "close_time_dt": "2021/07/30 06:41",
+    "open_price": 0.06032,
+    "high_price": 0.06032,
+    "low_price": 0.06032,
+    "close_price": 0.06032
+  },
+  {
+    "close_time": 1627627320,
+    "close_time_dt": "2021/07/30 06:42",
+    "open_price": 0.0603,
+    "high_price": 0.0603,
+    "low_price": 0.0603,
+    "close_price": 0.0603
+  },
+  {
+    "close_time": 1627627500,
+    "close_time_dt": "2021/07/30 06:45",
+    "open_price": 0.06027,
+    "high_price": 0.06027,
+    "low_price": 0.06027,
+    "close_price": 0.06027
+  },
+  {
+    "close_time": 1627627560,
+    "close_time_dt": "2021/07/30 06:46",
+    "open_price": 0.06029,
+    "high_price": 0.06032,
+    "low_price": 0.06029,
+    "close_price": 0.06032
+  },
+  {
+    "close_time": 1627627980,
+    "close_time_dt": "2021/07/30 06:53",
+    "open_price": 0.06033,
+    "high_price": 0.06033,
+    "low_price": 0.06033,
+    "close_price": 0.06033
+  },
+  {
+    "close_time": 1627628160,
+    "close_time_dt": "2021/07/30 06:56",
+    "open_price": 0.06032,
+    "high_price": 0.06032,
+    "low_price": 0.06032,
+    "close_price": 0.06032
+  },
+  {
+    "close_time": 1627628220,
+    "close_time_dt": "2021/07/30 06:57",
+    "open_price": 0.06037,
+    "high_price": 0.06037,
+    "low_price": 0.06037,
+    "close_price": 0.06037
+  },
+  {
+    "close_time": 1627628280,
+    "close_time_dt": "2021/07/30 06:58",
+    "open_price": 0.06039,
+    "high_price": 0.06044,
+    "low_price": 0.06039,
+    "close_price": 0.06044
+  },
+  {
+    "close_time": 1627628460,
+    "close_time_dt": "2021/07/30 07:01",
+    "open_price": 0.06049,
+    "high_price": 0.06052,
+    "low_price": 0.06049,
+    "close_price": 0.06052
+  },
+  {
+    "close_time": 1627628520,
+    "close_time_dt": "2021/07/30 07:02",
+    "open_price": 0.06052,
+    "high_price": 0.06052,
+    "low_price": 0.0605,
+    "close_price": 0.0605
+  },
+  {
+    "close_time": 1627628700,
+    "close_time_dt": "2021/07/30 07:05",
+    "open_price": 0.06048,
+    "high_price": 0.06048,
+    "low_price": 0.06048,
+    "close_price": 0.06048
+  },
+  {
+    "close_time": 1627628760,
+    "close_time_dt": "2021/07/30 07:06",
+    "open_price": 0.06047,
+    "high_price": 0.06047,
+    "low_price": 0.06045,
+    "close_price": 0.06045
+  },
+  {
+    "close_time": 1627628820,
+    "close_time_dt": "2021/07/30 07:07",
+    "open_price": 0.06047,
+    "high_price": 0.06047,
+    "low_price": 0.06047,
+    "close_price": 0.06047
+  },
+  {
+    "close_time": 1627629060,
+    "close_time_dt": "2021/07/30 07:11",
+    "open_price": 0.06041,
+    "high_price": 0.06041,
+    "low_price": 0.06041,
+    "close_price": 0.06041
+  },
+  {
+    "close_time": 1627629240,
+    "close_time_dt": "2021/07/30 07:14",
+    "open_price": 0.06043,
+    "high_price": 0.06043,
+    "low_price": 0.06043,
+    "close_price": 0.06043
+  },
+  {
+    "close_time": 1627629300,
+    "close_time_dt": "2021/07/30 07:15",
+    "open_price": 0.0604,
+    "high_price": 0.06041,
+    "low_price": 0.0604,
+    "close_price": 0.06041
+  },
+  {
+    "close_time": 1627629420,
+    "close_time_dt": "2021/07/30 07:17",
+    "open_price": 0.06042,
+    "high_price": 0.06042,
+    "low_price": 0.06042,
+    "close_price": 0.06042
+  },
+  {
+    "close_time": 1627629480,
+    "close_time_dt": "2021/07/30 07:18",
+    "open_price": 0.06037,
+    "high_price": 0.06037,
+    "low_price": 0.06037,
+    "close_price": 0.06037
+  },
+  {
+    "close_time": 1627629540,
+    "close_time_dt": "2021/07/30 07:19",
+    "open_price": 0.06037,
+    "high_price": 0.06037,
+    "low_price": 0.06037,
+    "close_price": 0.06037
+  },
+  {
+    "close_time": 1627629600,
+    "close_time_dt": "2021/07/30 07:20",
+    "open_price": 0.06034,
+    "high_price": 0.06034,
+    "low_price": 0.06034,
+    "close_price": 0.06034
+  },
+  {
+    "close_time": 1627629720,
+    "close_time_dt": "2021/07/30 07:22",
+    "open_price": 0.06035,
+    "high_price": 0.06035,
+    "low_price": 0.06033,
+    "close_price": 0.06033
+  },
+  {
+    "close_time": 1627629780,
+    "close_time_dt": "2021/07/30 07:23",
+    "open_price": 0.06032,
+    "high_price": 0.06032,
+    "low_price": 0.06032,
+    "close_price": 0.06032
+  },
+  {
+    "close_time": 1627629840,
+    "close_time_dt": "2021/07/30 07:24",
+    "open_price": 0.0603,
+    "high_price": 0.0603,
+    "low_price": 0.0603,
+    "close_price": 0.0603
+  },
+  {
+    "close_time": 1627629900,
+    "close_time_dt": "2021/07/30 07:25",
+    "open_price": 0.06031,
+    "high_price": 0.06031,
+    "low_price": 0.06031,
+    "close_price": 0.06031
+  },
+  {
+    "close_time": 1627629960,
+    "close_time_dt": "2021/07/30 07:26",
+    "open_price": 0.06034,
+    "high_price": 0.06034,
+    "low_price": 0.06034,
+    "close_price": 0.06034
+  },
+  {
+    "close_time": 1627630080,
+    "close_time_dt": "2021/07/30 07:28",
+    "open_price": 0.06034,
+    "high_price": 0.06034,
+    "low_price": 0.06034,
+    "close_price": 0.06034
+  },
+  {
+    "close_time": 1627630320,
+    "close_time_dt": "2021/07/30 07:32",
+    "open_price": 0.06038,
+    "high_price": 0.06038,
+    "low_price": 0.06037,
+    "close_price": 0.06037
+  },
+  {
+    "close_time": 1627630500,
+    "close_time_dt": "2021/07/30 07:35",
+    "open_price": 0.0603,
+    "high_price": 0.0603,
+    "low_price": 0.0603,
+    "close_price": 0.0603
+  },
+  {
+    "close_time": 1627630620,
+    "close_time_dt": "2021/07/30 07:37",
+    "open_price": 0.06029,
+    "high_price": 0.06029,
+    "low_price": 0.06029,
+    "close_price": 0.06029
+  },
+  {
+    "close_time": 1627631040,
+    "close_time_dt": "2021/07/30 07:44",
+    "open_price": 0.06019,
+    "high_price": 0.06019,
+    "low_price": 0.06019,
+    "close_price": 0.06019
+  },
+  {
+    "close_time": 1627631100,
+    "close_time_dt": "2021/07/30 07:45",
+    "open_price": 0.06018,
+    "high_price": 0.06018,
+    "low_price": 0.06018,
+    "close_price": 0.06018
+  },
+  {
+    "close_time": 1627631400,
+    "close_time_dt": "2021/07/30 07:50",
+    "open_price": 0.06042,
+    "high_price": 0.06045,
+    "low_price": 0.06042,
+    "close_price": 0.06045
+  },
+  {
+    "close_time": 1627631520,
+    "close_time_dt": "2021/07/30 07:52",
+    "open_price": 0.06047,
+    "high_price": 0.06048,
+    "low_price": 0.06047,
+    "close_price": 0.06048
+  },
+  {
+    "close_time": 1627631580,
+    "close_time_dt": "2021/07/30 07:53",
+    "open_price": 0.06044,
+    "high_price": 0.06044,
+    "low_price": 0.06044,
+    "close_price": 0.06044
+  },
+  {
+    "close_time": 1627631820,
+    "close_time_dt": "2021/07/30 07:57",
+    "open_price": 0.06043,
+    "high_price": 0.06043,
+    "low_price": 0.06043,
+    "close_price": 0.06043
+  },
+  {
+    "close_time": 1627631940,
+    "close_time_dt": "2021/07/30 07:59",
+    "open_price": 0.06052,
+    "high_price": 0.06052,
+    "low_price": 0.06052,
+    "close_price": 0.06052
+  },
+  {
+    "close_time": 1627632000,
+    "close_time_dt": "2021/07/30 08:00",
+    "open_price": 0.06052,
+    "high_price": 0.06052,
+    "low_price": 0.06052,
+    "close_price": 0.06052
+  },
+  {
+    "close_time": 1627632060,
+    "close_time_dt": "2021/07/30 08:01",
+    "open_price": 0.06052,
+    "high_price": 0.06055,
+    "low_price": 0.06052,
+    "close_price": 0.06055
+  },
+  {
+    "close_time": 1627632120,
+    "close_time_dt": "2021/07/30 08:02",
+    "open_price": 0.0605,
+    "high_price": 0.0605,
+    "low_price": 0.0605,
+    "close_price": 0.0605
+  },
+  {
+    "close_time": 1627632300,
+    "close_time_dt": "2021/07/30 08:05",
+    "open_price": 0.06048,
+    "high_price": 0.06048,
+    "low_price": 0.06048,
+    "close_price": 0.06048
+  },
+  {
+    "close_time": 1627632360,
+    "close_time_dt": "2021/07/30 08:06",
+    "open_price": 0.06045,
+    "high_price": 0.06045,
+    "low_price": 0.06045,
+    "close_price": 0.06045
+  },
+  {
+    "close_time": 1627632480,
+    "close_time_dt": "2021/07/30 08:08",
+    "open_price": 0.06046,
+    "high_price": 0.06046,
+    "low_price": 0.06046,
+    "close_price": 0.06046
+  },
+  {
+    "close_time": 1627632600,
+    "close_time_dt": "2021/07/30 08:10",
+    "open_price": 0.06045,
+    "high_price": 0.06045,
+    "low_price": 0.06045,
+    "close_price": 0.06045
+  },
+  {
+    "close_time": 1627632660,
+    "close_time_dt": "2021/07/30 08:11",
+    "open_price": 0.06044,
+    "high_price": 0.06044,
+    "low_price": 0.06044,
+    "close_price": 0.06044
+  },
+  {
+    "close_time": 1627632780,
+    "close_time_dt": "2021/07/30 08:13",
+    "open_price": 0.0604,
+    "high_price": 0.0604,
+    "low_price": 0.0604,
+    "close_price": 0.0604
+  },
+  {
+    "close_time": 1627632840,
+    "close_time_dt": "2021/07/30 08:14",
+    "open_price": 0.06041,
+    "high_price": 0.06041,
+    "low_price": 0.06041,
+    "close_price": 0.06041
+  },
+  {
+    "close_time": 1627632900,
+    "close_time_dt": "2021/07/30 08:15",
+    "open_price": 0.06041,
+    "high_price": 0.06041,
+    "low_price": 0.06041,
+    "close_price": 0.06041
+  },
+  {
+    "close_time": 1627633200,
+    "close_time_dt": "2021/07/30 08:20",
+    "open_price": 0.06036,
+    "high_price": 0.06036,
+    "low_price": 0.06036,
+    "close_price": 0.06036
+  },
+  {
+    "close_time": 1627633380,
+    "close_time_dt": "2021/07/30 08:23",
+    "open_price": 0.06035,
+    "high_price": 0.06035,
+    "low_price": 0.06035,
+    "close_price": 0.06035
+  },
+  {
+    "close_time": 1627633560,
+    "close_time_dt": "2021/07/30 08:26",
+    "open_price": 0.06039,
+    "high_price": 0.06039,
+    "low_price": 0.06039,
+    "close_price": 0.06039
+  },
+  {
+    "close_time": 1627633620,
+    "close_time_dt": "2021/07/30 08:27",
+    "open_price": 0.06036,
+    "high_price": 0.06036,
+    "low_price": 0.06036,
+    "close_price": 0.06036
+  },
+  {
+    "close_time": 1627633920,
+    "close_time_dt": "2021/07/30 08:32",
+    "open_price": 0.06032,
+    "high_price": 0.06032,
+    "low_price": 0.0603,
+    "close_price": 0.0603
+  },
+  {
+    "close_time": 1627634400,
+    "close_time_dt": "2021/07/30 08:40",
+    "open_price": 0.06038,
+    "high_price": 0.06038,
+    "low_price": 0.06038,
+    "close_price": 0.06038
+  },
+  {
+    "close_time": 1627634460,
+    "close_time_dt": "2021/07/30 08:41",
+    "open_price": 0.06032,
+    "high_price": 0.06039,
+    "low_price": 0.06032,
+    "close_price": 0.06039
+  },
+  {
+    "close_time": 1627634520,
+    "close_time_dt": "2021/07/30 08:42",
+    "open_price": 0.06036,
+    "high_price": 0.06059,
+    "low_price": 0.06036,
+    "close_price": 0.06059
+  },
+  {
+    "close_time": 1627634580,
+    "close_time_dt": "2021/07/30 08:43",
+    "open_price": 0.06055,
+    "high_price": 0.06055,
+    "low_price": 0.06055,
+    "close_price": 0.06055
+  },
+  {
+    "close_time": 1627634640,
+    "close_time_dt": "2021/07/30 08:44",
+    "open_price": 0.06048,
+    "high_price": 0.06051,
+    "low_price": 0.06048,
+    "close_price": 0.06051
+  },
+  {
+    "close_time": 1627634700,
+    "close_time_dt": "2021/07/30 08:45",
+    "open_price": 0.06055,
+    "high_price": 0.06056,
+    "low_price": 0.06055,
+    "close_price": 0.06056
+  },
+  {
+    "close_time": 1627634760,
+    "close_time_dt": "2021/07/30 08:46",
+    "open_price": 0.06058,
+    "high_price": 0.06058,
+    "low_price": 0.06058,
+    "close_price": 0.06058
+  },
+  {
+    "close_time": 1627634880,
+    "close_time_dt": "2021/07/30 08:48",
+    "open_price": 0.06052,
+    "high_price": 0.06052,
+    "low_price": 0.06049,
+    "close_price": 0.06049
+  },
+  {
+    "close_time": 1627635000,
+    "close_time_dt": "2021/07/30 08:50",
+    "open_price": 0.06051,
+    "high_price": 0.06051,
+    "low_price": 0.06051,
+    "close_price": 0.06051
+  },
+  {
+    "close_time": 1627635060,
+    "close_time_dt": "2021/07/30 08:51",
+    "open_price": 0.06053,
+    "high_price": 0.06053,
+    "low_price": 0.06053,
+    "close_price": 0.06053
+  },
+  {
+    "close_time": 1627635120,
+    "close_time_dt": "2021/07/30 08:52",
+    "open_price": 0.06059,
+    "high_price": 0.06067,
+    "low_price": 0.06059,
+    "close_price": 0.06067
+  },
+  {
+    "close_time": 1627635180,
+    "close_time_dt": "2021/07/30 08:53",
+    "open_price": 0.06068,
+    "high_price": 0.06071,
+    "low_price": 0.06068,
+    "close_price": 0.06071
+  },
+  {
+    "close_time": 1627635240,
+    "close_time_dt": "2021/07/30 08:54",
+    "open_price": 0.06064,
+    "high_price": 0.06064,
+    "low_price": 0.06064,
+    "close_price": 0.06064
+  },
+  {
+    "close_time": 1627635300,
+    "close_time_dt": "2021/07/30 08:55",
+    "open_price": 0.06056,
+    "high_price": 0.06056,
+    "low_price": 0.06056,
+    "close_price": 0.06056
+  },
+  {
+    "close_time": 1627635420,
+    "close_time_dt": "2021/07/30 08:57",
+    "open_price": 0.06069,
+    "high_price": 0.06069,
+    "low_price": 0.06069,
+    "close_price": 0.06069
+  },
+  {
+    "close_time": 1627635480,
+    "close_time_dt": "2021/07/30 08:58",
+    "open_price": 0.06072,
+    "high_price": 0.06072,
+    "low_price": 0.06072,
+    "close_price": 0.06072
+  },
+  {
+    "close_time": 1627635600,
+    "close_time_dt": "2021/07/30 09:00",
+    "open_price": 0.06071,
+    "high_price": 0.06072,
+    "low_price": 0.06071,
+    "close_price": 0.06072
+  },
+  {
+    "close_time": 1627635660,
+    "close_time_dt": "2021/07/30 09:01",
+    "open_price": 0.06072,
+    "high_price": 0.06074,
+    "low_price": 0.06072,
+    "close_price": 0.06074
+  },
+  {
+    "close_time": 1627635720,
+    "close_time_dt": "2021/07/30 09:02",
+    "open_price": 0.06075,
+    "high_price": 0.06077,
+    "low_price": 0.06075,
+    "close_price": 0.06077
+  },
+  {
+    "close_time": 1627635780,
+    "close_time_dt": "2021/07/30 09:03",
+    "open_price": 0.06078,
+    "high_price": 0.06079,
+    "low_price": 0.06078,
+    "close_price": 0.06079
+  },
+  {
+    "close_time": 1627635840,
+    "close_time_dt": "2021/07/30 09:04",
+    "open_price": 0.06077,
+    "high_price": 0.06077,
+    "low_price": 0.06077,
+    "close_price": 0.06077
+  },
+  {
+    "close_time": 1627635900,
+    "close_time_dt": "2021/07/30 09:05",
+    "open_price": 0.0608,
+    "high_price": 0.06086,
+    "low_price": 0.0608,
+    "close_price": 0.06086
+  },
+  {
+    "close_time": 1627635960,
+    "close_time_dt": "2021/07/30 09:06",
+    "open_price": 0.06072,
+    "high_price": 0.06072,
+    "low_price": 0.06072,
+    "close_price": 0.06072
+  },
+  {
+    "close_time": 1627636080,
+    "close_time_dt": "2021/07/30 09:08",
+    "open_price": 0.06071,
+    "high_price": 0.06071,
+    "low_price": 0.06062,
+    "close_price": 0.06064
+  },
+  {
+    "close_time": 1627636380,
+    "close_time_dt": "2021/07/30 09:13",
+    "open_price": 0.06052,
+    "high_price": 0.06052,
+    "low_price": 0.0605,
+    "close_price": 0.06052
+  },
+  {
+    "close_time": 1627636500,
+    "close_time_dt": "2021/07/30 09:15",
+    "open_price": 0.06053,
+    "high_price": 0.06053,
+    "low_price": 0.06053,
+    "close_price": 0.06053
+  },
+  {
+    "close_time": 1627636560,
+    "close_time_dt": "2021/07/30 09:16",
+    "open_price": 0.06056,
+    "high_price": 0.0606,
+    "low_price": 0.06056,
+    "close_price": 0.0606
+  },
+  {
+    "close_time": 1627636680,
+    "close_time_dt": "2021/07/30 09:18",
+    "open_price": 0.06065,
+    "high_price": 0.06065,
+    "low_price": 0.06065,
+    "close_price": 0.06065
+  },
+  {
+    "close_time": 1627636740,
+    "close_time_dt": "2021/07/30 09:19",
+    "open_price": 0.06067,
+    "high_price": 0.06067,
+    "low_price": 0.06064,
+    "close_price": 0.06064
+  },
+  {
+    "close_time": 1627636800,
+    "close_time_dt": "2021/07/30 09:20",
+    "open_price": 0.06056,
+    "high_price": 0.06056,
+    "low_price": 0.06056,
+    "close_price": 0.06056
+  },
+  {
+    "close_time": 1627636920,
+    "close_time_dt": "2021/07/30 09:22",
+    "open_price": 0.06054,
+    "high_price": 0.06054,
+    "low_price": 0.06054,
+    "close_price": 0.06054
+  },
+  {
+    "close_time": 1627636980,
+    "close_time_dt": "2021/07/30 09:23",
+    "open_price": 0.06056,
+    "high_price": 0.06056,
+    "low_price": 0.06056,
+    "close_price": 0.06056
+  },
+  {
+    "close_time": 1627637040,
+    "close_time_dt": "2021/07/30 09:24",
+    "open_price": 0.06057,
+    "high_price": 0.06057,
+    "low_price": 0.06057,
+    "close_price": 0.06057
+  },
+  {
+    "close_time": 1627637160,
+    "close_time_dt": "2021/07/30 09:26",
+    "open_price": 0.06055,
+    "high_price": 0.06055,
+    "low_price": 0.06055,
+    "close_price": 0.06055
+  },
+  {
+    "close_time": 1627637280,
+    "close_time_dt": "2021/07/30 09:28",
+    "open_price": 0.06057,
+    "high_price": 0.06058,
+    "low_price": 0.06057,
+    "close_price": 0.06058
+  },
+  {
+    "close_time": 1627637520,
+    "close_time_dt": "2021/07/30 09:32",
+    "open_price": 0.06045,
+    "high_price": 0.06045,
+    "low_price": 0.06044,
+    "close_price": 0.06044
+  },
+  {
+    "close_time": 1627637580,
+    "close_time_dt": "2021/07/30 09:33",
+    "open_price": 0.06044,
+    "high_price": 0.06044,
+    "low_price": 0.06041,
+    "close_price": 0.06041
+  },
+  {
+    "close_time": 1627637700,
+    "close_time_dt": "2021/07/30 09:35",
+    "open_price": 0.06044,
+    "high_price": 0.06044,
+    "low_price": 0.06042,
+    "close_price": 0.06042
+  },
+  {
+    "close_time": 1627637760,
+    "close_time_dt": "2021/07/30 09:36",
+    "open_price": 0.0604,
+    "high_price": 0.0604,
+    "low_price": 0.06038,
+    "close_price": 0.06038
+  },
+  {
+    "close_time": 1627637820,
+    "close_time_dt": "2021/07/30 09:37",
+    "open_price": 0.06037,
+    "high_price": 0.06037,
+    "low_price": 0.06037,
+    "close_price": 0.06037
+  },
+  {
+    "close_time": 1627637880,
+    "close_time_dt": "2021/07/30 09:38",
+    "open_price": 0.06037,
+    "high_price": 0.06037,
+    "low_price": 0.06036,
+    "close_price": 0.06036
+  },
+  {
+    "close_time": 1627637940,
+    "close_time_dt": "2021/07/30 09:39",
+    "open_price": 0.06039,
+    "high_price": 0.0604,
+    "low_price": 0.06039,
+    "close_price": 0.0604
+  },
+  {
+    "close_time": 1627638000,
+    "close_time_dt": "2021/07/30 09:40",
+    "open_price": 0.06042,
+    "high_price": 0.06042,
+    "low_price": 0.06039,
+    "close_price": 0.06039
+  },
+  {
+    "close_time": 1627638060,
+    "close_time_dt": "2021/07/30 09:41",
+    "open_price": 0.06036,
+    "high_price": 0.06036,
+    "low_price": 0.06034,
+    "close_price": 0.06034
+  },
+  {
+    "close_time": 1627638120,
+    "close_time_dt": "2021/07/30 09:42",
+    "open_price": 0.06036,
+    "high_price": 0.06044,
+    "low_price": 0.06033,
+    "close_price": 0.06033
+  },
+  {
+    "close_time": 1627638180,
+    "close_time_dt": "2021/07/30 09:43",
+    "open_price": 0.06039,
+    "high_price": 0.06039,
+    "low_price": 0.06039,
+    "close_price": 0.06039
+  },
+  {
+    "close_time": 1627638300,
+    "close_time_dt": "2021/07/30 09:45",
+    "open_price": 0.0604,
+    "high_price": 0.0604,
+    "low_price": 0.0604,
+    "close_price": 0.0604
+  },
+  {
+    "close_time": 1627638360,
+    "close_time_dt": "2021/07/30 09:46",
+    "open_price": 0.06051,
+    "high_price": 0.06052,
+    "low_price": 0.06051,
+    "close_price": 0.06052
+  },
+  {
+    "close_time": 1627638900,
+    "close_time_dt": "2021/07/30 09:55",
+    "open_price": 0.06052,
+    "high_price": 0.06052,
+    "low_price": 0.06052,
+    "close_price": 0.06052
+  },
+  {
+    "close_time": 1627639140,
+    "close_time_dt": "2021/07/30 09:59",
+    "open_price": 0.06051,
+    "high_price": 0.06052,
+    "low_price": 0.06051,
+    "close_price": 0.06052
+  },
+  {
+    "close_time": 1627639200,
+    "close_time_dt": "2021/07/30 10:00",
+    "open_price": 0.06052,
+    "high_price": 0.06052,
+    "low_price": 0.06051,
+    "close_price": 0.06052
+  },
+  {
+    "close_time": 1627639320,
+    "close_time_dt": "2021/07/30 10:02",
+    "open_price": 0.06045,
+    "high_price": 0.06045,
+    "low_price": 0.06045,
+    "close_price": 0.06045
+  },
+  {
+    "close_time": 1627639380,
+    "close_time_dt": "2021/07/30 10:03",
+    "open_price": 0.06043,
+    "high_price": 0.06045,
+    "low_price": 0.06043,
+    "close_price": 0.06045
+  },
+  {
+    "close_time": 1627639620,
+    "close_time_dt": "2021/07/30 10:07",
+    "open_price": 0.06049,
+    "high_price": 0.06049,
+    "low_price": 0.06049,
+    "close_price": 0.06049
+  },
+  {
+    "close_time": 1627639920,
+    "close_time_dt": "2021/07/30 10:12",
+    "open_price": 0.06049,
+    "high_price": 0.06049,
+    "low_price": 0.06049,
+    "close_price": 0.06049
+  },
+  {
+    "close_time": 1627640040,
+    "close_time_dt": "2021/07/30 10:14",
+    "open_price": 0.0605,
+    "high_price": 0.06051,
+    "low_price": 0.0605,
+    "close_price": 0.06051
+  },
+  {
+    "close_time": 1627640160,
+    "close_time_dt": "2021/07/30 10:16",
+    "open_price": 0.06051,
+    "high_price": 0.06053,
+    "low_price": 0.06051,
+    "close_price": 0.06053
+  },
+  {
+    "close_time": 1627640220,
+    "close_time_dt": "2021/07/30 10:17",
+    "open_price": 0.06051,
+    "high_price": 0.06051,
+    "low_price": 0.06051,
+    "close_price": 0.06051
+  },
+  {
+    "close_time": 1627640460,
+    "close_time_dt": "2021/07/30 10:21",
+    "open_price": 0.06043,
+    "high_price": 0.06047,
+    "low_price": 0.06043,
+    "close_price": 0.06047
+  },
+  {
+    "close_time": 1627640520,
+    "close_time_dt": "2021/07/30 10:22",
+    "open_price": 0.06045,
+    "high_price": 0.06045,
+    "low_price": 0.06045,
+    "close_price": 0.06045
+  },
+  {
+    "close_time": 1627640700,
+    "close_time_dt": "2021/07/30 10:25",
+    "open_price": 0.06048,
+    "high_price": 0.06048,
+    "low_price": 0.06048,
+    "close_price": 0.06048
+  },
+  {
+    "close_time": 1627640760,
+    "close_time_dt": "2021/07/30 10:26",
+    "open_price": 0.06053,
+    "high_price": 0.06053,
+    "low_price": 0.06053,
+    "close_price": 0.06053
+  },
+  {
+    "close_time": 1627641360,
+    "close_time_dt": "2021/07/30 10:36",
+    "open_price": 0.06052,
+    "high_price": 0.06052,
+    "low_price": 0.06051,
+    "close_price": 0.06051
+  },
+  {
+    "close_time": 1627641600,
+    "close_time_dt": "2021/07/30 10:40",
+    "open_price": 0.06051,
+    "high_price": 0.06051,
+    "low_price": 0.06051,
+    "close_price": 0.06051
+  },
+  {
+    "close_time": 1627641660,
+    "close_time_dt": "2021/07/30 10:41",
+    "open_price": 0.0605,
+    "high_price": 0.0605,
+    "low_price": 0.0605,
+    "close_price": 0.0605
+  },
+  {
+    "close_time": 1627641720,
+    "close_time_dt": "2021/07/30 10:42",
+    "open_price": 0.06045,
+    "high_price": 0.06045,
+    "low_price": 0.06045,
+    "close_price": 0.06045
+  },
+  {
+    "close_time": 1627641840,
+    "close_time_dt": "2021/07/30 10:44",
+    "open_price": 0.06045,
+    "high_price": 0.06045,
+    "low_price": 0.06045,
+    "close_price": 0.06045
+  },
+  {
+    "close_time": 1627641900,
+    "close_time_dt": "2021/07/30 10:45",
+    "open_price": 0.06052,
+    "high_price": 0.06052,
+    "low_price": 0.06052,
+    "close_price": 0.06052
+  },
+  {
+    "close_time": 1627642200,
+    "close_time_dt": "2021/07/30 10:50",
+    "open_price": 0.06058,
+    "high_price": 0.06058,
+    "low_price": 0.06058,
+    "close_price": 0.06058
+  },
+  {
+    "close_time": 1627642260,
+    "close_time_dt": "2021/07/30 10:51",
+    "open_price": 0.06059,
+    "high_price": 0.06059,
+    "low_price": 0.06059,
+    "close_price": 0.06059
+  },
+  {
+    "close_time": 1627642320,
+    "close_time_dt": "2021/07/30 10:52",
+    "open_price": 0.06059,
+    "high_price": 0.06059,
+    "low_price": 0.06059,
+    "close_price": 0.06059
+  },
+  {
+    "close_time": 1627642380,
+    "close_time_dt": "2021/07/30 10:53",
+    "open_price": 0.06061,
+    "high_price": 0.06061,
+    "low_price": 0.06061,
+    "close_price": 0.06061
+  },
+  {
+    "close_time": 1627642500,
+    "close_time_dt": "2021/07/30 10:55",
+    "open_price": 0.0606,
+    "high_price": 0.0606,
+    "low_price": 0.0606,
+    "close_price": 0.0606
+  },
+  {
+    "close_time": 1627642860,
+    "close_time_dt": "2021/07/30 11:01",
+    "open_price": 0.0606,
+    "high_price": 0.0606,
+    "low_price": 0.0606,
+    "close_price": 0.0606
+  },
+  {
+    "close_time": 1627643040,
+    "close_time_dt": "2021/07/30 11:04",
+    "open_price": 0.06059,
+    "high_price": 0.06059,
+    "low_price": 0.06059,
+    "close_price": 0.06059
+  },
+  {
+    "close_time": 1627643100,
+    "close_time_dt": "2021/07/30 11:05",
+    "open_price": 0.06057,
+    "high_price": 0.06058,
+    "low_price": 0.06057,
+    "close_price": 0.06058
+  },
+  {
+    "close_time": 1627643340,
+    "close_time_dt": "2021/07/30 11:09",
+    "open_price": 0.06053,
+    "high_price": 0.06053,
+    "low_price": 0.06053,
+    "close_price": 0.06053
+  },
+  {
+    "close_time": 1627643580,
+    "close_time_dt": "2021/07/30 11:13",
+    "open_price": 0.06055,
+    "high_price": 0.06055,
+    "low_price": 0.06055,
+    "close_price": 0.06055
+  },
+  {
+    "close_time": 1627643640,
+    "close_time_dt": "2021/07/30 11:14",
+    "open_price": 0.06055,
+    "high_price": 0.06055,
+    "low_price": 0.06054,
+    "close_price": 0.06054
+  },
+  {
+    "close_time": 1627643700,
+    "close_time_dt": "2021/07/30 11:15",
+    "open_price": 0.06053,
+    "high_price": 0.06053,
+    "low_price": 0.06053,
+    "close_price": 0.06053
+  },
+  {
+    "close_time": 1627643760,
+    "close_time_dt": "2021/07/30 11:16",
+    "open_price": 0.0605,
+    "high_price": 0.0605,
+    "low_price": 0.0605,
+    "close_price": 0.0605
+  },
+  {
+    "close_time": 1627644060,
+    "close_time_dt": "2021/07/30 11:21",
+    "open_price": 0.06052,
+    "high_price": 0.06052,
+    "low_price": 0.06052,
+    "close_price": 0.06052
+  },
+  {
+    "close_time": 1627644540,
+    "close_time_dt": "2021/07/30 11:29",
+    "open_price": 0.06045,
+    "high_price": 0.06045,
+    "low_price": 0.06043,
+    "close_price": 0.06043
+  },
+  {
+    "close_time": 1627644660,
+    "close_time_dt": "2021/07/30 11:31",
+    "open_price": 0.06043,
+    "high_price": 0.06043,
+    "low_price": 0.06043,
+    "close_price": 0.06043
+  },
+  {
+    "close_time": 1627644720,
+    "close_time_dt": "2021/07/30 11:32",
+    "open_price": 0.06042,
+    "high_price": 0.06042,
+    "low_price": 0.06041,
+    "close_price": 0.06041
+  },
+  {
+    "close_time": 1627644900,
+    "close_time_dt": "2021/07/30 11:35",
+    "open_price": 0.06042,
+    "high_price": 0.06042,
+    "low_price": 0.06042,
+    "close_price": 0.06042
+  },
+  {
+    "close_time": 1627645080,
+    "close_time_dt": "2021/07/30 11:38",
+    "open_price": 0.06042,
+    "high_price": 0.06047,
+    "low_price": 0.06042,
+    "close_price": 0.06045
+  },
+  {
+    "close_time": 1627645140,
+    "close_time_dt": "2021/07/30 11:39",
+    "open_price": 0.06046,
+    "high_price": 0.06046,
+    "low_price": 0.06046,
+    "close_price": 0.06046
+  },
+  {
+    "close_time": 1627645200,
+    "close_time_dt": "2021/07/30 11:40",
+    "open_price": 0.06045,
+    "high_price": 0.06045,
+    "low_price": 0.06045,
+    "close_price": 0.06045
+  },
+  {
+    "close_time": 1627645320,
+    "close_time_dt": "2021/07/30 11:42",
+    "open_price": 0.06033,
+    "high_price": 0.06033,
+    "low_price": 0.06028,
+    "close_price": 0.06028
+  },
+  {
+    "close_time": 1627645440,
+    "close_time_dt": "2021/07/30 11:44",
+    "open_price": 0.0604,
+    "high_price": 0.0604,
+    "low_price": 0.0604,
+    "close_price": 0.0604
+  },
+  {
+    "close_time": 1627645560,
+    "close_time_dt": "2021/07/30 11:46",
+    "open_price": 0.06041,
+    "high_price": 0.06041,
+    "low_price": 0.06041,
+    "close_price": 0.06041
+  },
+  {
+    "close_time": 1627645620,
+    "close_time_dt": "2021/07/30 11:47",
+    "open_price": 0.06041,
+    "high_price": 0.06041,
+    "low_price": 0.06041,
+    "close_price": 0.06041
+  },
+  {
+    "close_time": 1627645680,
+    "close_time_dt": "2021/07/30 11:48",
+    "open_price": 0.06041,
+    "high_price": 0.06041,
+    "low_price": 0.0604,
+    "close_price": 0.06041
+  },
+  {
+    "close_time": 1627645740,
+    "close_time_dt": "2021/07/30 11:49",
+    "open_price": 0.06042,
+    "high_price": 0.06043,
+    "low_price": 0.06042,
+    "close_price": 0.06043
+  },
+  {
+    "close_time": 1627645860,
+    "close_time_dt": "2021/07/30 11:51",
+    "open_price": 0.06043,
+    "high_price": 0.06043,
+    "low_price": 0.06042,
+    "close_price": 0.06042
+  },
+  {
+    "close_time": 1627645980,
+    "close_time_dt": "2021/07/30 11:53",
+    "open_price": 0.06042,
+    "high_price": 0.06042,
+    "low_price": 0.06036,
+    "close_price": 0.06036
+  },
+  {
+    "close_time": 1627646040,
+    "close_time_dt": "2021/07/30 11:54",
+    "open_price": 0.06038,
+    "high_price": 0.06039,
+    "low_price": 0.06038,
+    "close_price": 0.06039
+  },
+  {
+    "close_time": 1627646100,
+    "close_time_dt": "2021/07/30 11:55",
+    "open_price": 0.06043,
+    "high_price": 0.06043,
+    "low_price": 0.06043,
+    "close_price": 0.06043
+  },
+  {
+    "close_time": 1627646280,
+    "close_time_dt": "2021/07/30 11:58",
+    "open_price": 0.06041,
+    "high_price": 0.06043,
+    "low_price": 0.06041,
+    "close_price": 0.06043
+  },
+  {
+    "close_time": 1627646340,
+    "close_time_dt": "2021/07/30 11:59",
+    "open_price": 0.0604,
+    "high_price": 0.0604,
+    "low_price": 0.0604,
+    "close_price": 0.0604
+  },
+  {
+    "close_time": 1627646460,
+    "close_time_dt": "2021/07/30 12:01",
+    "open_price": 0.06041,
+    "high_price": 0.06044,
+    "low_price": 0.06041,
+    "close_price": 0.06044
+  },
+  {
+    "close_time": 1627646580,
+    "close_time_dt": "2021/07/30 12:03",
+    "open_price": 0.06041,
+    "high_price": 0.06046,
+    "low_price": 0.06041,
+    "close_price": 0.06045
+  },
+  {
+    "close_time": 1627646700,
+    "close_time_dt": "2021/07/30 12:05",
+    "open_price": 0.06043,
+    "high_price": 0.06043,
+    "low_price": 0.06043,
+    "close_price": 0.06043
+  },
+  {
+    "close_time": 1627646760,
+    "close_time_dt": "2021/07/30 12:06",
+    "open_price": 0.06042,
+    "high_price": 0.06043,
+    "low_price": 0.06042,
+    "close_price": 0.06043
+  },
+  {
+    "close_time": 1627647000,
+    "close_time_dt": "2021/07/30 12:10",
+    "open_price": 0.06043,
+    "high_price": 0.06043,
+    "low_price": 0.06043,
+    "close_price": 0.06043
+  },
+  {
+    "close_time": 1627647120,
+    "close_time_dt": "2021/07/30 12:12",
+    "open_price": 0.06044,
+    "high_price": 0.06045,
+    "low_price": 0.06043,
+    "close_price": 0.06043
+  },
+  {
+    "close_time": 1627647180,
+    "close_time_dt": "2021/07/30 12:13",
+    "open_price": 0.06045,
+    "high_price": 0.06046,
+    "low_price": 0.06044,
+    "close_price": 0.06044
+  },
+  {
+    "close_time": 1627647300,
+    "close_time_dt": "2021/07/30 12:15",
+    "open_price": 0.06044,
+    "high_price": 0.06044,
+    "low_price": 0.06043,
+    "close_price": 0.06043
+  },
+  {
+    "close_time": 1627647360,
+    "close_time_dt": "2021/07/30 12:16",
+    "open_price": 0.06044,
+    "high_price": 0.06049,
+    "low_price": 0.06044,
+    "close_price": 0.06049
+  },
+  {
+    "close_time": 1627647420,
+    "close_time_dt": "2021/07/30 12:17",
+    "open_price": 0.06044,
+    "high_price": 0.06044,
+    "low_price": 0.06044,
+    "close_price": 0.06044
+  },
+  {
+    "close_time": 1627647480,
+    "close_time_dt": "2021/07/30 12:18",
+    "open_price": 0.06043,
+    "high_price": 0.06043,
+    "low_price": 0.06043,
+    "close_price": 0.06043
+  },
+  {
+    "close_time": 1627647540,
+    "close_time_dt": "2021/07/30 12:19",
+    "open_price": 0.06043,
+    "high_price": 0.06043,
+    "low_price": 0.06043,
+    "close_price": 0.06043
+  },
+  {
+    "close_time": 1627647600,
+    "close_time_dt": "2021/07/30 12:20",
+    "open_price": 0.06038,
+    "high_price": 0.06038,
+    "low_price": 0.06038,
+    "close_price": 0.06038
+  },
+  {
+    "close_time": 1627647660,
+    "close_time_dt": "2021/07/30 12:21",
+    "open_price": 0.06037,
+    "high_price": 0.06037,
+    "low_price": 0.06036,
+    "close_price": 0.06036
+  },
+  {
+    "close_time": 1627647720,
+    "close_time_dt": "2021/07/30 12:22",
+    "open_price": 0.06037,
+    "high_price": 0.06037,
+    "low_price": 0.06037,
+    "close_price": 0.06037
+  },
+  {
+    "close_time": 1627647780,
+    "close_time_dt": "2021/07/30 12:23",
+    "open_price": 0.06036,
+    "high_price": 0.06036,
+    "low_price": 0.06036,
+    "close_price": 0.06036
+  },
+  {
+    "close_time": 1627647840,
+    "close_time_dt": "2021/07/30 12:24",
+    "open_price": 0.06037,
+    "high_price": 0.06037,
+    "low_price": 0.06037,
+    "close_price": 0.06037
+  },
+  {
+    "close_time": 1627647900,
+    "close_time_dt": "2021/07/30 12:25",
+    "open_price": 0.06037,
+    "high_price": 0.06037,
+    "low_price": 0.06036,
+    "close_price": 0.06036
+  },
+  {
+    "close_time": 1627647960,
+    "close_time_dt": "2021/07/30 12:26",
+    "open_price": 0.06037,
+    "high_price": 0.06037,
+    "low_price": 0.06036,
+    "close_price": 0.06036
+  },
+  {
+    "close_time": 1627648020,
+    "close_time_dt": "2021/07/30 12:27",
+    "open_price": 0.06034,
+    "high_price": 0.06034,
+    "low_price": 0.06031,
+    "close_price": 0.06031
+  },
+  {
+    "close_time": 1627648200,
+    "close_time_dt": "2021/07/30 12:30",
+    "open_price": 0.06029,
+    "high_price": 0.06029,
+    "low_price": 0.06029,
+    "close_price": 0.06029
+  },
+  {
+    "close_time": 1627648320,
+    "close_time_dt": "2021/07/30 12:32",
+    "open_price": 0.06028,
+    "high_price": 0.06028,
+    "low_price": 0.06027,
+    "close_price": 0.06027
+  },
+  {
+    "close_time": 1627648380,
+    "close_time_dt": "2021/07/30 12:33",
+    "open_price": 0.06028,
+    "high_price": 0.06028,
+    "low_price": 0.06024,
+    "close_price": 0.06024
+  },
+  {
+    "close_time": 1627648500,
+    "close_time_dt": "2021/07/30 12:35",
+    "open_price": 0.06024,
+    "high_price": 0.06024,
+    "low_price": 0.06024,
+    "close_price": 0.06024
+  },
+  {
+    "close_time": 1627648620,
+    "close_time_dt": "2021/07/30 12:37",
+    "open_price": 0.06024,
+    "high_price": 0.06024,
+    "low_price": 0.06024,
+    "close_price": 0.06024
+  },
+  {
+    "close_time": 1627648740,
+    "close_time_dt": "2021/07/30 12:39",
+    "open_price": 0.06028,
+    "high_price": 0.06028,
+    "low_price": 0.06028,
+    "close_price": 0.06028
+  },
+  {
+    "close_time": 1627648800,
+    "close_time_dt": "2021/07/30 12:40",
+    "open_price": 0.06028,
+    "high_price": 0.06028,
+    "low_price": 0.06028,
+    "close_price": 0.06028
+  },
+  {
+    "close_time": 1627648860,
+    "close_time_dt": "2021/07/30 12:41",
+    "open_price": 0.06031,
+    "high_price": 0.06031,
+    "low_price": 0.0603,
+    "close_price": 0.0603
+  },
+  {
+    "close_time": 1627648920,
+    "close_time_dt": "2021/07/30 12:42",
+    "open_price": 0.06026,
+    "high_price": 0.06026,
+    "low_price": 0.06026,
+    "close_price": 0.06026
+  },
+  {
+    "close_time": 1627649220,
+    "close_time_dt": "2021/07/30 12:47",
+    "open_price": 0.06028,
+    "high_price": 0.06028,
+    "low_price": 0.06028,
+    "close_price": 0.06028
+  },
+  {
+    "close_time": 1627649280,
+    "close_time_dt": "2021/07/30 12:48",
+    "open_price": 0.06027,
+    "high_price": 0.06027,
+    "low_price": 0.06027,
+    "close_price": 0.06027
+  },
+  {
+    "close_time": 1627649520,
+    "close_time_dt": "2021/07/30 12:52",
+    "open_price": 0.0603,
+    "high_price": 0.0603,
+    "low_price": 0.0603,
+    "close_price": 0.0603
+  },
+  {
+    "close_time": 1627649580,
+    "close_time_dt": "2021/07/30 12:53",
+    "open_price": 0.06028,
+    "high_price": 0.06028,
+    "low_price": 0.06028,
+    "close_price": 0.06028
+  },
+  {
+    "close_time": 1627649700,
+    "close_time_dt": "2021/07/30 12:55",
+    "open_price": 0.06027,
+    "high_price": 0.06027,
+    "low_price": 0.06027,
+    "close_price": 0.06027
+  },
+  {
+    "close_time": 1627649880,
+    "close_time_dt": "2021/07/30 12:58",
+    "open_price": 0.06029,
+    "high_price": 0.06029,
+    "low_price": 0.06026,
+    "close_price": 0.06026
+  },
+  {
+    "close_time": 1627650060,
+    "close_time_dt": "2021/07/30 13:01",
+    "open_price": 0.06028,
+    "high_price": 0.06028,
+    "low_price": 0.06027,
+    "close_price": 0.06027
+  },
+  {
+    "close_time": 1627650120,
+    "close_time_dt": "2021/07/30 13:02",
+    "open_price": 0.0603,
+    "high_price": 0.0603,
+    "low_price": 0.06027,
+    "close_price": 0.06027
+  },
+  {
+    "close_time": 1627650180,
+    "close_time_dt": "2021/07/30 13:03",
+    "open_price": 0.06027,
+    "high_price": 0.06027,
+    "low_price": 0.06025,
+    "close_price": 0.06025
+  },
+  {
+    "close_time": 1627650240,
+    "close_time_dt": "2021/07/30 13:04",
+    "open_price": 0.06024,
+    "high_price": 0.06026,
+    "low_price": 0.06024,
+    "close_price": 0.06026
+  },
+  {
+    "close_time": 1627650300,
+    "close_time_dt": "2021/07/30 13:05",
+    "open_price": 0.06026,
+    "high_price": 0.06026,
+    "low_price": 0.06026,
+    "close_price": 0.06026
+  },
+  {
+    "close_time": 1627650480,
+    "close_time_dt": "2021/07/30 13:08",
+    "open_price": 0.06025,
+    "high_price": 0.06025,
+    "low_price": 0.06014,
+    "close_price": 0.06014
+  },
+  {
+    "close_time": 1627650540,
+    "close_time_dt": "2021/07/30 13:09",
+    "open_price": 0.06016,
+    "high_price": 0.06016,
+    "low_price": 0.06016,
+    "close_price": 0.06016
+  },
+  {
+    "close_time": 1627650600,
+    "close_time_dt": "2021/07/30 13:10",
+    "open_price": 0.06015,
+    "high_price": 0.06015,
+    "low_price": 0.06014,
+    "close_price": 0.06014
+  },
+  {
+    "close_time": 1627650660,
+    "close_time_dt": "2021/07/30 13:11",
+    "open_price": 0.06014,
+    "high_price": 0.06014,
+    "low_price": 0.06011,
+    "close_price": 0.06011
+  },
+  {
+    "close_time": 1627650780,
+    "close_time_dt": "2021/07/30 13:13",
+    "open_price": 0.06014,
+    "high_price": 0.06014,
+    "low_price": 0.06014,
+    "close_price": 0.06014
+  },
+  {
+    "close_time": 1627650840,
+    "close_time_dt": "2021/07/30 13:14",
+    "open_price": 0.06014,
+    "high_price": 0.06015,
+    "low_price": 0.06014,
+    "close_price": 0.06015
+  },
+  {
+    "close_time": 1627650960,
+    "close_time_dt": "2021/07/30 13:16",
+    "open_price": 0.06015,
+    "high_price": 0.06016,
+    "low_price": 0.06014,
+    "close_price": 0.06014
+  },
+  {
+    "close_time": 1627651320,
+    "close_time_dt": "2021/07/30 13:22",
+    "open_price": 0.06017,
+    "high_price": 0.06017,
+    "low_price": 0.06017,
+    "close_price": 0.06017
+  },
+  {
+    "close_time": 1627651440,
+    "close_time_dt": "2021/07/30 13:24",
+    "open_price": 0.06018,
+    "high_price": 0.06019,
+    "low_price": 0.06018,
+    "close_price": 0.06019
+  },
+  {
+    "close_time": 1627651500,
+    "close_time_dt": "2021/07/30 13:25",
+    "open_price": 0.06022,
+    "high_price": 0.06022,
+    "low_price": 0.06021,
+    "close_price": 0.06022
+  },
+  {
+    "close_time": 1627651560,
+    "close_time_dt": "2021/07/30 13:26",
+    "open_price": 0.06021,
+    "high_price": 0.06024,
+    "low_price": 0.06021,
+    "close_price": 0.06024
+  },
+  {
+    "close_time": 1627651620,
+    "close_time_dt": "2021/07/30 13:27",
+    "open_price": 0.06024,
+    "high_price": 0.06024,
+    "low_price": 0.06023,
+    "close_price": 0.06024
+  },
+  {
+    "close_time": 1627651920,
+    "close_time_dt": "2021/07/30 13:32",
+    "open_price": 0.06029,
+    "high_price": 0.06029,
+    "low_price": 0.06029,
+    "close_price": 0.06029
+  },
+  {
+    "close_time": 1627652220,
+    "close_time_dt": "2021/07/30 13:37",
+    "open_price": 0.06028,
+    "high_price": 0.06028,
+    "low_price": 0.06028,
+    "close_price": 0.06028
+  },
+  {
+    "close_time": 1627652280,
+    "close_time_dt": "2021/07/30 13:38",
+    "open_price": 0.06033,
+    "high_price": 0.06033,
+    "low_price": 0.06033,
+    "close_price": 0.06033
+  },
+  {
+    "close_time": 1627652520,
+    "close_time_dt": "2021/07/30 13:42",
+    "open_price": 0.0603,
+    "high_price": 0.0603,
+    "low_price": 0.0603,
+    "close_price": 0.0603
+  },
+  {
+    "close_time": 1627652820,
+    "close_time_dt": "2021/07/30 13:47",
+    "open_price": 0.06029,
+    "high_price": 0.06029,
+    "low_price": 0.06029,
+    "close_price": 0.06029
+  },
+  {
+    "close_time": 1627652880,
+    "close_time_dt": "2021/07/30 13:48",
+    "open_price": 0.06029,
+    "high_price": 0.06029,
+    "low_price": 0.06029,
+    "close_price": 0.06029
+  },
+  {
+    "close_time": 1627653060,
+    "close_time_dt": "2021/07/30 13:51",
+    "open_price": 0.06028,
+    "high_price": 0.06029,
+    "low_price": 0.06028,
+    "close_price": 0.06029
+  },
+  {
+    "close_time": 1627653240,
+    "close_time_dt": "2021/07/30 13:54",
+    "open_price": 0.06026,
+    "high_price": 0.06026,
+    "low_price": 0.06023,
+    "close_price": 0.06023
+  },
+  {
+    "close_time": 1627653360,
+    "close_time_dt": "2021/07/30 13:56",
+    "open_price": 0.06022,
+    "high_price": 0.06022,
+    "low_price": 0.06022,
+    "close_price": 0.06022
+  },
+  {
+    "close_time": 1627653480,
+    "close_time_dt": "2021/07/30 13:58",
+    "open_price": 0.06021,
+    "high_price": 0.06021,
+    "low_price": 0.06018,
+    "close_price": 0.06018
+  },
+  {
+    "close_time": 1627653600,
+    "close_time_dt": "2021/07/30 14:00",
+    "open_price": 0.06021,
+    "high_price": 0.06022,
+    "low_price": 0.06021,
+    "close_price": 0.06022
+  },
+  {
+    "close_time": 1627653660,
+    "close_time_dt": "2021/07/30 14:01",
+    "open_price": 0.06021,
+    "high_price": 0.06021,
+    "low_price": 0.06019,
+    "close_price": 0.06019
+  },
+  {
+    "close_time": 1627653720,
+    "close_time_dt": "2021/07/30 14:02",
+    "open_price": 0.06017,
+    "high_price": 0.06017,
+    "low_price": 0.06017,
+    "close_price": 0.06017
+  },
+  {
+    "close_time": 1627653960,
+    "close_time_dt": "2021/07/30 14:06",
+    "open_price": 0.06018,
+    "high_price": 0.06018,
+    "low_price": 0.06018,
+    "close_price": 0.06018
+  },
+  {
+    "close_time": 1627654020,
+    "close_time_dt": "2021/07/30 14:07",
+    "open_price": 0.06016,
+    "high_price": 0.06016,
+    "low_price": 0.06012,
+    "close_price": 0.06012
+  },
+  {
+    "close_time": 1627654140,
+    "close_time_dt": "2021/07/30 14:09",
+    "open_price": 0.06012,
+    "high_price": 0.06013,
+    "low_price": 0.06012,
+    "close_price": 0.06013
+  },
+  {
+    "close_time": 1627654200,
+    "close_time_dt": "2021/07/30 14:10",
+    "open_price": 0.06021,
+    "high_price": 0.06021,
+    "low_price": 0.06021,
+    "close_price": 0.06021
+  },
+  {
+    "close_time": 1627654380,
+    "close_time_dt": "2021/07/30 14:13",
+    "open_price": 0.06022,
+    "high_price": 0.06022,
+    "low_price": 0.06022,
+    "close_price": 0.06022
+  },
+  {
+    "close_time": 1627654440,
+    "close_time_dt": "2021/07/30 14:14",
+    "open_price": 0.06025,
+    "high_price": 0.06025,
+    "low_price": 0.06025,
+    "close_price": 0.06025
+  },
+  {
+    "close_time": 1627654620,
+    "close_time_dt": "2021/07/30 14:17",
+    "open_price": 0.06022,
+    "high_price": 0.06022,
+    "low_price": 0.06022,
+    "close_price": 0.06022
+  },
+  {
+    "close_time": 1627655040,
+    "close_time_dt": "2021/07/30 14:24",
+    "open_price": 0.06019,
+    "high_price": 0.0602,
+    "low_price": 0.06019,
+    "close_price": 0.0602
+  },
+  {
+    "close_time": 1627655100,
+    "close_time_dt": "2021/07/30 14:25",
+    "open_price": 0.06018,
+    "high_price": 0.06018,
+    "low_price": 0.06018,
+    "close_price": 0.06018
+  },
+  {
+    "close_time": 1627655220,
+    "close_time_dt": "2021/07/30 14:27",
+    "open_price": 0.06019,
+    "high_price": 0.06019,
+    "low_price": 0.06015,
+    "close_price": 0.06015
+  },
+  {
+    "close_time": 1627655340,
+    "close_time_dt": "2021/07/30 14:29",
+    "open_price": 0.06015,
+    "high_price": 0.06015,
+    "low_price": 0.06015,
+    "close_price": 0.06015
+  },
+  {
+    "close_time": 1627655400,
+    "close_time_dt": "2021/07/30 14:30",
+    "open_price": 0.06016,
+    "high_price": 0.06016,
+    "low_price": 0.06016,
+    "close_price": 0.06016
+  },
+  {
+    "close_time": 1627655460,
+    "close_time_dt": "2021/07/30 14:31",
+    "open_price": 0.06014,
+    "high_price": 0.06014,
+    "low_price": 0.06014,
+    "close_price": 0.06014
+  },
+  {
+    "close_time": 1627655520,
+    "close_time_dt": "2021/07/30 14:32",
+    "open_price": 0.06014,
+    "high_price": 0.06015,
+    "low_price": 0.06013,
+    "close_price": 0.06015
+  },
+  {
+    "close_time": 1627655580,
+    "close_time_dt": "2021/07/30 14:33",
+    "open_price": 0.06011,
+    "high_price": 0.06011,
+    "low_price": 0.0601,
+    "close_price": 0.0601
+  },
+  {
+    "close_time": 1627655700,
+    "close_time_dt": "2021/07/30 14:35",
+    "open_price": 0.06009,
+    "high_price": 0.06009,
+    "low_price": 0.06008,
+    "close_price": 0.06008
+  },
+  {
+    "close_time": 1627655760,
+    "close_time_dt": "2021/07/30 14:36",
+    "open_price": 0.06007,
+    "high_price": 0.06007,
+    "low_price": 0.06006,
+    "close_price": 0.06006
+  },
+  {
+    "close_time": 1627655940,
+    "close_time_dt": "2021/07/30 14:39",
+    "open_price": 0.06006,
+    "high_price": 0.06006,
+    "low_price": 0.06006,
+    "close_price": 0.06006
+  },
+  {
+    "close_time": 1627656060,
+    "close_time_dt": "2021/07/30 14:41",
+    "open_price": 0.06005,
+    "high_price": 0.06005,
+    "low_price": 0.06002,
+    "close_price": 0.06002
+  },
+  {
+    "close_time": 1627656120,
+    "close_time_dt": "2021/07/30 14:42",
+    "open_price": 0.06002,
+    "high_price": 0.06002,
+    "low_price": 0.06002,
+    "close_price": 0.06002
+  },
+  {
+    "close_time": 1627656180,
+    "close_time_dt": "2021/07/30 14:43",
+    "open_price": 0.06007,
+    "high_price": 0.06007,
+    "low_price": 0.06007,
+    "close_price": 0.06007
+  },
+  {
+    "close_time": 1627656420,
+    "close_time_dt": "2021/07/30 14:47",
+    "open_price": 0.06002,
+    "high_price": 0.06002,
+    "low_price": 0.06002,
+    "close_price": 0.06002
+  },
+  {
+    "close_time": 1627656480,
+    "close_time_dt": "2021/07/30 14:48",
+    "open_price": 0.06002,
+    "high_price": 0.06002,
+    "low_price": 0.05989,
+    "close_price": 0.05989
+  },
+  {
+    "close_time": 1627656660,
+    "close_time_dt": "2021/07/30 14:51",
+    "open_price": 0.05993,
+    "high_price": 0.05993,
+    "low_price": 0.05993,
+    "close_price": 0.05993
+  },
+  {
+    "close_time": 1627656720,
+    "close_time_dt": "2021/07/30 14:52",
+    "open_price": 0.05997,
+    "high_price": 0.05997,
+    "low_price": 0.05997,
+    "close_price": 0.05997
+  },
+  {
+    "close_time": 1627656780,
+    "close_time_dt": "2021/07/30 14:53",
+    "open_price": 0.05996,
+    "high_price": 0.05996,
+    "low_price": 0.05994,
+    "close_price": 0.05995
+  },
+  {
+    "close_time": 1627656960,
+    "close_time_dt": "2021/07/30 14:56",
+    "open_price": 0.05995,
+    "high_price": 0.05995,
+    "low_price": 0.05995,
+    "close_price": 0.05995
+  },
+  {
+    "close_time": 1627657140,
+    "close_time_dt": "2021/07/30 14:59",
+    "open_price": 0.05998,
+    "high_price": 0.05999,
+    "low_price": 0.05998,
+    "close_price": 0.05999
+  },
+  {
+    "close_time": 1627657260,
+    "close_time_dt": "2021/07/30 15:01",
+    "open_price": 0.05997,
+    "high_price": 0.05997,
+    "low_price": 0.05995,
+    "close_price": 0.05995
+  },
+  {
+    "close_time": 1627657380,
+    "close_time_dt": "2021/07/30 15:03",
+    "open_price": 0.05991,
+    "high_price": 0.05991,
+    "low_price": 0.0599,
+    "close_price": 0.0599
+  },
+  {
+    "close_time": 1627657440,
+    "close_time_dt": "2021/07/30 15:04",
+    "open_price": 0.0599,
+    "high_price": 0.05994,
+    "low_price": 0.0599,
+    "close_price": 0.05994
+  },
+  {
+    "close_time": 1627657500,
+    "close_time_dt": "2021/07/30 15:05",
+    "open_price": 0.05996,
+    "high_price": 0.05999,
+    "low_price": 0.05996,
+    "close_price": 0.05999
+  },
+  {
+    "close_time": 1627657560,
+    "close_time_dt": "2021/07/30 15:06",
+    "open_price": 0.06005,
+    "high_price": 0.06006,
+    "low_price": 0.06005,
+    "close_price": 0.06006
+  },
+  {
+    "close_time": 1627657620,
+    "close_time_dt": "2021/07/30 15:07",
+    "open_price": 0.06001,
+    "high_price": 0.06001,
+    "low_price": 0.06001,
+    "close_price": 0.06001
+  },
+  {
+    "close_time": 1627657920,
+    "close_time_dt": "2021/07/30 15:12",
+    "open_price": 0.05995,
+    "high_price": 0.05995,
+    "low_price": 0.05995,
+    "close_price": 0.05995
+  },
+  {
+    "close_time": 1627658220,
+    "close_time_dt": "2021/07/30 15:17",
+    "open_price": 0.05995,
+    "high_price": 0.05995,
+    "low_price": 0.05995,
+    "close_price": 0.05995
+  },
+  {
+    "close_time": 1627658280,
+    "close_time_dt": "2021/07/30 15:18",
+    "open_price": 0.05996,
+    "high_price": 0.05996,
+    "low_price": 0.05995,
+    "close_price": 0.05995
+  },
+  {
+    "close_time": 1627658460,
+    "close_time_dt": "2021/07/30 15:21",
+    "open_price": 0.05999,
+    "high_price": 0.06,
+    "low_price": 0.05999,
+    "close_price": 0.06
+  },
+  {
+    "close_time": 1627658640,
+    "close_time_dt": "2021/07/30 15:24",
+    "open_price": 0.05998,
+    "high_price": 0.05998,
+    "low_price": 0.05998,
+    "close_price": 0.05998
+  },
+  {
+    "close_time": 1627659000,
+    "close_time_dt": "2021/07/30 15:30",
+    "open_price": 0.05998,
+    "high_price": 0.05998,
+    "low_price": 0.05998,
+    "close_price": 0.05998
+  },
+  {
+    "close_time": 1627659120,
+    "close_time_dt": "2021/07/30 15:32",
+    "open_price": 0.05997,
+    "high_price": 0.05997,
+    "low_price": 0.05997,
+    "close_price": 0.05997
+  },
+  {
+    "close_time": 1627659540,
+    "close_time_dt": "2021/07/30 15:39",
+    "open_price": 0.06008,
+    "high_price": 0.06012,
+    "low_price": 0.06008,
+    "close_price": 0.06012
+  },
+  {
+    "close_time": 1627659600,
+    "close_time_dt": "2021/07/30 15:40",
+    "open_price": 0.06012,
+    "high_price": 0.06012,
+    "low_price": 0.06012,
+    "close_price": 0.06012
+  },
+  {
+    "close_time": 1627659960,
+    "close_time_dt": "2021/07/30 15:46",
+    "open_price": 0.06014,
+    "high_price": 0.06014,
+    "low_price": 0.06014,
+    "close_price": 0.06014
+  },
+  {
+    "close_time": 1627660020,
+    "close_time_dt": "2021/07/30 15:47",
+    "open_price": 0.06011,
+    "high_price": 0.06011,
+    "low_price": 0.06011,
+    "close_price": 0.06011
+  },
+  {
+    "close_time": 1627660080,
+    "close_time_dt": "2021/07/30 15:48",
+    "open_price": 0.06007,
+    "high_price": 0.06007,
+    "low_price": 0.06007,
+    "close_price": 0.06007
+  },
+  {
+    "close_time": 1627660140,
+    "close_time_dt": "2021/07/30 15:49",
+    "open_price": 0.06006,
+    "high_price": 0.06006,
+    "low_price": 0.06006,
+    "close_price": 0.06006
+  },
+  {
+    "close_time": 1627660200,
+    "close_time_dt": "2021/07/30 15:50",
+    "open_price": 0.06005,
+    "high_price": 0.06006,
+    "low_price": 0.06005,
+    "close_price": 0.06005
+  },
+  {
+    "close_time": 1627660260,
+    "close_time_dt": "2021/07/30 15:51",
+    "open_price": 0.06005,
+    "high_price": 0.06005,
+    "low_price": 0.06005,
+    "close_price": 0.06005
+  },
+  {
+    "close_time": 1627660440,
+    "close_time_dt": "2021/07/30 15:54",
+    "open_price": 0.06005,
+    "high_price": 0.06005,
+    "low_price": 0.06005,
+    "close_price": 0.06005
+  },
+  {
+    "close_time": 1627660500,
+    "close_time_dt": "2021/07/30 15:55",
+    "open_price": 0.06005,
+    "high_price": 0.06005,
+    "low_price": 0.06005,
+    "close_price": 0.06005
+  },
+  {
+    "close_time": 1627660560,
+    "close_time_dt": "2021/07/30 15:56",
+    "open_price": 0.06008,
+    "high_price": 0.06008,
+    "low_price": 0.06008,
+    "close_price": 0.06008
+  },
+  {
+    "close_time": 1627660740,
+    "close_time_dt": "2021/07/30 15:59",
+    "open_price": 0.06006,
+    "high_price": 0.06006,
+    "low_price": 0.06006,
+    "close_price": 0.06006
+  },
+  {
+    "close_time": 1627660860,
+    "close_time_dt": "2021/07/30 16:01",
+    "open_price": 0.06007,
+    "high_price": 0.06008,
+    "low_price": 0.06007,
+    "close_price": 0.06008
+  },
+  {
+    "close_time": 1627661100,
+    "close_time_dt": "2021/07/30 16:05",
+    "open_price": 0.06014,
+    "high_price": 0.06014,
+    "low_price": 0.06011,
+    "close_price": 0.06011
+  },
+  {
+    "close_time": 1627661160,
+    "close_time_dt": "2021/07/30 16:06",
+    "open_price": 0.06008,
+    "high_price": 0.06008,
+    "low_price": 0.06008,
+    "close_price": 0.06008
+  },
+  {
+    "close_time": 1627661220,
+    "close_time_dt": "2021/07/30 16:07",
+    "open_price": 0.06008,
+    "high_price": 0.06008,
+    "low_price": 0.06008,
+    "close_price": 0.06008
+  },
+  {
+    "close_time": 1627661280,
+    "close_time_dt": "2021/07/30 16:08",
+    "open_price": 0.06008,
+    "high_price": 0.06009,
+    "low_price": 0.06008,
+    "close_price": 0.06009
+  },
+  {
+    "close_time": 1627661400,
+    "close_time_dt": "2021/07/30 16:10",
+    "open_price": 0.06014,
+    "high_price": 0.06019,
+    "low_price": 0.06014,
+    "close_price": 0.06019
+  },
+  {
+    "close_time": 1627661460,
+    "close_time_dt": "2021/07/30 16:11",
+    "open_price": 0.0602,
+    "high_price": 0.06024,
+    "low_price": 0.0602,
+    "close_price": 0.06023
+  },
+  {
+    "close_time": 1627661700,
+    "close_time_dt": "2021/07/30 16:15",
+    "open_price": 0.0601,
+    "high_price": 0.0601,
+    "low_price": 0.0601,
+    "close_price": 0.0601
+  },
+  {
+    "close_time": 1627661760,
+    "close_time_dt": "2021/07/30 16:16",
+    "open_price": 0.0601,
+    "high_price": 0.0601,
+    "low_price": 0.0601,
+    "close_price": 0.0601
+  },
+  {
+    "close_time": 1627661820,
+    "close_time_dt": "2021/07/30 16:17",
+    "open_price": 0.06008,
+    "high_price": 0.06008,
+    "low_price": 0.06008,
+    "close_price": 0.06008
+  },
+  {
+    "close_time": 1627661880,
+    "close_time_dt": "2021/07/30 16:18",
+    "open_price": 0.06009,
+    "high_price": 0.06009,
+    "low_price": 0.06009,
+    "close_price": 0.06009
+  },
+  {
+    "close_time": 1627661940,
+    "close_time_dt": "2021/07/30 16:19",
+    "open_price": 0.06007,
+    "high_price": 0.06007,
+    "low_price": 0.06007,
+    "close_price": 0.06007
+  },
+  {
+    "close_time": 1627662000,
+    "close_time_dt": "2021/07/30 16:20",
+    "open_price": 0.06007,
+    "high_price": 0.06013,
+    "low_price": 0.06007,
+    "close_price": 0.06009
+  },
+  {
+    "close_time": 1627662300,
+    "close_time_dt": "2021/07/30 16:25",
+    "open_price": 0.06001,
+    "high_price": 0.06001,
+    "low_price": 0.05993,
+    "close_price": 0.05993
+  },
+  {
+    "close_time": 1627662360,
+    "close_time_dt": "2021/07/30 16:26",
+    "open_price": 0.05993,
+    "high_price": 0.05993,
+    "low_price": 0.05993,
+    "close_price": 0.05993
+  },
+  {
+    "close_time": 1627662660,
+    "close_time_dt": "2021/07/30 16:31",
+    "open_price": 0.05997,
+    "high_price": 0.05997,
+    "low_price": 0.05997,
+    "close_price": 0.05997
+  },
+  {
+    "close_time": 1627662720,
+    "close_time_dt": "2021/07/30 16:32",
+    "open_price": 0.05998,
+    "high_price": 0.05998,
+    "low_price": 0.05998,
+    "close_price": 0.05998
+  },
+  {
+    "close_time": 1627662840,
+    "close_time_dt": "2021/07/30 16:34",
+    "open_price": 0.06001,
+    "high_price": 0.06001,
+    "low_price": 0.06001,
+    "close_price": 0.06001
+  },
+  {
+    "close_time": 1627662900,
+    "close_time_dt": "2021/07/30 16:35",
+    "open_price": 0.06003,
+    "high_price": 0.06003,
+    "low_price": 0.06003,
+    "close_price": 0.06003
+  },
+  {
+    "close_time": 1627662960,
+    "close_time_dt": "2021/07/30 16:36",
+    "open_price": 0.06001,
+    "high_price": 0.06001,
+    "low_price": 0.06001,
+    "close_price": 0.06001
+  },
+  {
+    "close_time": 1627663020,
+    "close_time_dt": "2021/07/30 16:37",
+    "open_price": 0.06001,
+    "high_price": 0.06001,
+    "low_price": 0.06001,
+    "close_price": 0.06001
+  },
+  {
+    "close_time": 1627663200,
+    "close_time_dt": "2021/07/30 16:40",
+    "open_price": 0.05999,
+    "high_price": 0.05999,
+    "low_price": 0.05999,
+    "close_price": 0.05999
+  },
+  {
+    "close_time": 1627663320,
+    "close_time_dt": "2021/07/30 16:42",
+    "open_price": 0.05998,
+    "high_price": 0.05998,
+    "low_price": 0.05998,
+    "close_price": 0.05998
+  },
+  {
+    "close_time": 1627663500,
+    "close_time_dt": "2021/07/30 16:45",
+    "open_price": 0.06,
+    "high_price": 0.06,
+    "low_price": 0.06,
+    "close_price": 0.06
+  },
+  {
+    "close_time": 1627663740,
+    "close_time_dt": "2021/07/30 16:49",
+    "open_price": 0.06002,
+    "high_price": 0.06002,
+    "low_price": 0.06002,
+    "close_price": 0.06002
+  },
+  {
+    "close_time": 1627663800,
+    "close_time_dt": "2021/07/30 16:50",
+    "open_price": 0.06003,
+    "high_price": 0.06003,
+    "low_price": 0.06003,
+    "close_price": 0.06003
+  },
+  {
+    "close_time": 1627663920,
+    "close_time_dt": "2021/07/30 16:52",
+    "open_price": 0.06004,
+    "high_price": 0.06004,
+    "low_price": 0.06004,
+    "close_price": 0.06004
+  },
+  {
+    "close_time": 1627664340,
+    "close_time_dt": "2021/07/30 16:59",
+    "open_price": 0.06,
+    "high_price": 0.06,
+    "low_price": 0.06,
+    "close_price": 0.06
+  },
+  {
+    "close_time": 1627664400,
+    "close_time_dt": "2021/07/30 17:00",
+    "open_price": 0.06001,
+    "high_price": 0.06001,
+    "low_price": 0.06,
+    "close_price": 0.06
+  },
+  {
+    "close_time": 1627664460,
+    "close_time_dt": "2021/07/30 17:01",
+    "open_price": 0.06002,
+    "high_price": 0.06002,
+    "low_price": 0.06002,
+    "close_price": 0.06002
+  },
+  {
+    "close_time": 1627664520,
+    "close_time_dt": "2021/07/30 17:02",
+    "open_price": 0.05998,
+    "high_price": 0.05998,
+    "low_price": 0.05998,
+    "close_price": 0.05998
+  },
+  {
+    "close_time": 1627664760,
+    "close_time_dt": "2021/07/30 17:06",
+    "open_price": 0.06001,
+    "high_price": 0.06003,
+    "low_price": 0.06001,
+    "close_price": 0.06003
+  },
+  {
+    "close_time": 1627664940,
+    "close_time_dt": "2021/07/30 17:09",
+    "open_price": 0.06001,
+    "high_price": 0.06001,
+    "low_price": 0.06001,
+    "close_price": 0.06001
+  },
+  {
+    "close_time": 1627665060,
+    "close_time_dt": "2021/07/30 17:11",
+    "open_price": 0.06,
+    "high_price": 0.06,
+    "low_price": 0.06,
+    "close_price": 0.06
+  },
+  {
+    "close_time": 1627665120,
+    "close_time_dt": "2021/07/30 17:12",
+    "open_price": 0.05998,
+    "high_price": 0.05998,
+    "low_price": 0.05998,
+    "close_price": 0.05998
+  },
+  {
+    "close_time": 1627665180,
+    "close_time_dt": "2021/07/30 17:13",
+    "open_price": 0.05999,
+    "high_price": 0.05999,
+    "low_price": 0.05999,
+    "close_price": 0.05999
+  },
+  {
+    "close_time": 1627665240,
+    "close_time_dt": "2021/07/30 17:14",
+    "open_price": 0.05996,
+    "high_price": 0.05996,
+    "low_price": 0.05996,
+    "close_price": 0.05996
+  },
+  {
+    "close_time": 1627665360,
+    "close_time_dt": "2021/07/30 17:16",
+    "open_price": 0.05997,
+    "high_price": 0.05997,
+    "low_price": 0.05997,
+    "close_price": 0.05997
+  },
+  {
+    "close_time": 1627665480,
+    "close_time_dt": "2021/07/30 17:18",
+    "open_price": 0.05997,
+    "high_price": 0.05997,
+    "low_price": 0.05997,
+    "close_price": 0.05997
+  },
+  {
+    "close_time": 1627665540,
+    "close_time_dt": "2021/07/30 17:19",
+    "open_price": 0.06,
+    "high_price": 0.06,
+    "low_price": 0.06,
+    "close_price": 0.06
+  },
+  {
+    "close_time": 1627665600,
+    "close_time_dt": "2021/07/30 17:20",
+    "open_price": 0.06002,
+    "high_price": 0.06002,
+    "low_price": 0.06002,
+    "close_price": 0.06002
+  },
+  {
+    "close_time": 1627665660,
+    "close_time_dt": "2021/07/30 17:21",
+    "open_price": 0.06005,
+    "high_price": 0.06006,
+    "low_price": 0.06005,
+    "close_price": 0.06006
+  },
+  {
+    "close_time": 1627665780,
+    "close_time_dt": "2021/07/30 17:23",
+    "open_price": 0.06005,
+    "high_price": 0.06005,
+    "low_price": 0.06005,
+    "close_price": 0.06005
+  },
+  {
+    "close_time": 1627666020,
+    "close_time_dt": "2021/07/30 17:27",
+    "open_price": 0.06008,
+    "high_price": 0.06008,
+    "low_price": 0.06008,
+    "close_price": 0.06008
+  },
+  {
+    "close_time": 1627666320,
+    "close_time_dt": "2021/07/30 17:32",
+    "open_price": 0.06007,
+    "high_price": 0.06007,
+    "low_price": 0.06007,
+    "close_price": 0.06007
+  },
+  {
+    "close_time": 1627666380,
+    "close_time_dt": "2021/07/30 17:33",
+    "open_price": 0.06007,
+    "high_price": 0.06007,
+    "low_price": 0.06007,
+    "close_price": 0.06007
+  },
+  {
+    "close_time": 1627666440,
+    "close_time_dt": "2021/07/30 17:34",
+    "open_price": 0.06008,
+    "high_price": 0.06008,
+    "low_price": 0.06008,
+    "close_price": 0.06008
+  },
+  {
+    "close_time": 1627666500,
+    "close_time_dt": "2021/07/30 17:35",
+    "open_price": 0.06009,
+    "high_price": 0.06009,
+    "low_price": 0.06009,
+    "close_price": 0.06009
+  },
+  {
+    "close_time": 1627666800,
+    "close_time_dt": "2021/07/30 17:40",
+    "open_price": 0.06013,
+    "high_price": 0.06013,
+    "low_price": 0.06013,
+    "close_price": 0.06013
+  },
+  {
+    "close_time": 1627666860,
+    "close_time_dt": "2021/07/30 17:41",
+    "open_price": 0.06014,
+    "high_price": 0.06014,
+    "low_price": 0.06014,
+    "close_price": 0.06014
+  },
+  {
+    "close_time": 1627667040,
+    "close_time_dt": "2021/07/30 17:44",
+    "open_price": 0.06019,
+    "high_price": 0.06019,
+    "low_price": 0.06019,
+    "close_price": 0.06019
+  },
+  {
+    "close_time": 1627667100,
+    "close_time_dt": "2021/07/30 17:45",
+    "open_price": 0.06019,
+    "high_price": 0.0602,
+    "low_price": 0.06019,
+    "close_price": 0.0602
+  },
+  {
+    "close_time": 1627667340,
+    "close_time_dt": "2021/07/30 17:49",
+    "open_price": 0.0602,
+    "high_price": 0.0602,
+    "low_price": 0.0602,
+    "close_price": 0.0602
+  },
+  {
+    "close_time": 1627667400,
+    "close_time_dt": "2021/07/30 17:50",
+    "open_price": 0.0602,
+    "high_price": 0.06021,
+    "low_price": 0.0602,
+    "close_price": 0.06021
+  },
+  {
+    "close_time": 1627667460,
+    "close_time_dt": "2021/07/30 17:51",
+    "open_price": 0.06023,
+    "high_price": 0.06024,
+    "low_price": 0.06023,
+    "close_price": 0.06024
+  },
+  {
+    "close_time": 1627667520,
+    "close_time_dt": "2021/07/30 17:52",
+    "open_price": 0.06028,
+    "high_price": 0.06032,
+    "low_price": 0.06028,
+    "close_price": 0.06032
+  },
+  {
+    "close_time": 1627667640,
+    "close_time_dt": "2021/07/30 17:54",
+    "open_price": 0.0603,
+    "high_price": 0.0603,
+    "low_price": 0.06027,
+    "close_price": 0.06027
+  },
+  {
+    "close_time": 1627667700,
+    "close_time_dt": "2021/07/30 17:55",
+    "open_price": 0.06027,
+    "high_price": 0.06027,
+    "low_price": 0.06027,
+    "close_price": 0.06027
+  },
+  {
+    "close_time": 1627668120,
+    "close_time_dt": "2021/07/30 18:02",
+    "open_price": 0.06029,
+    "high_price": 0.06029,
+    "low_price": 0.06026,
+    "close_price": 0.06026
+  },
+  {
+    "close_time": 1627668300,
+    "close_time_dt": "2021/07/30 18:05",
+    "open_price": 0.06015,
+    "high_price": 0.06015,
+    "low_price": 0.06015,
+    "close_price": 0.06015
+  },
+  {
+    "close_time": 1627668360,
+    "close_time_dt": "2021/07/30 18:06",
+    "open_price": 0.06016,
+    "high_price": 0.06016,
+    "low_price": 0.06016,
+    "close_price": 0.06016
+  },
+  {
+    "close_time": 1627668480,
+    "close_time_dt": "2021/07/30 18:08",
+    "open_price": 0.06014,
+    "high_price": 0.06015,
+    "low_price": 0.06014,
+    "close_price": 0.06015
+  },
+  {
+    "close_time": 1627668660,
+    "close_time_dt": "2021/07/30 18:11",
+    "open_price": 0.06014,
+    "high_price": 0.06014,
+    "low_price": 0.06014,
+    "close_price": 0.06014
+  },
+  {
+    "close_time": 1627668720,
+    "close_time_dt": "2021/07/30 18:12",
+    "open_price": 0.06014,
+    "high_price": 0.06014,
+    "low_price": 0.06014,
+    "close_price": 0.06014
+  },
+  {
+    "close_time": 1627668780,
+    "close_time_dt": "2021/07/30 18:13",
+    "open_price": 0.06014,
+    "high_price": 0.06014,
+    "low_price": 0.06014,
+    "close_price": 0.06014
+  },
+  {
+    "close_time": 1627668900,
+    "close_time_dt": "2021/07/30 18:15",
+    "open_price": 0.06014,
+    "high_price": 0.06014,
+    "low_price": 0.06014,
+    "close_price": 0.06014
+  },
+  {
+    "close_time": 1627668960,
+    "close_time_dt": "2021/07/30 18:16",
+    "open_price": 0.06008,
+    "high_price": 0.06008,
+    "low_price": 0.06008,
+    "close_price": 0.06008
+  },
+  {
+    "close_time": 1627669140,
+    "close_time_dt": "2021/07/30 18:19",
+    "open_price": 0.06002,
+    "high_price": 0.06002,
+    "low_price": 0.06002,
+    "close_price": 0.06002
+  },
+  {
+    "close_time": 1627669200,
+    "close_time_dt": "2021/07/30 18:20",
+    "open_price": 0.06002,
+    "high_price": 0.06002,
+    "low_price": 0.06002,
+    "close_price": 0.06002
+  },
+  {
+    "close_time": 1627669260,
+    "close_time_dt": "2021/07/30 18:21",
+    "open_price": 0.06002,
+    "high_price": 0.06002,
+    "low_price": 0.06002,
+    "close_price": 0.06002
+  },
+  {
+    "close_time": 1627669320,
+    "close_time_dt": "2021/07/30 18:22",
+    "open_price": 0.06001,
+    "high_price": 0.06001,
+    "low_price": 0.05999,
+    "close_price": 0.05999
+  },
+  {
+    "close_time": 1627669380,
+    "close_time_dt": "2021/07/30 18:23",
+    "open_price": 0.06003,
+    "high_price": 0.06003,
+    "low_price": 0.06003,
+    "close_price": 0.06003
+  },
+  {
+    "close_time": 1627669440,
+    "close_time_dt": "2021/07/30 18:24",
+    "open_price": 0.06,
+    "high_price": 0.06,
+    "low_price": 0.05999,
+    "close_price": 0.06
+  },
+  {
+    "close_time": 1627669500,
+    "close_time_dt": "2021/07/30 18:25",
+    "open_price": 0.05998,
+    "high_price": 0.05998,
+    "low_price": 0.05998,
+    "close_price": 0.05998
+  },
+  {
+    "close_time": 1627669620,
+    "close_time_dt": "2021/07/30 18:27",
+    "open_price": 0.06001,
+    "high_price": 0.06001,
+    "low_price": 0.06,
+    "close_price": 0.06
+  },
+  {
+    "close_time": 1627669680,
+    "close_time_dt": "2021/07/30 18:28",
+    "open_price": 0.06002,
+    "high_price": 0.06002,
+    "low_price": 0.06002,
+    "close_price": 0.06002
+  },
+  {
+    "close_time": 1627669980,
+    "close_time_dt": "2021/07/30 18:33",
+    "open_price": 0.06004,
+    "high_price": 0.06004,
+    "low_price": 0.06004,
+    "close_price": 0.06004
+  },
+  {
+    "close_time": 1627670100,
+    "close_time_dt": "2021/07/30 18:35",
+    "open_price": 0.06005,
+    "high_price": 0.06005,
+    "low_price": 0.06005,
+    "close_price": 0.06005
+  },
+  {
+    "close_time": 1627670160,
+    "close_time_dt": "2021/07/30 18:36",
+    "open_price": 0.06006,
+    "high_price": 0.06006,
+    "low_price": 0.06006,
+    "close_price": 0.06006
+  },
+  {
+    "close_time": 1627670220,
+    "close_time_dt": "2021/07/30 18:37",
+    "open_price": 0.06006,
+    "high_price": 0.06006,
+    "low_price": 0.06005,
+    "close_price": 0.06005
+  },
+  {
+    "close_time": 1627670280,
+    "close_time_dt": "2021/07/30 18:38",
+    "open_price": 0.06003,
+    "high_price": 0.06003,
+    "low_price": 0.06003,
+    "close_price": 0.06003
+  },
+  {
+    "close_time": 1627670340,
+    "close_time_dt": "2021/07/30 18:39",
+    "open_price": 0.06002,
+    "high_price": 0.06002,
+    "low_price": 0.06002,
+    "close_price": 0.06002
+  },
+  {
+    "close_time": 1627670460,
+    "close_time_dt": "2021/07/30 18:41",
+    "open_price": 0.06001,
+    "high_price": 0.06001,
+    "low_price": 0.06001,
+    "close_price": 0.06001
+  },
+  {
+    "close_time": 1627670520,
+    "close_time_dt": "2021/07/30 18:42",
+    "open_price": 0.06001,
+    "high_price": 0.06001,
+    "low_price": 0.06001,
+    "close_price": 0.06001
+  },
+  {
+    "close_time": 1627670700,
+    "close_time_dt": "2021/07/30 18:45",
+    "open_price": 0.06002,
+    "high_price": 0.06002,
+    "low_price": 0.06002,
+    "close_price": 0.06002
+  },
+  {
+    "close_time": 1627670820,
+    "close_time_dt": "2021/07/30 18:47",
+    "open_price": 0.06001,
+    "high_price": 0.06001,
+    "low_price": 0.06001,
+    "close_price": 0.06001
+  },
+  {
+    "close_time": 1627670940,
+    "close_time_dt": "2021/07/30 18:49",
+    "open_price": 0.06002,
+    "high_price": 0.06002,
+    "low_price": 0.06002,
+    "close_price": 0.06002
+  },
+  {
+    "close_time": 1627671060,
+    "close_time_dt": "2021/07/30 18:51",
+    "open_price": 0.06002,
+    "high_price": 0.06002,
+    "low_price": 0.06002,
+    "close_price": 0.06002
+  },
+  {
+    "close_time": 1627671180,
+    "close_time_dt": "2021/07/30 18:53",
+    "open_price": 0.06002,
+    "high_price": 0.06005,
+    "low_price": 0.06002,
+    "close_price": 0.06005
+  },
+  {
+    "close_time": 1627671240,
+    "close_time_dt": "2021/07/30 18:54",
+    "open_price": 0.06006,
+    "high_price": 0.06006,
+    "low_price": 0.06006,
+    "close_price": 0.06006
+  },
+  {
+    "close_time": 1627671300,
+    "close_time_dt": "2021/07/30 18:55",
+    "open_price": 0.06005,
+    "high_price": 0.06005,
+    "low_price": 0.06005,
+    "close_price": 0.06005
+  },
+  {
+    "close_time": 1627671420,
+    "close_time_dt": "2021/07/30 18:57",
+    "open_price": 0.06005,
+    "high_price": 0.06005,
+    "low_price": 0.06005,
+    "close_price": 0.06005
+  },
+  {
+    "close_time": 1627671780,
+    "close_time_dt": "2021/07/30 19:03",
+    "open_price": 0.06006,
+    "high_price": 0.06007,
+    "low_price": 0.06006,
+    "close_price": 0.06007
+  },
+  {
+    "close_time": 1627671960,
+    "close_time_dt": "2021/07/30 19:06",
+    "open_price": 0.06007,
+    "high_price": 0.06011,
+    "low_price": 0.06007,
+    "close_price": 0.0601
+  },
+  {
+    "close_time": 1627672260,
+    "close_time_dt": "2021/07/30 19:11",
+    "open_price": 0.06011,
+    "high_price": 0.06011,
+    "low_price": 0.06011,
+    "close_price": 0.06011
+  },
+  {
+    "close_time": 1627672320,
+    "close_time_dt": "2021/07/30 19:12",
+    "open_price": 0.06008,
+    "high_price": 0.0601,
+    "low_price": 0.06008,
+    "close_price": 0.0601
+  },
+  {
+    "close_time": 1627672560,
+    "close_time_dt": "2021/07/30 19:16",
+    "open_price": 0.06007,
+    "high_price": 0.06007,
+    "low_price": 0.06001,
+    "close_price": 0.06001
+  },
+  {
+    "close_time": 1627672740,
+    "close_time_dt": "2021/07/30 19:19",
+    "open_price": 0.06008,
+    "high_price": 0.06008,
+    "low_price": 0.06008,
+    "close_price": 0.06008
+  },
+  {
+    "close_time": 1627672800,
+    "close_time_dt": "2021/07/30 19:20",
+    "open_price": 0.06009,
+    "high_price": 0.06011,
+    "low_price": 0.06009,
+    "close_price": 0.06011
+  },
+  {
+    "close_time": 1627672860,
+    "close_time_dt": "2021/07/30 19:21",
+    "open_price": 0.06019,
+    "high_price": 0.06019,
+    "low_price": 0.06019,
+    "close_price": 0.06019
+  },
+  {
+    "close_time": 1627672980,
+    "close_time_dt": "2021/07/30 19:23",
+    "open_price": 0.0602,
+    "high_price": 0.0602,
+    "low_price": 0.0602,
+    "close_price": 0.0602
+  },
+  {
+    "close_time": 1627673040,
+    "close_time_dt": "2021/07/30 19:24",
+    "open_price": 0.06021,
+    "high_price": 0.06025,
+    "low_price": 0.06021,
+    "close_price": 0.06025
+  },
+  {
+    "close_time": 1627673220,
+    "close_time_dt": "2021/07/30 19:27",
+    "open_price": 0.06019,
+    "high_price": 0.06019,
+    "low_price": 0.06019,
+    "close_price": 0.06019
+  },
+  {
+    "close_time": 1627673400,
+    "close_time_dt": "2021/07/30 19:30",
+    "open_price": 0.06016,
+    "high_price": 0.06016,
+    "low_price": 0.06014,
+    "close_price": 0.06014
+  },
+  {
+    "close_time": 1627673820,
+    "close_time_dt": "2021/07/30 19:37",
+    "open_price": 0.06006,
+    "high_price": 0.06006,
+    "low_price": 0.06006,
+    "close_price": 0.06006
+  },
+  {
+    "close_time": 1627674540,
+    "close_time_dt": "2021/07/30 19:49",
+    "open_price": 0.06008,
+    "high_price": 0.06008,
+    "low_price": 0.06008,
+    "close_price": 0.06008
+  },
+  {
+    "close_time": 1627674660,
+    "close_time_dt": "2021/07/30 19:51",
+    "open_price": 0.0601,
+    "high_price": 0.06011,
+    "low_price": 0.0601,
+    "close_price": 0.06011
+  },
+  {
+    "close_time": 1627674840,
+    "close_time_dt": "2021/07/30 19:54",
+    "open_price": 0.06009,
+    "high_price": 0.0601,
+    "low_price": 0.06009,
+    "close_price": 0.0601
+  },
+  {
+    "close_time": 1627674900,
+    "close_time_dt": "2021/07/30 19:55",
+    "open_price": 0.06008,
+    "high_price": 0.06008,
+    "low_price": 0.06004,
+    "close_price": 0.06004
+  },
+  {
+    "close_time": 1627674960,
+    "close_time_dt": "2021/07/30 19:56",
+    "open_price": 0.06003,
+    "high_price": 0.06003,
+    "low_price": 0.05993,
+    "close_price": 0.05996
+  },
+  {
+    "close_time": 1627675080,
+    "close_time_dt": "2021/07/30 19:58",
+    "open_price": 0.05994,
+    "high_price": 0.05994,
+    "low_price": 0.05987,
+    "close_price": 0.05987
+  },
+  {
+    "close_time": 1627675140,
+    "close_time_dt": "2021/07/30 19:59",
+    "open_price": 0.05987,
+    "high_price": 0.05987,
+    "low_price": 0.05983,
+    "close_price": 0.05983
+  },
+  {
+    "close_time": 1627675200,
+    "close_time_dt": "2021/07/30 20:00",
+    "open_price": 0.05983,
+    "high_price": 0.05983,
+    "low_price": 0.05968,
+    "close_price": 0.05969
+  },
+  {
+    "close_time": 1627675260,
+    "close_time_dt": "2021/07/30 20:01",
+    "open_price": 0.05969,
+    "high_price": 0.05977,
+    "low_price": 0.05969,
+    "close_price": 0.05977
+  },
+  {
+    "close_time": 1627675440,
+    "close_time_dt": "2021/07/30 20:04",
+    "open_price": 0.05982,
+    "high_price": 0.05982,
+    "low_price": 0.05982,
+    "close_price": 0.05982
+  },
+  {
+    "close_time": 1627675500,
+    "close_time_dt": "2021/07/30 20:05",
+    "open_price": 0.05986,
+    "high_price": 0.05986,
+    "low_price": 0.05986,
+    "close_price": 0.05986
+  },
+  {
+    "close_time": 1627675560,
+    "close_time_dt": "2021/07/30 20:06",
+    "open_price": 0.0598,
+    "high_price": 0.05983,
+    "low_price": 0.0598,
+    "close_price": 0.05983
+  },
+  {
+    "close_time": 1627675620,
+    "close_time_dt": "2021/07/30 20:07",
+    "open_price": 0.05984,
+    "high_price": 0.05985,
+    "low_price": 0.05984,
+    "close_price": 0.05985
+  },
+  {
+    "close_time": 1627675680,
+    "close_time_dt": "2021/07/30 20:08",
+    "open_price": 0.05992,
+    "high_price": 0.05992,
+    "low_price": 0.05989,
+    "close_price": 0.05989
+  },
+  {
+    "close_time": 1627675800,
+    "close_time_dt": "2021/07/30 20:10",
+    "open_price": 0.05995,
+    "high_price": 0.05995,
+    "low_price": 0.05994,
+    "close_price": 0.05994
+  },
+  {
+    "close_time": 1627675980,
+    "close_time_dt": "2021/07/30 20:13",
+    "open_price": 0.05977,
+    "high_price": 0.05977,
+    "low_price": 0.05977,
+    "close_price": 0.05977
+  },
+  {
+    "close_time": 1627676040,
+    "close_time_dt": "2021/07/30 20:14",
+    "open_price": 0.05977,
+    "high_price": 0.05978,
+    "low_price": 0.05977,
+    "close_price": 0.05978
+  },
+  {
+    "close_time": 1627676100,
+    "close_time_dt": "2021/07/30 20:15",
+    "open_price": 0.05981,
+    "high_price": 0.05981,
+    "low_price": 0.05981,
+    "close_price": 0.05981
+  },
+  {
+    "close_time": 1627676160,
+    "close_time_dt": "2021/07/30 20:16",
+    "open_price": 0.05982,
+    "high_price": 0.05982,
+    "low_price": 0.05982,
+    "close_price": 0.05982
+  },
+  {
+    "close_time": 1627676220,
+    "close_time_dt": "2021/07/30 20:17",
+    "open_price": 0.05977,
+    "high_price": 0.05977,
+    "low_price": 0.05977,
+    "close_price": 0.05977
+  },
+  {
+    "close_time": 1627676280,
+    "close_time_dt": "2021/07/30 20:18",
+    "open_price": 0.05972,
+    "high_price": 0.05972,
+    "low_price": 0.05968,
+    "close_price": 0.05968
+  },
+  {
+    "close_time": 1627676400,
+    "close_time_dt": "2021/07/30 20:20",
+    "open_price": 0.05971,
+    "high_price": 0.05971,
+    "low_price": 0.05971,
+    "close_price": 0.05971
+  },
+  {
+    "close_time": 1627676460,
+    "close_time_dt": "2021/07/30 20:21",
+    "open_price": 0.05973,
+    "high_price": 0.05973,
+    "low_price": 0.05973,
+    "close_price": 0.05973
+  },
+  {
+    "close_time": 1627676520,
+    "close_time_dt": "2021/07/30 20:22",
+    "open_price": 0.05971,
+    "high_price": 0.05971,
+    "low_price": 0.05971,
+    "close_price": 0.05971
+  },
+  {
+    "close_time": 1627676640,
+    "close_time_dt": "2021/07/30 20:24",
+    "open_price": 0.05967,
+    "high_price": 0.05967,
+    "low_price": 0.05965,
+    "close_price": 0.05965
+  },
+  {
+    "close_time": 1627676760,
+    "close_time_dt": "2021/07/30 20:26",
+    "open_price": 0.05969,
+    "high_price": 0.05969,
+    "low_price": 0.05969,
+    "close_price": 0.05969
+  },
+  {
+    "close_time": 1627676880,
+    "close_time_dt": "2021/07/30 20:28",
+    "open_price": 0.05968,
+    "high_price": 0.05975,
+    "low_price": 0.05968,
+    "close_price": 0.05975
+  },
+  {
+    "close_time": 1627676940,
+    "close_time_dt": "2021/07/30 20:29",
+    "open_price": 0.05977,
+    "high_price": 0.05977,
+    "low_price": 0.05975,
+    "close_price": 0.05975
+  },
+  {
+    "close_time": 1627677000,
+    "close_time_dt": "2021/07/30 20:30",
+    "open_price": 0.05971,
+    "high_price": 0.05971,
+    "low_price": 0.05971,
+    "close_price": 0.05971
+  },
+  {
+    "close_time": 1627677060,
+    "close_time_dt": "2021/07/30 20:31",
+    "open_price": 0.05965,
+    "high_price": 0.05965,
+    "low_price": 0.05963,
+    "close_price": 0.05963
+  },
+  {
+    "close_time": 1627677120,
+    "close_time_dt": "2021/07/30 20:32",
+    "open_price": 0.05964,
+    "high_price": 0.05964,
+    "low_price": 0.05963,
+    "close_price": 0.05963
+  },
+  {
+    "close_time": 1627677180,
+    "close_time_dt": "2021/07/30 20:33",
+    "open_price": 0.05963,
+    "high_price": 0.05963,
+    "low_price": 0.05963,
+    "close_price": 0.05963
+  },
+  {
+    "close_time": 1627677240,
+    "close_time_dt": "2021/07/30 20:34",
+    "open_price": 0.05963,
+    "high_price": 0.05965,
+    "low_price": 0.05963,
+    "close_price": 0.05965
+  },
+  {
+    "close_time": 1627677360,
+    "close_time_dt": "2021/07/30 20:36",
+    "open_price": 0.0597,
+    "high_price": 0.0597,
+    "low_price": 0.05966,
+    "close_price": 0.05966
+  },
+  {
+    "close_time": 1627677600,
+    "close_time_dt": "2021/07/30 20:40",
+    "open_price": 0.05966,
+    "high_price": 0.05966,
+    "low_price": 0.05966,
+    "close_price": 0.05966
+  },
+  {
+    "close_time": 1627677780,
+    "close_time_dt": "2021/07/30 20:43",
+    "open_price": 0.05967,
+    "high_price": 0.05967,
+    "low_price": 0.05967,
+    "close_price": 0.05967
+  },
+  {
+    "close_time": 1627677840,
+    "close_time_dt": "2021/07/30 20:44",
+    "open_price": 0.05969,
+    "high_price": 0.05982,
+    "low_price": 0.05969,
+    "close_price": 0.05982
+  },
+  {
+    "close_time": 1627677900,
+    "close_time_dt": "2021/07/30 20:45",
+    "open_price": 0.05983,
+    "high_price": 0.05983,
+    "low_price": 0.05983,
+    "close_price": 0.05983
+  },
+  {
+    "close_time": 1627677960,
+    "close_time_dt": "2021/07/30 20:46",
+    "open_price": 0.05983,
+    "high_price": 0.05983,
+    "low_price": 0.05983,
+    "close_price": 0.05983
+  },
+  {
+    "close_time": 1627678080,
+    "close_time_dt": "2021/07/30 20:48",
+    "open_price": 0.05987,
+    "high_price": 0.05987,
+    "low_price": 0.0598,
+    "close_price": 0.0598
+  },
+  {
+    "close_time": 1627678140,
+    "close_time_dt": "2021/07/30 20:49",
+    "open_price": 0.05979,
+    "high_price": 0.05979,
+    "low_price": 0.05977,
+    "close_price": 0.05978
+  },
+  {
+    "close_time": 1627678200,
+    "close_time_dt": "2021/07/30 20:50",
+    "open_price": 0.05975,
+    "high_price": 0.05975,
+    "low_price": 0.0594,
+    "close_price": 0.0594
+  },
+  {
+    "close_time": 1627678260,
+    "close_time_dt": "2021/07/30 20:51",
+    "open_price": 0.05942,
+    "high_price": 0.05947,
+    "low_price": 0.05935,
+    "close_price": 0.0594
+  },
+  {
+    "close_time": 1627678320,
+    "close_time_dt": "2021/07/30 20:52",
+    "open_price": 0.05939,
+    "high_price": 0.05939,
+    "low_price": 0.05865,
+    "close_price": 0.05909
+  },
+  {
+    "close_time": 1627678380,
+    "close_time_dt": "2021/07/30 20:53",
+    "open_price": 0.05899,
+    "high_price": 0.05911,
+    "low_price": 0.05899,
+    "close_price": 0.05909
+  },
+  {
+    "close_time": 1627678440,
+    "close_time_dt": "2021/07/30 20:54",
+    "open_price": 0.05908,
+    "high_price": 0.05948,
+    "low_price": 0.05908,
+    "close_price": 0.05948
+  },
+  {
+    "close_time": 1627678500,
+    "close_time_dt": "2021/07/30 20:55",
+    "open_price": 0.05949,
+    "high_price": 0.05965,
+    "low_price": 0.05927,
+    "close_price": 0.05927
+  },
+  {
+    "close_time": 1627678560,
+    "close_time_dt": "2021/07/30 20:56",
+    "open_price": 0.0593,
+    "high_price": 0.0593,
+    "low_price": 0.05919,
+    "close_price": 0.05919
+  },
+  {
+    "close_time": 1627678620,
+    "close_time_dt": "2021/07/30 20:57",
+    "open_price": 0.05932,
+    "high_price": 0.05932,
+    "low_price": 0.0593,
+    "close_price": 0.0593
+  },
+  {
+    "close_time": 1627678680,
+    "close_time_dt": "2021/07/30 20:58",
+    "open_price": 0.05937,
+    "high_price": 0.0594,
+    "low_price": 0.05937,
+    "close_price": 0.0594
+  },
+  {
+    "close_time": 1627678740,
+    "close_time_dt": "2021/07/30 20:59",
+    "open_price": 0.05937,
+    "high_price": 0.05937,
+    "low_price": 0.05933,
+    "close_price": 0.05934
+  },
+  {
+    "close_time": 1627678800,
+    "close_time_dt": "2021/07/30 21:00",
+    "open_price": 0.05939,
+    "high_price": 0.05944,
+    "low_price": 0.05939,
+    "close_price": 0.05944
+  },
+  {
+    "close_time": 1627678860,
+    "close_time_dt": "2021/07/30 21:01",
+    "open_price": 0.05947,
+    "high_price": 0.05947,
+    "low_price": 0.05941,
+    "close_price": 0.05947
+  },
+  {
+    "close_time": 1627678920,
+    "close_time_dt": "2021/07/30 21:02",
+    "open_price": 0.05945,
+    "high_price": 0.05945,
+    "low_price": 0.05945,
+    "close_price": 0.05945
+  },
+  {
+    "close_time": 1627678980,
+    "close_time_dt": "2021/07/30 21:03",
+    "open_price": 0.05943,
+    "high_price": 0.05949,
+    "low_price": 0.05943,
+    "close_price": 0.05947
+  },
+  {
+    "close_time": 1627679040,
+    "close_time_dt": "2021/07/30 21:04",
+    "open_price": 0.05945,
+    "high_price": 0.05945,
+    "low_price": 0.05944,
+    "close_price": 0.05944
+  },
+  {
+    "close_time": 1627679100,
+    "close_time_dt": "2021/07/30 21:05",
+    "open_price": 0.05951,
+    "high_price": 0.05951,
+    "low_price": 0.05948,
+    "close_price": 0.05948
+  },
+  {
+    "close_time": 1627679160,
+    "close_time_dt": "2021/07/30 21:06",
+    "open_price": 0.05952,
+    "high_price": 0.05952,
+    "low_price": 0.05951,
+    "close_price": 0.05951
+  },
+  {
+    "close_time": 1627679220,
+    "close_time_dt": "2021/07/30 21:07",
+    "open_price": 0.0595,
+    "high_price": 0.0595,
+    "low_price": 0.0595,
+    "close_price": 0.0595
+  },
+  {
+    "close_time": 1627679280,
+    "close_time_dt": "2021/07/30 21:08",
+    "open_price": 0.05951,
+    "high_price": 0.05952,
+    "low_price": 0.05951,
+    "close_price": 0.05952
+  },
+  {
+    "close_time": 1627679340,
+    "close_time_dt": "2021/07/30 21:09",
+    "open_price": 0.05951,
+    "high_price": 0.05951,
+    "low_price": 0.0595,
+    "close_price": 0.0595
+  },
+  {
+    "close_time": 1627679400,
+    "close_time_dt": "2021/07/30 21:10",
+    "open_price": 0.05951,
+    "high_price": 0.05951,
+    "low_price": 0.05944,
+    "close_price": 0.05944
+  },
+  {
+    "close_time": 1627679520,
+    "close_time_dt": "2021/07/30 21:12",
+    "open_price": 0.05943,
+    "high_price": 0.05943,
+    "low_price": 0.05935,
+    "close_price": 0.05935
+  },
+  {
+    "close_time": 1627679580,
+    "close_time_dt": "2021/07/30 21:13",
+    "open_price": 0.05934,
+    "high_price": 0.05935,
+    "low_price": 0.05928,
+    "close_price": 0.05935
+  },
+  {
+    "close_time": 1627679640,
+    "close_time_dt": "2021/07/30 21:14",
+    "open_price": 0.0593,
+    "high_price": 0.0593,
+    "low_price": 0.0593,
+    "close_price": 0.0593
+  },
+  {
+    "close_time": 1627679700,
+    "close_time_dt": "2021/07/30 21:15",
+    "open_price": 0.05931,
+    "high_price": 0.05932,
+    "low_price": 0.05927,
+    "close_price": 0.05927
+  },
+  {
+    "close_time": 1627679760,
+    "close_time_dt": "2021/07/30 21:16",
+    "open_price": 0.05932,
+    "high_price": 0.05941,
+    "low_price": 0.05932,
+    "close_price": 0.05941
+  },
+  {
+    "close_time": 1627679820,
+    "close_time_dt": "2021/07/30 21:17",
+    "open_price": 0.05952,
+    "high_price": 0.05952,
+    "low_price": 0.05952,
+    "close_price": 0.05952
+  },
+  {
+    "close_time": 1627679880,
+    "close_time_dt": "2021/07/30 21:18",
+    "open_price": 0.05936,
+    "high_price": 0.05936,
+    "low_price": 0.05936,
+    "close_price": 0.05936
+  },
+  {
+    "close_time": 1627679940,
+    "close_time_dt": "2021/07/30 21:19",
+    "open_price": 0.05939,
+    "high_price": 0.05941,
+    "low_price": 0.05939,
+    "close_price": 0.05941
+  },
+  {
+    "close_time": 1627680000,
+    "close_time_dt": "2021/07/30 21:20",
+    "open_price": 0.0594,
+    "high_price": 0.0594,
+    "low_price": 0.05939,
+    "close_price": 0.05939
+  },
+  {
+    "close_time": 1627680060,
+    "close_time_dt": "2021/07/30 21:21",
+    "open_price": 0.05939,
+    "high_price": 0.05939,
+    "low_price": 0.05939,
+    "close_price": 0.05939
+  },
+  {
+    "close_time": 1627680120,
+    "close_time_dt": "2021/07/30 21:22",
+    "open_price": 0.05935,
+    "high_price": 0.05936,
+    "low_price": 0.05935,
+    "close_price": 0.05936
+  },
+  {
+    "close_time": 1627680180,
+    "close_time_dt": "2021/07/30 21:23",
+    "open_price": 0.05939,
+    "high_price": 0.05939,
+    "low_price": 0.05939,
+    "close_price": 0.05939
+  },
+  {
+    "close_time": 1627680240,
+    "close_time_dt": "2021/07/30 21:24",
+    "open_price": 0.0594,
+    "high_price": 0.0594,
+    "low_price": 0.0594,
+    "close_price": 0.0594
+  },
+  {
+    "close_time": 1627680300,
+    "close_time_dt": "2021/07/30 21:25",
+    "open_price": 0.0594,
+    "high_price": 0.05944,
+    "low_price": 0.05939,
+    "close_price": 0.05944
+  },
+  {
+    "close_time": 1627680360,
+    "close_time_dt": "2021/07/30 21:26",
+    "open_price": 0.05945,
+    "high_price": 0.05945,
+    "low_price": 0.05945,
+    "close_price": 0.05945
+  },
+  {
+    "close_time": 1627680420,
+    "close_time_dt": "2021/07/30 21:27",
+    "open_price": 0.05945,
+    "high_price": 0.05945,
+    "low_price": 0.05945,
+    "close_price": 0.05945
+  },
+  {
+    "close_time": 1627680480,
+    "close_time_dt": "2021/07/30 21:28",
+    "open_price": 0.05945,
+    "high_price": 0.05945,
+    "low_price": 0.05944,
+    "close_price": 0.05944
+  },
+  {
+    "close_time": 1627680540,
+    "close_time_dt": "2021/07/30 21:29",
+    "open_price": 0.0594,
+    "high_price": 0.05946,
+    "low_price": 0.0594,
+    "close_price": 0.05946
+  },
+  {
+    "close_time": 1627680600,
+    "close_time_dt": "2021/07/30 21:30",
+    "open_price": 0.05944,
+    "high_price": 0.05944,
+    "low_price": 0.05944,
+    "close_price": 0.05944
+  },
+  {
+    "close_time": 1627680660,
+    "close_time_dt": "2021/07/30 21:31",
+    "open_price": 0.05939,
+    "high_price": 0.05939,
+    "low_price": 0.05939,
+    "close_price": 0.05939
+  },
+  {
+    "close_time": 1627680720,
+    "close_time_dt": "2021/07/30 21:32",
+    "open_price": 0.05935,
+    "high_price": 0.05935,
+    "low_price": 0.05924,
+    "close_price": 0.05924
+  },
+  {
+    "close_time": 1627680780,
+    "close_time_dt": "2021/07/30 21:33",
+    "open_price": 0.05923,
+    "high_price": 0.05923,
+    "low_price": 0.05913,
+    "close_price": 0.05923
+  },
+  {
+    "close_time": 1627680840,
+    "close_time_dt": "2021/07/30 21:34",
+    "open_price": 0.05931,
+    "high_price": 0.05931,
+    "low_price": 0.05931,
+    "close_price": 0.05931
+  },
+  {
+    "close_time": 1627680900,
+    "close_time_dt": "2021/07/30 21:35",
+    "open_price": 0.05926,
+    "high_price": 0.05926,
+    "low_price": 0.05926,
+    "close_price": 0.05926
+  },
+  {
+    "close_time": 1627680960,
+    "close_time_dt": "2021/07/30 21:36",
+    "open_price": 0.05915,
+    "high_price": 0.0592,
+    "low_price": 0.05915,
+    "close_price": 0.0592
+  },
+  {
+    "close_time": 1627681020,
+    "close_time_dt": "2021/07/30 21:37",
+    "open_price": 0.05933,
+    "high_price": 0.05933,
+    "low_price": 0.05933,
+    "close_price": 0.05933
+  },
+  {
+    "close_time": 1627681080,
+    "close_time_dt": "2021/07/30 21:38",
+    "open_price": 0.05928,
+    "high_price": 0.05928,
+    "low_price": 0.05924,
+    "close_price": 0.05924
+  },
+  {
+    "close_time": 1627681140,
+    "close_time_dt": "2021/07/30 21:39",
+    "open_price": 0.05923,
+    "high_price": 0.05923,
+    "low_price": 0.05923,
+    "close_price": 0.05923
+  },
+  {
+    "close_time": 1627681200,
+    "close_time_dt": "2021/07/30 21:40",
+    "open_price": 0.05921,
+    "high_price": 0.05921,
+    "low_price": 0.05904,
+    "close_price": 0.05906
+  },
+  {
+    "close_time": 1627681260,
+    "close_time_dt": "2021/07/30 21:41",
+    "open_price": 0.05908,
+    "high_price": 0.05908,
+    "low_price": 0.05903,
+    "close_price": 0.05904
+  },
+  {
+    "close_time": 1627681320,
+    "close_time_dt": "2021/07/30 21:42",
+    "open_price": 0.0591,
+    "high_price": 0.0591,
+    "low_price": 0.05907,
+    "close_price": 0.05907
+  },
+  {
+    "close_time": 1627681380,
+    "close_time_dt": "2021/07/30 21:43",
+    "open_price": 0.05907,
+    "high_price": 0.05914,
+    "low_price": 0.05907,
+    "close_price": 0.05913
+  },
+  {
+    "close_time": 1627681440,
+    "close_time_dt": "2021/07/30 21:44",
+    "open_price": 0.05909,
+    "high_price": 0.05912,
+    "low_price": 0.05909,
+    "close_price": 0.05912
+  },
+  {
+    "close_time": 1627681500,
+    "close_time_dt": "2021/07/30 21:45",
+    "open_price": 0.0591,
+    "high_price": 0.0591,
+    "low_price": 0.0591,
+    "close_price": 0.0591
+  },
+  {
+    "close_time": 1627681560,
+    "close_time_dt": "2021/07/30 21:46",
+    "open_price": 0.05916,
+    "high_price": 0.05916,
+    "low_price": 0.05915,
+    "close_price": 0.05915
+  },
+  {
+    "close_time": 1627681620,
+    "close_time_dt": "2021/07/30 21:47",
+    "open_price": 0.0592,
+    "high_price": 0.0592,
+    "low_price": 0.0592,
+    "close_price": 0.0592
+  },
+  {
+    "close_time": 1627681740,
+    "close_time_dt": "2021/07/30 21:49",
+    "open_price": 0.05923,
+    "high_price": 0.05923,
+    "low_price": 0.05923,
+    "close_price": 0.05923
+  },
+  {
+    "close_time": 1627681800,
+    "close_time_dt": "2021/07/30 21:50",
+    "open_price": 0.05928,
+    "high_price": 0.05928,
+    "low_price": 0.05928,
+    "close_price": 0.05928
+  },
+  {
+    "close_time": 1627681860,
+    "close_time_dt": "2021/07/30 21:51",
+    "open_price": 0.05936,
+    "high_price": 0.05948,
+    "low_price": 0.05936,
+    "close_price": 0.05948
+  },
+  {
+    "close_time": 1627681920,
+    "close_time_dt": "2021/07/30 21:52",
+    "open_price": 0.05949,
+    "high_price": 0.05967,
+    "low_price": 0.05948,
+    "close_price": 0.05958
+  },
+  {
+    "close_time": 1627681980,
+    "close_time_dt": "2021/07/30 21:53",
+    "open_price": 0.05959,
+    "high_price": 0.05959,
+    "low_price": 0.05939,
+    "close_price": 0.0594
+  },
+  {
+    "close_time": 1627682100,
+    "close_time_dt": "2021/07/30 21:55",
+    "open_price": 0.05941,
+    "high_price": 0.05941,
+    "low_price": 0.05941,
+    "close_price": 0.05941
+  },
+  {
+    "close_time": 1627682160,
+    "close_time_dt": "2021/07/30 21:56",
+    "open_price": 0.05935,
+    "high_price": 0.05935,
+    "low_price": 0.05933,
+    "close_price": 0.05933
+  },
+  {
+    "close_time": 1627682220,
+    "close_time_dt": "2021/07/30 21:57",
+    "open_price": 0.05929,
+    "high_price": 0.05929,
+    "low_price": 0.05929,
+    "close_price": 0.05929
+  },
+  {
+    "close_time": 1627682280,
+    "close_time_dt": "2021/07/30 21:58",
+    "open_price": 0.05935,
+    "high_price": 0.05935,
+    "low_price": 0.05933,
+    "close_price": 0.05933
+  },
+  {
+    "close_time": 1627682340,
+    "close_time_dt": "2021/07/30 21:59",
+    "open_price": 0.05928,
+    "high_price": 0.05932,
+    "low_price": 0.05928,
+    "close_price": 0.05932
+  },
+  {
+    "close_time": 1627682460,
+    "close_time_dt": "2021/07/30 22:01",
+    "open_price": 0.05928,
+    "high_price": 0.05928,
+    "low_price": 0.05928,
+    "close_price": 0.05928
+  },
+  {
+    "close_time": 1627682520,
+    "close_time_dt": "2021/07/30 22:02",
+    "open_price": 0.05928,
+    "high_price": 0.05928,
+    "low_price": 0.05927,
+    "close_price": 0.05927
+  },
+  {
+    "close_time": 1627682580,
+    "close_time_dt": "2021/07/30 22:03",
+    "open_price": 0.05928,
+    "high_price": 0.05928,
+    "low_price": 0.05923,
+    "close_price": 0.05923
+  },
+  {
+    "close_time": 1627682640,
+    "close_time_dt": "2021/07/30 22:04",
+    "open_price": 0.05924,
+    "high_price": 0.05924,
+    "low_price": 0.05921,
+    "close_price": 0.05921
+  },
+  {
+    "close_time": 1627682700,
+    "close_time_dt": "2021/07/30 22:05",
+    "open_price": 0.05922,
+    "high_price": 0.05922,
+    "low_price": 0.05917,
+    "close_price": 0.05917
+  },
+  {
+    "close_time": 1627682760,
+    "close_time_dt": "2021/07/30 22:06",
+    "open_price": 0.05917,
+    "high_price": 0.05917,
+    "low_price": 0.0591,
+    "close_price": 0.05912
+  },
+  {
+    "close_time": 1627682820,
+    "close_time_dt": "2021/07/30 22:07",
+    "open_price": 0.05911,
+    "high_price": 0.05917,
+    "low_price": 0.05911,
+    "close_price": 0.05917
+  },
+  {
+    "close_time": 1627682940,
+    "close_time_dt": "2021/07/30 22:09",
+    "open_price": 0.05923,
+    "high_price": 0.05923,
+    "low_price": 0.05918,
+    "close_price": 0.05918
+  },
+  {
+    "close_time": 1627683120,
+    "close_time_dt": "2021/07/30 22:12",
+    "open_price": 0.05918,
+    "high_price": 0.05918,
+    "low_price": 0.05918,
+    "close_price": 0.05918
+  },
+  {
+    "close_time": 1627683300,
+    "close_time_dt": "2021/07/30 22:15",
+    "open_price": 0.05917,
+    "high_price": 0.05917,
+    "low_price": 0.05917,
+    "close_price": 0.05917
+  },
+  {
+    "close_time": 1627683360,
+    "close_time_dt": "2021/07/30 22:16",
+    "open_price": 0.05916,
+    "high_price": 0.05916,
+    "low_price": 0.05908,
+    "close_price": 0.05908
+  },
+  {
+    "close_time": 1627683420,
+    "close_time_dt": "2021/07/30 22:17",
+    "open_price": 0.05908,
+    "high_price": 0.05908,
+    "low_price": 0.05893,
+    "close_price": 0.05893
+  },
+  {
+    "close_time": 1627683480,
+    "close_time_dt": "2021/07/30 22:18",
+    "open_price": 0.05895,
+    "high_price": 0.05902,
+    "low_price": 0.05895,
+    "close_price": 0.05902
+  },
+  {
+    "close_time": 1627683720,
+    "close_time_dt": "2021/07/30 22:22",
+    "open_price": 0.05911,
+    "high_price": 0.05911,
+    "low_price": 0.05911,
+    "close_price": 0.05911
+  },
+  {
+    "close_time": 1627683780,
+    "close_time_dt": "2021/07/30 22:23",
+    "open_price": 0.0591,
+    "high_price": 0.05911,
+    "low_price": 0.0591,
+    "close_price": 0.05911
+  },
+  {
+    "close_time": 1627683900,
+    "close_time_dt": "2021/07/30 22:25",
+    "open_price": 0.0591,
+    "high_price": 0.0591,
+    "low_price": 0.05908,
+    "close_price": 0.05908
+  },
+  {
+    "close_time": 1627683960,
+    "close_time_dt": "2021/07/30 22:26",
+    "open_price": 0.05908,
+    "high_price": 0.05908,
+    "low_price": 0.05908,
+    "close_price": 0.05908
+  },
+  {
+    "close_time": 1627684020,
+    "close_time_dt": "2021/07/30 22:27",
+    "open_price": 0.05907,
+    "high_price": 0.05907,
+    "low_price": 0.05907,
+    "close_price": 0.05907
+  },
+  {
+    "close_time": 1627684080,
+    "close_time_dt": "2021/07/30 22:28",
+    "open_price": 0.05909,
+    "high_price": 0.05909,
+    "low_price": 0.05909,
+    "close_price": 0.05909
+  },
+  {
+    "close_time": 1627684200,
+    "close_time_dt": "2021/07/30 22:30",
+    "open_price": 0.059,
+    "high_price": 0.059,
+    "low_price": 0.05896,
+    "close_price": 0.05896
+  },
+  {
+    "close_time": 1627684260,
+    "close_time_dt": "2021/07/30 22:31",
+    "open_price": 0.05892,
+    "high_price": 0.05895,
+    "low_price": 0.05891,
+    "close_price": 0.05895
+  },
+  {
+    "close_time": 1627684320,
+    "close_time_dt": "2021/07/30 22:32",
+    "open_price": 0.05896,
+    "high_price": 0.059,
+    "low_price": 0.05895,
+    "close_price": 0.059
+  },
+  {
+    "close_time": 1627684440,
+    "close_time_dt": "2021/07/30 22:34",
+    "open_price": 0.05905,
+    "high_price": 0.05906,
+    "low_price": 0.05905,
+    "close_price": 0.05906
+  },
+  {
+    "close_time": 1627684500,
+    "close_time_dt": "2021/07/30 22:35",
+    "open_price": 0.05906,
+    "high_price": 0.05906,
+    "low_price": 0.05906,
+    "close_price": 0.05906
+  },
+  {
+    "close_time": 1627684560,
+    "close_time_dt": "2021/07/30 22:36",
+    "open_price": 0.05907,
+    "high_price": 0.05912,
+    "low_price": 0.05907,
+    "close_price": 0.05912
+  },
+  {
+    "close_time": 1627684740,
+    "close_time_dt": "2021/07/30 22:39",
+    "open_price": 0.05914,
+    "high_price": 0.05915,
+    "low_price": 0.05914,
+    "close_price": 0.05915
+  },
+  {
+    "close_time": 1627685100,
+    "close_time_dt": "2021/07/30 22:45",
+    "open_price": 0.0592,
+    "high_price": 0.0592,
+    "low_price": 0.0592,
+    "close_price": 0.0592
+  },
+  {
+    "close_time": 1627685220,
+    "close_time_dt": "2021/07/30 22:47",
+    "open_price": 0.05919,
+    "high_price": 0.05919,
+    "low_price": 0.05919,
+    "close_price": 0.05919
+  },
+  {
+    "close_time": 1627685280,
+    "close_time_dt": "2021/07/30 22:48",
+    "open_price": 0.05918,
+    "high_price": 0.05918,
+    "low_price": 0.05915,
+    "close_price": 0.05915
+  },
+  {
+    "close_time": 1627685400,
+    "close_time_dt": "2021/07/30 22:50",
+    "open_price": 0.05913,
+    "high_price": 0.05913,
+    "low_price": 0.05908,
+    "close_price": 0.05908
+  },
+  {
+    "close_time": 1627685460,
+    "close_time_dt": "2021/07/30 22:51",
+    "open_price": 0.05905,
+    "high_price": 0.05905,
+    "low_price": 0.05905,
+    "close_price": 0.05905
+  },
+  {
+    "close_time": 1627685520,
+    "close_time_dt": "2021/07/30 22:52",
+    "open_price": 0.05902,
+    "high_price": 0.05902,
+    "low_price": 0.05901,
+    "close_price": 0.05901
+  },
+  {
+    "close_time": 1627685580,
+    "close_time_dt": "2021/07/30 22:53",
+    "open_price": 0.05901,
+    "high_price": 0.05901,
+    "low_price": 0.05901,
+    "close_price": 0.05901
+  },
+  {
+    "close_time": 1627685640,
+    "close_time_dt": "2021/07/30 22:54",
+    "open_price": 0.05901,
+    "high_price": 0.05901,
+    "low_price": 0.05901,
+    "close_price": 0.05901
+  },
+  {
+    "close_time": 1627685760,
+    "close_time_dt": "2021/07/30 22:56",
+    "open_price": 0.05904,
+    "high_price": 0.05904,
+    "low_price": 0.05904,
+    "close_price": 0.05904
+  },
+  {
+    "close_time": 1627685880,
+    "close_time_dt": "2021/07/30 22:58",
+    "open_price": 0.05901,
+    "high_price": 0.05901,
+    "low_price": 0.05894,
+    "close_price": 0.05894
+  },
+  {
+    "close_time": 1627686000,
+    "close_time_dt": "2021/07/30 23:00",
+    "open_price": 0.05893,
+    "high_price": 0.05893,
+    "low_price": 0.0589,
+    "close_price": 0.0589
+  },
+  {
+    "close_time": 1627686060,
+    "close_time_dt": "2021/07/30 23:01",
+    "open_price": 0.05897,
+    "high_price": 0.05897,
+    "low_price": 0.05897,
+    "close_price": 0.05897
+  },
+  {
+    "close_time": 1627686120,
+    "close_time_dt": "2021/07/30 23:02",
+    "open_price": 0.05891,
+    "high_price": 0.05891,
+    "low_price": 0.05891,
+    "close_price": 0.05891
+  },
+  {
+    "close_time": 1627686180,
+    "close_time_dt": "2021/07/30 23:03",
+    "open_price": 0.05897,
+    "high_price": 0.05897,
+    "low_price": 0.05897,
+    "close_price": 0.05897
+  },
+  {
+    "close_time": 1627686240,
+    "close_time_dt": "2021/07/30 23:04",
+    "open_price": 0.05895,
+    "high_price": 0.05895,
+    "low_price": 0.05895,
+    "close_price": 0.05895
+  },
+  {
+    "close_time": 1627686360,
+    "close_time_dt": "2021/07/30 23:06",
+    "open_price": 0.05895,
+    "high_price": 0.05895,
+    "low_price": 0.05895,
+    "close_price": 0.05895
+  },
+  {
+    "close_time": 1627686420,
+    "close_time_dt": "2021/07/30 23:07",
+    "open_price": 0.05895,
+    "high_price": 0.05895,
+    "low_price": 0.05895,
+    "close_price": 0.05895
+  },
+  {
+    "close_time": 1627686480,
+    "close_time_dt": "2021/07/30 23:08",
+    "open_price": 0.05895,
+    "high_price": 0.05895,
+    "low_price": 0.05895,
+    "close_price": 0.05895
+  },
+  {
+    "close_time": 1627686540,
+    "close_time_dt": "2021/07/30 23:09",
+    "open_price": 0.05895,
+    "high_price": 0.05901,
+    "low_price": 0.05895,
+    "close_price": 0.05901
+  },
+  {
+    "close_time": 1627686600,
+    "close_time_dt": "2021/07/30 23:10",
+    "open_price": 0.05902,
+    "high_price": 0.05902,
+    "low_price": 0.05902,
+    "close_price": 0.05902
+  },
+  {
+    "close_time": 1627686660,
+    "close_time_dt": "2021/07/30 23:11",
+    "open_price": 0.05904,
+    "high_price": 0.05904,
+    "low_price": 0.05903,
+    "close_price": 0.05904
+  },
+  {
+    "close_time": 1627686720,
+    "close_time_dt": "2021/07/30 23:12",
+    "open_price": 0.05898,
+    "high_price": 0.05898,
+    "low_price": 0.05898,
+    "close_price": 0.05898
+  },
+  {
+    "close_time": 1627686780,
+    "close_time_dt": "2021/07/30 23:13",
+    "open_price": 0.05899,
+    "high_price": 0.05899,
+    "low_price": 0.05899,
+    "close_price": 0.05899
+  },
+  {
+    "close_time": 1627687140,
+    "close_time_dt": "2021/07/30 23:19",
+    "open_price": 0.05893,
+    "high_price": 0.05893,
+    "low_price": 0.05893,
+    "close_price": 0.05893
+  },
+  {
+    "close_time": 1627687200,
+    "close_time_dt": "2021/07/30 23:20",
+    "open_price": 0.05893,
+    "high_price": 0.05893,
+    "low_price": 0.05893,
+    "close_price": 0.05893
+  },
+  {
+    "close_time": 1627687260,
+    "close_time_dt": "2021/07/30 23:21",
+    "open_price": 0.05896,
+    "high_price": 0.05896,
+    "low_price": 0.05896,
+    "close_price": 0.05896
+  },
+  {
+    "close_time": 1627687320,
+    "close_time_dt": "2021/07/30 23:22",
+    "open_price": 0.05897,
+    "high_price": 0.05897,
+    "low_price": 0.05897,
+    "close_price": 0.05897
+  },
+  {
+    "close_time": 1627687440,
+    "close_time_dt": "2021/07/30 23:24",
+    "open_price": 0.05902,
+    "high_price": 0.05903,
+    "low_price": 0.05902,
+    "close_price": 0.05903
+  },
+  {
+    "close_time": 1627687500,
+    "close_time_dt": "2021/07/30 23:25",
+    "open_price": 0.05897,
+    "high_price": 0.05897,
+    "low_price": 0.05881,
+    "close_price": 0.05881
+  },
+  {
+    "close_time": 1627687560,
+    "close_time_dt": "2021/07/30 23:26",
+    "open_price": 0.0588,
+    "high_price": 0.0588,
+    "low_price": 0.05874,
+    "close_price": 0.05875
+  },
+  {
+    "close_time": 1627687620,
+    "close_time_dt": "2021/07/30 23:27",
+    "open_price": 0.05878,
+    "high_price": 0.05878,
+    "low_price": 0.05878,
+    "close_price": 0.05878
+  },
+  {
+    "close_time": 1627687680,
+    "close_time_dt": "2021/07/30 23:28",
+    "open_price": 0.05875,
+    "high_price": 0.05875,
+    "low_price": 0.05872,
+    "close_price": 0.05872
+  },
+  {
+    "close_time": 1627687740,
+    "close_time_dt": "2021/07/30 23:29",
+    "open_price": 0.05871,
+    "high_price": 0.05871,
+    "low_price": 0.0587,
+    "close_price": 0.05871
+  },
+  {
+    "close_time": 1627687800,
+    "close_time_dt": "2021/07/30 23:30",
+    "open_price": 0.05875,
+    "high_price": 0.05875,
+    "low_price": 0.05871,
+    "close_price": 0.05871
+  },
+  {
+    "close_time": 1627687860,
+    "close_time_dt": "2021/07/30 23:31",
+    "open_price": 0.0587,
+    "high_price": 0.0587,
+    "low_price": 0.05865,
+    "close_price": 0.05865
+  },
+  {
+    "close_time": 1627687920,
+    "close_time_dt": "2021/07/30 23:32",
+    "open_price": 0.05865,
+    "high_price": 0.05865,
+    "low_price": 0.05864,
+    "close_price": 0.05864
+  },
+  {
+    "close_time": 1627687980,
+    "close_time_dt": "2021/07/30 23:33",
+    "open_price": 0.05864,
+    "high_price": 0.05864,
+    "low_price": 0.05851,
+    "close_price": 0.05858
+  },
+  {
+    "close_time": 1627688040,
+    "close_time_dt": "2021/07/30 23:34",
+    "open_price": 0.05862,
+    "high_price": 0.05862,
+    "low_price": 0.05862,
+    "close_price": 0.05862
+  },
+  {
+    "close_time": 1627688100,
+    "close_time_dt": "2021/07/30 23:35",
+    "open_price": 0.05857,
+    "high_price": 0.05859,
+    "low_price": 0.05857,
+    "close_price": 0.05859
+  },
+  {
+    "close_time": 1627688160,
+    "close_time_dt": "2021/07/30 23:36",
+    "open_price": 0.05861,
+    "high_price": 0.05861,
+    "low_price": 0.05858,
+    "close_price": 0.05858
+  },
+  {
+    "close_time": 1627688280,
+    "close_time_dt": "2021/07/30 23:38",
+    "open_price": 0.05857,
+    "high_price": 0.05857,
+    "low_price": 0.05857,
+    "close_price": 0.05857
+  },
+  {
+    "close_time": 1627688340,
+    "close_time_dt": "2021/07/30 23:39",
+    "open_price": 0.05859,
+    "high_price": 0.05859,
+    "low_price": 0.05859,
+    "close_price": 0.05859
+  },
+  {
+    "close_time": 1627688460,
+    "close_time_dt": "2021/07/30 23:41",
+    "open_price": 0.05858,
+    "high_price": 0.05858,
+    "low_price": 0.05858,
+    "close_price": 0.05858
+  },
+  {
+    "close_time": 1627688520,
+    "close_time_dt": "2021/07/30 23:42",
+    "open_price": 0.05857,
+    "high_price": 0.05857,
+    "low_price": 0.05857,
+    "close_price": 0.05857
+  },
+  {
+    "close_time": 1627688580,
+    "close_time_dt": "2021/07/30 23:43",
+    "open_price": 0.05858,
+    "high_price": 0.05859,
+    "low_price": 0.05858,
+    "close_price": 0.05859
+  },
+  {
+    "close_time": 1627688700,
+    "close_time_dt": "2021/07/30 23:45",
+    "open_price": 0.05859,
+    "high_price": 0.05866,
+    "low_price": 0.05859,
+    "close_price": 0.05866
+  },
+  {
+    "close_time": 1627688760,
+    "close_time_dt": "2021/07/30 23:46",
+    "open_price": 0.05863,
+    "high_price": 0.05876,
+    "low_price": 0.05863,
+    "close_price": 0.05869
+  },
+  {
+    "close_time": 1627688820,
+    "close_time_dt": "2021/07/30 23:47",
+    "open_price": 0.05876,
+    "high_price": 0.05876,
+    "low_price": 0.05866,
+    "close_price": 0.05866
+  },
+  {
+    "close_time": 1627688880,
+    "close_time_dt": "2021/07/30 23:48",
+    "open_price": 0.05867,
+    "high_price": 0.05867,
+    "low_price": 0.05867,
+    "close_price": 0.05867
+  },
+  {
+    "close_time": 1627688940,
+    "close_time_dt": "2021/07/30 23:49",
+    "open_price": 0.05869,
+    "high_price": 0.05869,
+    "low_price": 0.05869,
+    "close_price": 0.05869
+  },
+  {
+    "close_time": 1627689000,
+    "close_time_dt": "2021/07/30 23:50",
+    "open_price": 0.05866,
+    "high_price": 0.05866,
+    "low_price": 0.05866,
+    "close_price": 0.05866
+  },
+  {
+    "close_time": 1627689060,
+    "close_time_dt": "2021/07/30 23:51",
+    "open_price": 0.05867,
+    "high_price": 0.05867,
+    "low_price": 0.05864,
+    "close_price": 0.05864
+  },
+  {
+    "close_time": 1627689120,
+    "close_time_dt": "2021/07/30 23:52",
+    "open_price": 0.05868,
+    "high_price": 0.05869,
+    "low_price": 0.05868,
+    "close_price": 0.05869
+  },
+  {
+    "close_time": 1627689180,
+    "close_time_dt": "2021/07/30 23:53",
+    "open_price": 0.0587,
+    "high_price": 0.0587,
+    "low_price": 0.0587,
+    "close_price": 0.0587
+  },
+  {
+    "close_time": 1627689240,
+    "close_time_dt": "2021/07/30 23:54",
+    "open_price": 0.05863,
+    "high_price": 0.05863,
+    "low_price": 0.05863,
+    "close_price": 0.05863
+  },
+  {
+    "close_time": 1627689300,
+    "close_time_dt": "2021/07/30 23:55",
+    "open_price": 0.0586,
+    "high_price": 0.0586,
+    "low_price": 0.05853,
+    "close_price": 0.0586
+  },
+  {
+    "close_time": 1627689360,
+    "close_time_dt": "2021/07/30 23:56",
+    "open_price": 0.05857,
+    "high_price": 0.05857,
+    "low_price": 0.05856,
+    "close_price": 0.05856
+  },
+  {
+    "close_time": 1627689480,
+    "close_time_dt": "2021/07/30 23:58",
+    "open_price": 0.05854,
+    "high_price": 0.05854,
+    "low_price": 0.05852,
+    "close_price": 0.05852
+  },
+  {
+    "close_time": 1627689540,
+    "close_time_dt": "2021/07/30 23:59",
+    "open_price": 0.0585,
+    "high_price": 0.0585,
+    "low_price": 0.0584,
+    "close_price": 0.05841
+  },
+  {
+    "close_time": 1627689600,
+    "close_time_dt": "2021/07/31 00:00",
+    "open_price": 0.0584,
+    "high_price": 0.0584,
+    "low_price": 0.05837,
+    "close_price": 0.05837
+  },
+  {
+    "close_time": 1627689660,
+    "close_time_dt": "2021/07/31 00:01",
+    "open_price": 0.05837,
+    "high_price": 0.05838,
+    "low_price": 0.05817,
+    "close_price": 0.05817
+  },
+  {
+    "close_time": 1627689720,
+    "close_time_dt": "2021/07/31 00:02",
+    "open_price": 0.05819,
+    "high_price": 0.05827,
+    "low_price": 0.05816,
+    "close_price": 0.05827
+  },
+  {
+    "close_time": 1627689840,
+    "close_time_dt": "2021/07/31 00:04",
+    "open_price": 0.05828,
+    "high_price": 0.05828,
+    "low_price": 0.05828,
+    "close_price": 0.05828
+  },
+  {
+    "close_time": 1627689900,
+    "close_time_dt": "2021/07/31 00:05",
+    "open_price": 0.05826,
+    "high_price": 0.05826,
+    "low_price": 0.05826,
+    "close_price": 0.05826
+  },
+  {
+    "close_time": 1627689960,
+    "close_time_dt": "2021/07/31 00:06",
+    "open_price": 0.05838,
+    "high_price": 0.05846,
+    "low_price": 0.05838,
+    "close_price": 0.05846
+  },
+  {
+    "close_time": 1627690020,
+    "close_time_dt": "2021/07/31 00:07",
+    "open_price": 0.05847,
+    "high_price": 0.05847,
+    "low_price": 0.05847,
+    "close_price": 0.05847
+  },
+  {
+    "close_time": 1627690080,
+    "close_time_dt": "2021/07/31 00:08",
+    "open_price": 0.05853,
+    "high_price": 0.0586,
+    "low_price": 0.05853,
+    "close_price": 0.0586
+  },
+  {
+    "close_time": 1627690200,
+    "close_time_dt": "2021/07/31 00:10",
+    "open_price": 0.05858,
+    "high_price": 0.05859,
+    "low_price": 0.05858,
+    "close_price": 0.05859
+  },
+  {
+    "close_time": 1627690380,
+    "close_time_dt": "2021/07/31 00:13",
+    "open_price": 0.05855,
+    "high_price": 0.05855,
+    "low_price": 0.05847,
+    "close_price": 0.05847
+  },
+  {
+    "close_time": 1627690440,
+    "close_time_dt": "2021/07/31 00:14",
+    "open_price": 0.05845,
+    "high_price": 0.05845,
+    "low_price": 0.05844,
+    "close_price": 0.05844
+  },
+  {
+    "close_time": 1627690560,
+    "close_time_dt": "2021/07/31 00:16",
+    "open_price": 0.0585,
+    "high_price": 0.05856,
+    "low_price": 0.0585,
+    "close_price": 0.05856
+  },
+  {
+    "close_time": 1627690680,
+    "close_time_dt": "2021/07/31 00:18",
+    "open_price": 0.05858,
+    "high_price": 0.0586,
+    "low_price": 0.05858,
+    "close_price": 0.05859
+  },
+  {
+    "close_time": 1627690740,
+    "close_time_dt": "2021/07/31 00:19",
+    "open_price": 0.05858,
+    "high_price": 0.05863,
+    "low_price": 0.05858,
+    "close_price": 0.05863
+  },
+  {
+    "close_time": 1627690800,
+    "close_time_dt": "2021/07/31 00:20",
+    "open_price": 0.05863,
+    "high_price": 0.05863,
+    "low_price": 0.05863,
+    "close_price": 0.05863
+  },
+  {
+    "close_time": 1627690860,
+    "close_time_dt": "2021/07/31 00:21",
+    "open_price": 0.05864,
+    "high_price": 0.05864,
+    "low_price": 0.05864,
+    "close_price": 0.05864
+  },
+  {
+    "close_time": 1627690920,
+    "close_time_dt": "2021/07/31 00:22",
+    "open_price": 0.05864,
+    "high_price": 0.05864,
+    "low_price": 0.05864,
+    "close_price": 0.05864
+  },
+  {
+    "close_time": 1627690980,
+    "close_time_dt": "2021/07/31 00:23",
+    "open_price": 0.05865,
+    "high_price": 0.05869,
+    "low_price": 0.05865,
+    "close_price": 0.05869
+  },
+  {
+    "close_time": 1627691040,
+    "close_time_dt": "2021/07/31 00:24",
+    "open_price": 0.05869,
+    "high_price": 0.05883,
+    "low_price": 0.05869,
+    "close_price": 0.05883
+  },
+  {
+    "close_time": 1627691100,
+    "close_time_dt": "2021/07/31 00:25",
+    "open_price": 0.05876,
+    "high_price": 0.05876,
+    "low_price": 0.05876,
+    "close_price": 0.05876
+  },
+  {
+    "close_time": 1627691160,
+    "close_time_dt": "2021/07/31 00:26",
+    "open_price": 0.05877,
+    "high_price": 0.05881,
+    "low_price": 0.05876,
+    "close_price": 0.05881
+  },
+  {
+    "close_time": 1627691220,
+    "close_time_dt": "2021/07/31 00:27",
+    "open_price": 0.05877,
+    "high_price": 0.05879,
+    "low_price": 0.05877,
+    "close_price": 0.05879
+  },
+  {
+    "close_time": 1627691280,
+    "close_time_dt": "2021/07/31 00:28",
+    "open_price": 0.0588,
+    "high_price": 0.0588,
+    "low_price": 0.0588,
+    "close_price": 0.0588
+  },
+  {
+    "close_time": 1627691340,
+    "close_time_dt": "2021/07/31 00:29",
+    "open_price": 0.05881,
+    "high_price": 0.05884,
+    "low_price": 0.05881,
+    "close_price": 0.05882
+  },
+  {
+    "close_time": 1627691460,
+    "close_time_dt": "2021/07/31 00:31",
+    "open_price": 0.05879,
+    "high_price": 0.05879,
+    "low_price": 0.05879,
+    "close_price": 0.05879
+  },
+  {
+    "close_time": 1627691520,
+    "close_time_dt": "2021/07/31 00:32",
+    "open_price": 0.05878,
+    "high_price": 0.05878,
+    "low_price": 0.05873,
+    "close_price": 0.05874
+  },
+  {
+    "close_time": 1627691580,
+    "close_time_dt": "2021/07/31 00:33",
+    "open_price": 0.05872,
+    "high_price": 0.05872,
+    "low_price": 0.05871,
+    "close_price": 0.05871
+  },
+  {
+    "close_time": 1627691640,
+    "close_time_dt": "2021/07/31 00:34",
+    "open_price": 0.05871,
+    "high_price": 0.05871,
+    "low_price": 0.05871,
+    "close_price": 0.05871
+  },
+  {
+    "close_time": 1627691700,
+    "close_time_dt": "2021/07/31 00:35",
+    "open_price": 0.05871,
+    "high_price": 0.05872,
+    "low_price": 0.05871,
+    "close_price": 0.05872
+  },
+  {
+    "close_time": 1627692000,
+    "close_time_dt": "2021/07/31 00:40",
+    "open_price": 0.05876,
+    "high_price": 0.05879,
+    "low_price": 0.05876,
+    "close_price": 0.05879
+  },
+  {
+    "close_time": 1627692060,
+    "close_time_dt": "2021/07/31 00:41",
+    "open_price": 0.05877,
+    "high_price": 0.05877,
+    "low_price": 0.05876,
+    "close_price": 0.05876
+  },
+  {
+    "close_time": 1627692120,
+    "close_time_dt": "2021/07/31 00:42",
+    "open_price": 0.05877,
+    "high_price": 0.05877,
+    "low_price": 0.05875,
+    "close_price": 0.05875
+  },
+  {
+    "close_time": 1627692180,
+    "close_time_dt": "2021/07/31 00:43",
+    "open_price": 0.05874,
+    "high_price": 0.05874,
+    "low_price": 0.05874,
+    "close_price": 0.05874
+  },
+  {
+    "close_time": 1627692240,
+    "close_time_dt": "2021/07/31 00:44",
+    "open_price": 0.05875,
+    "high_price": 0.05875,
+    "low_price": 0.05875,
+    "close_price": 0.05875
+  },
+  {
+    "close_time": 1627692300,
+    "close_time_dt": "2021/07/31 00:45",
+    "open_price": 0.05873,
+    "high_price": 0.05874,
+    "low_price": 0.05873,
+    "close_price": 0.05873
+  },
+  {
+    "close_time": 1627692420,
+    "close_time_dt": "2021/07/31 00:47",
+    "open_price": 0.05871,
+    "high_price": 0.05871,
+    "low_price": 0.0587,
+    "close_price": 0.0587
+  },
+  {
+    "close_time": 1627692480,
+    "close_time_dt": "2021/07/31 00:48",
+    "open_price": 0.0587,
+    "high_price": 0.0587,
+    "low_price": 0.05869,
+    "close_price": 0.05869
+  },
+  {
+    "close_time": 1627692540,
+    "close_time_dt": "2021/07/31 00:49",
+    "open_price": 0.05872,
+    "high_price": 0.05872,
+    "low_price": 0.05868,
+    "close_price": 0.05868
+  },
+  {
+    "close_time": 1627692600,
+    "close_time_dt": "2021/07/31 00:50",
+    "open_price": 0.05867,
+    "high_price": 0.05867,
+    "low_price": 0.05866,
+    "close_price": 0.05866
+  },
+  {
+    "close_time": 1627692660,
+    "close_time_dt": "2021/07/31 00:51",
+    "open_price": 0.05871,
+    "high_price": 0.05871,
+    "low_price": 0.05871,
+    "close_price": 0.05871
+  },
+  {
+    "close_time": 1627692840,
+    "close_time_dt": "2021/07/31 00:54",
+    "open_price": 0.05873,
+    "high_price": 0.05873,
+    "low_price": 0.05873,
+    "close_price": 0.05873
+  },
+  {
+    "close_time": 1627692900,
+    "close_time_dt": "2021/07/31 00:55",
+    "open_price": 0.05873,
+    "high_price": 0.05873,
+    "low_price": 0.05873,
+    "close_price": 0.05873
+  },
+  {
+    "close_time": 1627692960,
+    "close_time_dt": "2021/07/31 00:56",
+    "open_price": 0.05871,
+    "high_price": 0.05871,
+    "low_price": 0.05871,
+    "close_price": 0.05871
+  },
+  {
+    "close_time": 1627693080,
+    "close_time_dt": "2021/07/31 00:58",
+    "open_price": 0.0587,
+    "high_price": 0.05871,
+    "low_price": 0.0587,
+    "close_price": 0.05871
+  },
+  {
+    "close_time": 1627693200,
+    "close_time_dt": "2021/07/31 01:00",
+    "open_price": 0.05869,
+    "high_price": 0.05869,
+    "low_price": 0.05867,
+    "close_price": 0.05867
+  },
+  {
+    "close_time": 1627693320,
+    "close_time_dt": "2021/07/31 01:02",
+    "open_price": 0.05867,
+    "high_price": 0.05867,
+    "low_price": 0.05867,
+    "close_price": 0.05867
+  }
+]
